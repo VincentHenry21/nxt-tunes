@@ -1,4 +1,4 @@
-const CACHE_NAME = 'nxt-tunes-v2';
+const CACHE_NAME = 'nxt-tunes-v3';
 const APP_SHELL = ['./', './index.html', './manifest.webmanifest', './icon.svg', './playlist.json', './icon-glass.svg', './icon-192.png', './icon-512.png', './apple-touch-icon.png'];
 
 self.addEventListener('install', (event) => {
@@ -25,10 +25,21 @@ self.addEventListener('fetch', (event) => {
         if (cached) return cached;
         return fetch(event.request).then((res) => {
           const clone = res.clone();
-          caches.open('nxt-audio-v2').then((c) => c.put(event.request, clone));
+          caches.open('nxt-audio-v3').then((c) => c.put(event.request, clone));
           return res;
         }).catch(() => cached);
       })
+    );
+    return;
+  }
+
+  if (event.request.mode === 'navigate' || url.pathname.endsWith('.html') || url.pathname.endsWith('/')) {
+    event.respondWith(
+      fetch(event.request).then((res) => {
+        const clone = res.clone();
+        caches.open(CACHE_NAME).then((c) => c.put(event.request, clone));
+        return res;
+      }).catch(() => caches.match(event.request).then((cached) => cached || caches.match('./index.html')))
     );
     return;
   }
