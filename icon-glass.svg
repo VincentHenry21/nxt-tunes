@@ -2,21 +2,21 @@
   <defs>
     <clipPath id="squircle"><rect x="8" y="8" width="496" height="496" rx="118"/></clipPath>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#10351f"/>
-      <stop offset="0.45" stop-color="#071a10"/>
-      <stop offset="1" stop-color="#020805"/>
+      <stop offset="0" stop-color="#351012"/>
+      <stop offset="0.45" stop-color="#1c0709"/>
+      <stop offset="1" stop-color="#0a0304"/>
     </linearGradient>
     <radialGradient id="auroraGreen" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#1ed760" stop-opacity="0.9"/>
-      <stop offset="1" stop-color="#1ed760" stop-opacity="0"/>
+      <stop offset="0" stop-color="#ff2e3e" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#ff2e3e" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="auroraTeal" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#17c3b2" stop-opacity="0.75"/>
-      <stop offset="1" stop-color="#17c3b2" stop-opacity="0"/>
+      <stop offset="0" stop-color="#ff7a45" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#ff7a45" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="auroraLime" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#b6f09c" stop-opacity="0.5"/>
-      <stop offset="1" stop-color="#b6f09c" stop-opacity="0"/>
+      <stop offset="0" stop-color="#ffc46b" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#ffc46b" stop-opacity="0"/>
     </radialGradient>
     <linearGradient id="glassSheen" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/>
@@ -25,7 +25,7 @@
     </linearGradient>
     <linearGradient id="noteGrad" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#ffffff"/>
-      <stop offset="1" stop-color="#c9f7da"/>
+      <stop offset="1" stop-color="#ffd9d9"/>
     </linearGradient>
     <filter id="blur40" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="40"/></filter>
     <filter id="blur18" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="18"/></filter>
