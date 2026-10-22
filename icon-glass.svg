@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <clipPath id="squircle"><rect x="8" y="8" width="496" height="496" rx="118"/></clipPath>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10351f"/>
+      <stop offset="0.45" stop-color="#071a10"/>
+      <stop offset="1" stop-color="#020805"/>
+    </linearGradient>
+    <radialGradient id="auroraGreen" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#1ed760" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#1ed760" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="auroraTeal" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#17c3b2" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#17c3b2" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="auroraLime" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#b6f09c" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#b6f09c" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="glassSheen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/>
+      <stop offset="0.45" stop-color="#ffffff" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="noteGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#c9f7da"/>
+    </linearGradient>
+    <filter id="blur40" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="40"/></filter>
+    <filter id="blur18" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="18"/></filter>
+    <filter id="noteShadow" x="-40%" y="-40%" width="180%" height="200%">
+      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#000000" flood-opacity="0.45"/>
+    </filter>
+  </defs>
+
+  <g clip-path="url(#squircle)">
+    <rect x="8" y="8" width="496" height="496" fill="url(#bg)"/>
+    <circle cx="400" cy="90" r="190" fill="url(#auroraGreen)" filter="url(#blur40)"/>
+    <circle cx="80" cy="430" r="180" fill="url(#auroraTeal)" filter="url(#blur40)"/>
+    <circle cx="250" cy="270" r="130" fill="url(#auroraLime)" filter="url(#blur40)" opacity="0.55"/>
+
+    <circle cx="256" cy="256" r="126" fill="#ffffff" opacity="0.10"/>
+    <circle cx="256" cy="256" r="126" fill="none" stroke="#ffffff" stroke-opacity="0.38" stroke-width="2"/>
+    <ellipse cx="256" cy="182" rx="92" ry="42" fill="#ffffff" opacity="0.14" filter="url(#blur18)"/>
+
+    <g filter="url(#noteShadow)" fill="url(#noteGrad)">
+      <path d="M226 190 L360 172 L360 224 L226 242 Z"/>
+      <rect x="226" y="190" width="15" height="146" rx="7"/>
+      <rect x="345" y="172" width="15" height="148" rx="7"/>
+      <ellipse cx="200" cy="332" rx="38" ry="28" transform="rotate(-18 200 332)"/>
+      <ellipse cx="319" cy="316" rx="38" ry="28" transform="rotate(-18 319 316)"/>
+    </g>
+
+    <rect x="8" y="8" width="496" height="250" fill="url(#glassSheen)"/>
+    <path d="M40 118 Q40 40 118 34 L394 34 Q452 36 470 84 Q360 54 250 56 Q140 58 40 118 Z" fill="#ffffff" opacity="0.16" filter="url(#blur18)"/>
+  </g>
+
+  <rect x="10" y="10" width="492" height="492" rx="116" fill="none" stroke="#ffffff" stroke-opacity="0.30" stroke-width="3"/>
+  <rect x="22" y="22" width="468" height="468" rx="106" fill="none" stroke="#ffffff" stroke-opacity="0.08" stroke-width="2"/>
+</svg>

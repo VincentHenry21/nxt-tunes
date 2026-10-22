@@ -1,5 +1,5 @@
-const CACHE_NAME = 'nxt-tunes-v1';
-const APP_SHELL = ['./', './index.html', './manifest.webmanifest', './icon.svg', './playlist.json'];
+const CACHE_NAME = 'nxt-tunes-v2';
+const APP_SHELL = ['./', './index.html', './manifest.webmanifest', './icon.svg', './playlist.json', './icon-glass.svg', './icon-192.png', './icon-512.png', './apple-touch-icon.png'];
 
 self.addEventListener('install', (event) => {
   event.waitUntil(
@@ -17,16 +17,7 @@ self.addEventListener('fetch', (event) => {
   const url = new URL(event.request.url);
   if (event.request.method !== 'GET') return;
 
-  if (url.hostname === 'api.deezer.com') {
-    event.respondWith(
-      fetch(event.request).then((res) => {
-        const clone = res.clone();
-        caches.open(CACHE_NAME).then((c) => c.put(event.request, clone));
-        return res;
-      }).catch(() => caches.match(event.request))
-    );
-    return;
-  }
+  if (url.hostname === 'api.deezer.com') return;
 
   if (url.pathname.endsWith('.mp3') || event.request.destination === 'audio') {
     event.respondWith(
@@ -34,7 +25,7 @@ self.addEventListener('fetch', (event) => {
         if (cached) return cached;
         return fetch(event.request).then((res) => {
           const clone = res.clone();
-          caches.open('nxt-audio-v1').then((c) => c.put(event.request, clone));
+          caches.open('nxt-audio-v2').then((c) => c.put(event.request, clone));
           return res;
         }).catch(() => cached);
       })

@@ -6,6 +6,8 @@
 <meta name="theme-color" content="#0a0a0a">
 <title>NXT:Tunes · MP3 Player</title>
 <link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" type="image/svg+xml" href="icon-glass.svg">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
 <link rel="icon" href="icon.svg" type="image/svg+xml">
 <style>
 *{box-sizing:border-box;margin:0;padding:0}
@@ -513,7 +515,20 @@ $('#closeQueue').addEventListener('click',()=>$('#queuePanel').classList.remove(
 $('#clearQueueBtn').addEventListener('click',()=>{ queue=currentTrack?[currentTrack]:[]; currentIndex=queue.length?0:-1; renderQueue(); toast('Queue cleared',true); });
 function renderQueue(){ const c=$('#queueList'); if(!c) return; c.innerHTML=''; if(!queue.length){ c.innerHTML='<p style="color:var(--muted);font-size:13px">Queue is empty.</p>'; return; } queue.forEach((t,i)=>{ const r=createRow(t,queue,i); if(i===currentIndex) r.style.border='1px solid #1db954'; r.addEventListener('click',()=>{ currentIndex=i; playCurrent(); }); c.appendChild(r); }); }
 
-async function fetchJSON(url){ const r=await fetch(url); if(!r.ok) throw new Error('API error'); return r.json(); }
+let _jsonpN=0;
+function fetchJSON(url){
+  return new Promise((resolve,reject)=>{
+    const cb='dzcb_'+(++_jsonpN)+'_'+Date.now();
+    const script=document.createElement('script');
+    let settled=false;
+    const cleanup=()=>{ try{ delete window[cb]; }catch(e){} script.remove(); };
+    window[cb]=(data)=>{ if(settled) return; settled=true; cleanup(); if(data && data.error){ reject(new Error('API error')); } else resolve(data); };
+    script.onerror=()=>{ if(settled) return; settled=true; cleanup(); reject(new Error('API error')); };
+    setTimeout(()=>{ if(settled) return; settled=true; cleanup(); reject(new Error('API timeout')); },15000);
+    script.src=url+(url.includes('?')?'&':'?')+'output=jsonp&callback='+cb;
+    document.head.appendChild(script);
+  });
+}
 async function loadHome(){
   try{
     const data=await fetchJSON('https://api.deezer.com/chart/0/tracks?limit=30');
