@@ -1,0 +1,276 @@
+{
+ "name": "Beach Playlist",
+ "subtitle": "Beach vibes · Perfect for Ngwe Saung",
+ "tracks": [
+  {
+   "id": "beach-1",
+   "title": "Kokomo",
+   "artist": "The Beach Boys",
+   "album": "The Very Best Of The Beach Boys: Sounds Of Summer",
+   "duration": 216,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/ab113555b056cb808b050dff43a9590a/500x500-000000-80-0-0.jpg",
+   "src": "https://cdnt-preview.dzcdn.net/api/1/1/9/d/2/0/9d2455172031b1c0d37cd59968f75a7a.mp3?hdnea=exp=1792674967~acl=/api/1/1/9/d/2/0/9d2455172031b1c0d37cd59968f75a7a.mp3*~data=user_id=0,application_id=42~hmac=08c855aa36e86088334c6f6a5ad8664d081c1ea42a3a4e893ebbe7cb86974f9f",
+   "source": "deezer-verified"
+  },
+  {
+   "id": "beach-2",
+   "title": "Good Vibrations (Remastered 2001)",
+   "artist": "The Beach Boys",
+   "album": "The Very Best Of The Beach Boys: Sounds Of Summer",
+   "duration": 215,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/ab113555b056cb808b050dff43a9590a/500x500-000000-80-0-0.jpg",
+   "src": "https://cdnt-preview.dzcdn.net/api/1/1/3/b/8/0/3b8ae26a77c0a4f808019edfb9e3a672.mp3?hdnea=exp=1792674969~acl=/api/1/1/3/b/8/0/3b8ae26a77c0a4f808019edfb9e3a672.mp3*~data=user_id=0,application_id=42~hmac=fbdc71a606d1155d9aff76d4ea2c0f6894ef4b65b7d535ffd010f49d444dd5d6",
+   "source": "deezer-verified"
+  },
+  {
+   "id": "beach-3",
+   "title": "Surfin' U.S.A. (Remastered 2001)",
+   "artist": "The Beach Boys",
+   "album": "The Very Best Of The Beach Boys: Sounds Of Summer",
+   "duration": 150,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/ab113555b056cb808b050dff43a9590a/500x500-000000-80-0-0.jpg",
+   "src": "https://cdnt-preview.dzcdn.net/api/1/1/8/9/5/0/89518305b0936d7f4cbad97f3a270350.mp3?hdnea=exp=1792674970~acl=/api/1/1/8/9/5/0/89518305b0936d7f4cbad97f3a270350.mp3*~data=user_id=0,application_id=42~hmac=38f1068ca1387937849a817b186ea33a529971ae6817339468506f65829c68b3",
+   "source": "deezer-verified"
+  },
+  {
+   "id": "beach-4",
+   "title": "Under the Boardwalk",
+   "artist": "The Drifters",
+   "album": "Under the Boardwalk",
+   "duration": 161,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/05b854a89191357edf16e9f54b1f27ab/500x500-000000-80-0-0.jpg",
+   "src": "https://cdnt-preview.dzcdn.net/api/1/1/b/e/f/0/bef714a9570e9296db00001835f50a5f.mp3?hdnea=exp=1792674972~acl=/api/1/1/b/e/f/0/bef714a9570e9296db00001835f50a5f.mp3*~data=user_id=0,application_id=42~hmac=5157655d2dee36790c6a9425f433b266a2b05cff8dbc8b25274420c1ba241340",
+   "source": "deezer-verified"
+  },
+  {
+   "id": "beach-5",
+   "title": "Escape (The Pina Colada Song)",
+   "artist": "Rupert Holmes",
+   "album": "Partners In Crime",
+   "duration": 274,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/b219acc11ae0bdecdef70e62ea32c359/500x500-000000-80-0-0.jpg",
+   "src": "https://cdnt-preview.dzcdn.net/api/1/1/4/3/6/0/4369281439c1e72ce796d2570a662201.mp3?hdnea=exp=1792674973~acl=/api/1/1/4/3/6/0/4369281439c1e72ce796d2570a662201.mp3*~data=user_id=0,application_id=42~hmac=99eca1372c27b86e21b4edf2e2ee41808a849718f26280299d2e95be0eb4b593",
+   "source": "deezer-verified"
+  },
+  {
+   "id": "beach-6",
+   "title": "Margaritaville",
+   "artist": "Jimmy Buffett",
+   "album": "Songs You Know By Heart: Jimmy Buffett's Greatest Hit(s)",
+   "duration": 249,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/7cfc9a5008337f074daa207cc7e8d6c7/500x500-000000-80-0-0.jpg",
+   "src": "https://cdnt-preview.dzcdn.net/api/1/1/8/0/c/0/80ca82a6455e5b3d3e88458ec8ca6d51.mp3?hdnea=exp=1792674975~acl=/api/1/1/8/0/c/0/80ca82a6455e5b3d3e88458ec8ca6d51.mp3*~data=user_id=0,application_id=42~hmac=53b77b39588477b78e7c2d59988fb8d8637dad2215c7372745117fa8efa5de7c",
+   "source": "deezer-verified"
+  },
+  {
+   "id": "beach-7",
+   "title": "Three Little Birds",
+   "artist": "Bob Marley & The Wailers",
+   "album": "Legend - The Best Of Bob Marley And The Wailers",
+   "duration": 183,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/c43e3b1d83e0107dfff7e4238096fe5b/500x500-000000-80-0-0.jpg",
+   "src": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/5/0/f6598530e2b027c128eb9706f48481bc.mp3?hdnea=exp=1792674977~acl=/api/1/1/f/6/5/0/f6598530e2b027c128eb9706f48481bc.mp3*~data=user_id=0,application_id=42~hmac=3f4bdd9e3a713130db516c78bfb46fdd5b18aaccdd02852f481ee9c0be8f83f5",
+   "source": "deezer-verified"
+  },
+  {
+   "id": "beach-8",
+   "title": "Is This Love",
+   "artist": "Bob Marley & The Wailers",
+   "album": "Kaya",
+   "duration": 233,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/6367879e2e914efb1a5e546c7492ca0f/500x500-000000-80-0-0.jpg",
+   "src": "https://cdnt-preview.dzcdn.net/api/1/1/e/b/3/0/eb388a65d6b8494aeceacd8adf67c8f0.mp3?hdnea=exp=1792674979~acl=/api/1/1/e/b/3/0/eb388a65d6b8494aeceacd8adf67c8f0.mp3*~data=user_id=0,application_id=42~hmac=29b7d39b72795d8d68cfb771b27e468117800a750b00361e202f2efb75b00db7",
+   "source": "deezer-verified"
+  },
+  {
+   "id": "beach-9",
+   "title": "Over the Rainbow",
+   "artist": "Israel Kamakawiwo'ole",
+   "album": "Somewhere Over the Rainbow The Best of Israel Kamakawiwo`ole",
+   "duration": 211,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/82eae07e8eda8a91ff1bcc0919807a71/500x500-000000-80-0-0.jpg",
+   "src": "https://cdnt-preview.dzcdn.net/api/1/1/1/3/c/0/13cdfe9f5dfc727a63e66f3005a4c01c.mp3?hdnea=exp=1792674980~acl=/api/1/1/1/3/c/0/13cdfe9f5dfc727a63e66f3005a4c01c.mp3*~data=user_id=0,application_id=42~hmac=0c2c4a5c53f44045b430dc7d6410dd4499ecb814f3a6cfcdfea69a4de0f9b66e",
+   "source": "deezer-verified"
+  },
+  {
+   "id": "beach-10",
+   "title": "Red Red Wine",
+   "artist": "UB40",
+   "album": "Labour Of Love",
+   "duration": 318,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/67649d26b73794c3f2ad26be81a7b343/500x500-000000-80-0-0.jpg",
+   "src": "https://cdnt-preview.dzcdn.net/api/1/1/c/4/6/0/c465e47dbe23ad57d2b37813ee6cd866.mp3?hdnea=exp=1792674982~acl=/api/1/1/c/4/6/0/c465e47dbe23ad57d2b37813ee6cd866.mp3*~data=user_id=0,application_id=42~hmac=2a353ba65179788ea8965e8d8ff976dab8d564f9026c18d53878f6f73d9fea65",
+   "source": "deezer-verified"
+  },
+  {
+   "id": "beach-11",
+   "title": "Summertime",
+   "artist": "DJ Jazzy Jeff & The Fresh Prince",
+   "album": "Greatest Hits",
+   "duration": 271,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/e06e37cd6c0b10dde07ff71b4a95fc2a/500x500-000000-80-0-0.jpg",
+   "src": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/0/0/410f9298e8302d2c3b4ba2ae9f1af4f4.mp3?hdnea=exp=1792674984~acl=/api/1/1/4/1/0/0/410f9298e8302d2c3b4ba2ae9f1af4f4.mp3*~data=user_id=0,application_id=42~hmac=f7903ccc280570f322ed40c974d6d0de475fbca928471e86a58b096daa8d1e0b",
+   "source": "deezer-verified"
+  },
+  {
+   "id": "beach-12",
+   "title": "Club Tropicana",
+   "artist": "Wham!",
+   "album": "Fantastic",
+   "duration": 267,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/76709d80f4ab2ac9c714c46affb5f731/500x500-000000-80-0-0.jpg",
+   "src": "https://cdnt-preview.dzcdn.net/api/1/1/c/c/8/0/cc832d89fdf127f47c4577dc39593d35.mp3?hdnea=exp=1792674985~acl=/api/1/1/c/c/8/0/cc832d89fdf127f47c4577dc39593d35.mp3*~data=user_id=0,application_id=42~hmac=c92261afa74d92bbefedc441aa4f6a37c6d2c46f3b40a419e3b98dd39bc71577",
+   "source": "deezer-verified"
+  },
+  {
+   "id": "beach-13",
+   "title": "La Isla Bonita",
+   "artist": "Madonna",
+   "album": "True Blue",
+   "duration": 242,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/43a8e2b1b035391f58b0927cf1040bc4/500x500-000000-80-0-0.jpg",
+   "src": "https://cdnt-preview.dzcdn.net/api/1/1/5/1/f/0/51f71747bb538c3d878471af19512df2.mp3?hdnea=exp=1792674986~acl=/api/1/1/5/1/f/0/51f71747bb538c3d878471af19512df2.mp3*~data=user_id=0,application_id=42~hmac=ad70fc386d66eeab2e5050657dfc5e1b7a1e25381fe0fa12c7fe861f337619a1",
+   "source": "deezer-verified"
+  },
+  {
+   "id": "beach-14",
+   "title": "Cake By The Ocean",
+   "artist": "DNCE",
+   "album": "DNCE",
+   "duration": 218,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/d3380b311743baf8435f616371b95194/500x500-000000-80-0-0.jpg",
+   "src": "https://cdnt-preview.dzcdn.net/api/1/1/8/9/4/0/894bb0470dd38238cb9f1f86d1320f94.mp3?hdnea=exp=1792674987~acl=/api/1/1/8/9/4/0/894bb0470dd38238cb9f1f86d1320f94.mp3*~data=user_id=0,application_id=42~hmac=1d08fd7a14c7d29eb055561c931ed1a60d47243ece8ac7db05a62b500785bddc",
+   "source": "deezer-verified"
+  },
+  {
+   "id": "beach-15",
+   "title": "Summer",
+   "artist": "Calvin Harris",
+   "album": "Motion",
+   "duration": 221,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/a72e5db10e9168cd6f5065fbe750cdbb/500x500-000000-80-0-0.jpg",
+   "src": "https://cdnt-preview.dzcdn.net/api/1/1/7/e/3/0/7e3fa54179108b453a9b360bf1976177.mp3?hdnea=exp=1792674988~acl=/api/1/1/7/e/3/0/7e3fa54179108b453a9b360bf1976177.mp3*~data=user_id=0,application_id=42~hmac=9eb96907220008e9e8a8643db8d6712f9b54855f369c43134f8c0c6bf82227c6",
+   "source": "deezer-verified"
+  },
+  {
+   "id": "beach-16",
+   "title": "Despacito",
+   "artist": "Luis Fonsi",
+   "album": "VIDA",
+   "duration": 228,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/7985ef4ccd9e66af2fc3c18d629689aa/500x500-000000-80-0-0.jpg",
+   "src": "https://cdnt-preview.dzcdn.net/api/1/1/c/6/8/0/c68396f0684b99d05f5b353fb3c4c888.mp3?hdnea=exp=1792674989~acl=/api/1/1/c/6/8/0/c68396f0684b99d05f5b353fb3c4c888.mp3*~data=user_id=0,application_id=42~hmac=e31ec86c684345377aa2c433fb5d11f166fa5d792052dcd058c51186db6f7769",
+   "source": "deezer-verified"
+  },
+  {
+   "id": "beach-17",
+   "title": "Walking On A Dream",
+   "artist": "Empire Of The Sun",
+   "album": "00s Alternative",
+   "duration": 195,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/ec118deb94dcb550af02f88586995d94/500x500-000000-80-0-0.jpg",
+   "src": "https://cdnt-preview.dzcdn.net/api/1/1/2/5/f/0/25fb402c54a5c69158d6d31983aa4dea.mp3?hdnea=exp=1792674990~acl=/api/1/1/2/5/f/0/25fb402c54a5c69158d6d31983aa4dea.mp3*~data=user_id=0,application_id=42~hmac=7d71cc0050977a1fa73a37ba86bf0752eeb36927ea4012276bd446ff506df091",
+   "source": "deezer-verified"
+  },
+  {
+   "id": "beach-18",
+   "title": "Island In The Sun",
+   "artist": "Weezer",
+   "album": "Weezer (Green Album)",
+   "duration": 200,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/a67a3dc5916907b9d5679c068d874451/500x500-000000-80-0-0.jpg",
+   "src": "https://cdnt-preview.dzcdn.net/api/1/1/4/c/0/0/4c04b1949ee94c585ecbf98aca43bcd4.mp3?hdnea=exp=1792674991~acl=/api/1/1/4/c/0/0/4c04b1949ee94c585ecbf98aca43bcd4.mp3*~data=user_id=0,application_id=42~hmac=5ec0a3cef0664b04814f9f3966711cb88e87f70b696b77ce1dd8a806b5ef3255",
+   "source": "deezer-verified"
+  },
+  {
+   "id": "beach-19",
+   "title": "ocean eyes",
+   "artist": "Billie Eilish",
+   "album": "Ocean Eyes",
+   "duration": 200,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/d85200712419ae036b277deffeea5181/500x500-000000-80-0-0.jpg",
+   "src": "https://cdnt-preview.dzcdn.net/api/1/1/0/2/3/0/0237a3ef9b4e0ed854fd69716497ca54.mp3?hdnea=exp=1792674993~acl=/api/1/1/0/2/3/0/0237a3ef9b4e0ed854fd69716497ca54.mp3*~data=user_id=0,application_id=42~hmac=9f355a84796ebc8e8d9894e44eb4641c7d9338ed5880893f6db384e30b2754a0",
+   "source": "deezer-verified"
+  },
+  {
+   "id": "beach-20",
+   "title": "Watermelon Sugar",
+   "artist": "Harry Styles",
+   "album": "Fine Line",
+   "duration": 173,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/346c524c15ecccbc4a8a78e8972a352c/500x500-000000-80-0-0.jpg",
+   "src": "https://cdnt-preview.dzcdn.net/api/1/1/f/7/5/0/f75672f3225537bd26bb33f0f8947618.mp3?hdnea=exp=1792674994~acl=/api/1/1/f/7/5/0/f75672f3225537bd26bb33f0f8947618.mp3*~data=user_id=0,application_id=42~hmac=516439f95c9d9bde259ed550dc21698979538aa0eb82f202a62597c992c3947d",
+   "source": "deezer-verified"
+  },
+  {
+   "id": "beach-21",
+   "title": "Feels Like Summer",
+   "artist": "Childish Gambino",
+   "album": "Summer Pack",
+   "duration": 297,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/e4775889d78cbfa92cb2fd757c89a023/500x500-000000-80-0-0.jpg",
+   "src": "https://cdnt-preview.dzcdn.net/api/1/1/6/d/e/0/6de1a8d1bca56af740fb5902e33b274e.mp3?hdnea=exp=1792674995~acl=/api/1/1/6/d/e/0/6de1a8d1bca56af740fb5902e33b274e.mp3*~data=user_id=0,application_id=42~hmac=dc571e9027cc6d590286b91f2e21bc480ff3cf912a14efa92c61edab45eeb716",
+   "source": "deezer-verified"
+  },
+  {
+   "id": "beach-22",
+   "title": "Knee Deep (feat. Jimmy Buffett)",
+   "artist": "Zac Brown Band",
+   "album": "You Get What You Give",
+   "duration": 203,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/debebfe6cf0cf8edfef9bd17abaa2250/500x500-000000-80-0-0.jpg",
+   "src": "https://cdnt-preview.dzcdn.net/api/1/1/1/7/a/0/17a95cc723eb292b7487ef8423003129.mp3?hdnea=exp=1792674996~acl=/api/1/1/1/7/a/0/17a95cc723eb292b7487ef8423003129.mp3*~data=user_id=0,application_id=42~hmac=47ada1bd6c82a61dd04e7bc2e6e394c675e21923a4d88c04fd968fc9488ef48e",
+   "source": "deezer-verified"
+  },
+  {
+   "id": "beach-23",
+   "title": "Hot Hot Hot (New Club Mix)",
+   "artist": "Buster Poindexter And His Banshees Of Blue",
+   "album": "Dance Vault Remixes - Hot Hot Hot",
+   "duration": 348,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/30c937e012dfc2cbdfaa1daea536a887/500x500-000000-80-0-0.jpg",
+   "src": "https://cdnt-preview.dzcdn.net/api/1/1/b/c/8/0/bc8de31b10d1e357195b870e13d7ea70.mp3?hdnea=exp=1792674998~acl=/api/1/1/b/c/8/0/bc8de31b10d1e357195b870e13d7ea70.mp3*~data=user_id=0,application_id=42~hmac=13108b4a2bb334cbc29306d013598193bb45844f18fe63a959cb570bc7f837db",
+   "source": "deezer-verified"
+  },
+  {
+   "id": "beach-24",
+   "title": "Cruel Summer",
+   "artist": "Bananarama",
+   "album": "The Greatest Hits Collection (Collector Edition)",
+   "duration": 215,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/be55cf2c332627c5f32c943ae62f5396/500x500-000000-80-0-0.jpg",
+   "src": "https://cdnt-preview.dzcdn.net/api/1/1/7/7/c/0/77c96fe09f15cf910bae669ba8acde4c.mp3?hdnea=exp=1792674999~acl=/api/1/1/7/7/c/0/77c96fe09f15cf910bae669ba8acde4c.mp3*~data=user_id=0,application_id=42~hmac=602fc9b66282e136da9d6d84d2911bb285279533b79cf36702d55eed89dec6ff",
+   "source": "deezer-verified"
+  },
+  {
+   "id": "beach-25",
+   "title": "Sun Is Shining",
+   "artist": "Axwell /\\ Ingrosso",
+   "album": "More Than You Know",
+   "duration": 254,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/0cd51b420e95f4d0410a03bbf7053119/500x500-000000-80-0-0.jpg",
+   "src": "https://cdnt-preview.dzcdn.net/api/1/1/d/5/f/0/d5f515895fb9d5d25dc14e49f7de9eca.mp3?hdnea=exp=1792675000~acl=/api/1/1/d/5/f/0/d5f515895fb9d5d25dc14e49f7de9eca.mp3*~data=user_id=0,application_id=42~hmac=c1923489e54709269e9551791f4e5510adfba5f3f1cf8370fd0c1e3deb08749c",
+   "source": "deezer-verified"
+  },
+  {
+   "id": "beach-26",
+   "title": "Bailando (Spanish Version)",
+   "artist": "Enrique Iglesias",
+   "album": "Greatest Hits",
+   "duration": 244,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/0d279a6951118f211a9248ce49b95751/500x500-000000-80-0-0.jpg",
+   "src": "https://cdnt-preview.dzcdn.net/api/1/1/0/8/3/0/0834e84c3c2f9e6ab92bd6200ce795d1.mp3?hdnea=exp=1792675002~acl=/api/1/1/0/8/3/0/0834e84c3c2f9e6ab92bd6200ce795d1.mp3*~data=user_id=0,application_id=42~hmac=367e774d812ead0d66ed89c20557555776dee782d25140a968fde898e286380b",
+   "source": "deezer-verified"
+  },
+  {
+   "id": "beach-27",
+   "title": "Orinoco Flow (Sail Away) (Single Version)",
+   "artist": "Enya",
+   "album": "Orinoco Flow (Sail Away) (Single Version)",
+   "duration": 225,
+   "cover": "https://cdn-images.dzcdn.net/images/cover/8e7deeaa0d3ef9ff7b907f5c1da8c086/500x500-000000-80-0-0.jpg",
+   "src": "https://cdnt-preview.dzcdn.net/api/1/1/6/5/4/0/654d1fbf62ff54ba352e10d413a310e9.mp3?hdnea=exp=1792675004~acl=/api/1/1/6/5/4/0/654d1fbf62ff54ba352e10d413a310e9.mp3*~data=user_id=0,application_id=42~hmac=70b7879ab25ea494ec4d6830f69dd718486367ff2a1e9411f2eb5dea0292ba52",
+   "source": "deezer-verified"
+  }
+ ]
+}

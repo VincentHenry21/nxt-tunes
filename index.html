@@ -164,6 +164,19 @@ input[type=range]::-webkit-slider-thumb{-webkit-appearance:none;width:12px;heigh
         </div>
         <div id="henzPreviewList" class="track-list"></div>
       </div>
+
+      <div class="section" id="beachSection" style="display:none">
+        <div class="section-head"><div><h3>Beach Playlist</h3><p>Beach vibes · Perfect for the Ngwe Saung trip</p></div><button class="btn sm" id="beachPlayAll">Play All</button></div>
+        <div id="beachPreviewList" class="track-list"></div>
+        <button class="btn ghost sm mt" id="beachViewAll">View All Beach Tracks</button>
+      </div>
+
+      <div class="section" id="fullSection" style="display:none">
+        <div class="section-head"><div><h3>Full Songs Database</h3><p id="fullSub">Real full songs · No 30 sec teasers · Free for everyone</p></div><button class="btn sm" id="fullPlayAll">Play All</button></div>
+        <div id="fullPreviewList" class="track-list"></div>
+        <button class="btn ghost sm mt" id="fullViewAll">View All Full Songs</button>
+        <p class="note">These are full length songs from free licensed artists (Free Music Archive, ccMixter, SoundHelix), so anyone can play them in full, legally. Chart hits from Drake, Frank Ocean and others are licensed by Spotify and Apple, so here they play as official MP3 previews. Add your own MP3 or WAV files in Library and those play in full and offline too.</p>
+      </div>
       <div class="section">
         <div class="section-head"><div><h3>Trending · Popular Songs</h3><p>From Deezer charts · Updated live</p></div><button class="btn sm ghost" id="refreshTrending">Refresh</button></div>
         <div id="trendingList" class="track-list"><div class="skeleton"></div><div class="skeleton"></div><div class="skeleton"></div></div>
@@ -206,9 +219,9 @@ input[type=range]::-webkit-slider-thumb{-webkit-appearance:none;width:12px;heigh
       <p style="color:var(--muted);font-size:13px;margin-bottom:14px">Files you add are stored on this device in IndexedDB and play offline.</p>
       <div class="upload-zone" id="dropZone">
         <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#1db954" stroke-width="1.8" style="margin:0 auto"><path d="M12 3v12M7 8l5-5 5 5"/><path d="M4 19h16"/></svg>
-        <b style="display:block;margin-top:8px">Drop MP3 files here or tap to upload</b>
-        <p>MP3 only · Stored offline · Title and artist are read from the file name when needed</p>
-        <input type="file" id="fileInput" accept="audio/mpeg,audio/mp3,.mp3" multiple class="hidden">
+        <b style="display:block;margin-top:8px">Drop MP3 or WAV files here or tap to upload</b>
+        <p>MP3 and WAV · Stored offline · Title and artist are read from the file name when needed</p>
+        <input type="file" id="fileInput" accept="audio/mpeg,audio/mp3,audio/wav,audio/x-wav,.mp3,.wav" multiple class="hidden">
       </div>
 
       <div class="section">
@@ -329,6 +342,7 @@ let libraryTracks = [];
 let listViewTracks = [];
 let deferredPrompt = null;
 let audioCtx = null, analyser = null, sourceNode = null, vizTimer = null;
+let playSeq = 0;
 
 function fmt(sec){ if(!sec || isNaN(sec)) return '0:00'; sec=Math.floor(sec); return Math.floor(sec/60)+':'+String(sec%60).padStart(2,'0'); }
 function esc(s){ return String(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
@@ -463,14 +477,16 @@ async function playQueue(list, startIdx){
 }
 async function playCurrent(){
   const track=queue[currentIndex]; if(!track) return; currentTrack=track;
+  const seq=++playSeq;
   const src=await resolveSrc(track);
+  if(seq!==playSeq) return;
   if(!src){ toast('No playable MP3 for this track',true); return; }
   const isBlob=src.startsWith('blob:');
   if(isBlob){ audio.removeAttribute('crossorigin'); }
-  else if(track.type==='deezer'||track.type==='stream'){ audio.crossOrigin='anonymous'; }
+  else if(track.type==='deezer'||track.type==='stream'||track.type==='henz'||track.type==='beach'){ audio.crossOrigin='anonymous'; }
   else { audio.removeAttribute('crossorigin'); }
   if(audio.src!==src) audio.src=src;
-  try{ await audio.play(); initVisualizer(); if(audioCtx&&audioCtx.state==='suspended') audioCtx.resume(); }catch(e){ toast('Playback blocked. Tap play again.',true); }
+  try{ await audio.play(); if(isBlob||track.offline||['deezer','henz','beach','local'].includes(track.type)) initVisualizer(); if(audioCtx&&audioCtx.state==='suspended') audioCtx.resume(); }catch(e){ toast('Playback blocked. Tap play again.',true); }
   $('#playerCover').src=track.cover||'icon.svg'; $('#playerTitle').textContent=track.title; $('#playerArtist').textContent=track.artist;
   $('#npCover').src=track.cover||'icon.svg'; $('#npTitle').textContent=track.title; $('#npArtist').textContent=track.artist;
   updatePlayIcon(); updateLikeBtn(); renderQueue();
@@ -497,8 +513,7 @@ $$('[data-act]').forEach(b=>b.addEventListener('click',()=>{ const a=b.dataset.a
 
 
 audio.addEventListener('error', ()=>{
-  const t = currentTrack;
-  if(t && t.srcBackup && !t._triedBackup && audio.src !== t.srcBackup){ t._triedBackup = true; audio.src = t.srcBackup; audio.play().catch(()=>{}); toast('Switched to backup MP3 source', true); }
+  if(currentTrack && audio.src){ toast('Could not load the MP3 for ' + currentTrack.title + '. Check your connection and tap again.', true); updatePlayIcon(); }
 });
 audio.addEventListener('play',updatePlayIcon); audio.addEventListener('pause',updatePlayIcon);
 audio.addEventListener('ended',()=>{ if(repeatMode===2){ audio.currentTime=0; audio.play(); } else nextTrack(); });
@@ -513,7 +528,7 @@ $('#closeNow').addEventListener('click',()=>$('#nowPlaying').classList.remove('o
 $('#queueBtn').addEventListener('click',()=>{ $('#queuePanel').classList.toggle('open'); renderQueue(); });
 $('#closeQueue').addEventListener('click',()=>$('#queuePanel').classList.remove('open'));
 $('#clearQueueBtn').addEventListener('click',()=>{ queue=currentTrack?[currentTrack]:[]; currentIndex=queue.length?0:-1; renderQueue(); toast('Queue cleared',true); });
-function renderQueue(){ const c=$('#queueList'); if(!c) return; c.innerHTML=''; if(!queue.length){ c.innerHTML='<p style="color:var(--muted);font-size:13px">Queue is empty.</p>'; return; } queue.forEach((t,i)=>{ const r=createRow(t,queue,i); if(i===currentIndex) r.style.border='1px solid #1db954'; r.addEventListener('click',()=>{ currentIndex=i; playCurrent(); }); c.appendChild(r); }); }
+function renderQueue(){ const c=$('#queueList'); if(!c) return; c.innerHTML=''; if(!queue.length){ c.innerHTML='<p style="color:var(--muted);font-size:13px">Queue is empty.</p>'; return; } queue.forEach((t,i)=>{ const r=createRow(t,queue,i); if(i===currentIndex) r.style.border='1px solid #1db954'; c.appendChild(r); }); }
 
 let _jsonpN=0;
 function fetchJSON(url){
@@ -597,11 +612,52 @@ function openHenz(){
   renderList($('#listTracks'), henzTracks);
 }
 
+
+let beachTracks = [];
+let fullTracks = [];
+async function loadBeach(){
+  try{
+    const r=await fetch('beach.json',{cache:'no-cache'}); if(!r.ok) return;
+    const data=await r.json();
+    beachTracks=(data.tracks||[]).map(t=>({id:t.id,title:t.title,artist:t.artist,album:t.album||'',cover:t.cover||'icon-glass.svg',duration:t.duration||0,src:t.src,type:'beach',offline:false}));
+    beachTracks=await checkOfflineFlags(beachTracks);
+    const sec=$('#beachSection'); if(!sec) return; sec.style.display='block';
+    renderList($('#beachPreviewList'), beachTracks.slice(0,8));
+    $('#beachPlayAll').addEventListener('click',()=>{ if(beachTracks.length) playQueue(beachTracks,0); });
+    $('#beachViewAll').addEventListener('click',openBeach);
+    renderPlaylists();
+  }catch(e){}
+}
+function openBeach(){
+  if(!beachTracks.length) return;
+  showView('list'); $('#listTitle').textContent='Beach Playlist'; $('#listSub').textContent=beachTracks.length+' tracks · Beach vibes'; $('#listCover').src=(beachTracks[0]&&beachTracks[0].cover)||'icon-glass.svg';
+  listViewTracks=beachTracks; window._currentPlaylistTracks=beachTracks; renderList($('#listTracks'), beachTracks);
+}
+async function loadFullSongs(){
+  try{
+    const r=await fetch('songs-db.json',{cache:'no-cache'}); if(!r.ok) return;
+    const data=await r.json();
+    fullTracks=(data.tracks||[]).map(t=>({id:t.id,title:t.title,artist:t.artist,album:t.album||'',cover:t.cover||'icon-glass.svg',duration:t.duration||0,src:t.src,type:'full',offline:false,format:t.format||'MP3'}));
+    fullTracks=await checkOfflineFlags(fullTracks);
+    const sec=$('#fullSection'); if(!sec) return; sec.style.display='block';
+    $('#fullSub').textContent=fullTracks.length+' full songs · No 30 sec teasers · Free for everyone';
+    renderList($('#fullPreviewList'), fullTracks.slice(0,10));
+    $('#fullPlayAll').addEventListener('click',()=>{ if(fullTracks.length) playQueue(fullTracks,0); });
+    $('#fullViewAll').addEventListener('click',openFull);
+    renderPlaylists();
+  }catch(e){}
+}
+function openFull(){
+  if(!fullTracks.length) return;
+  showView('list'); $('#listTitle').textContent='Full Songs Database'; $('#listSub').textContent=fullTracks.length+' full songs · Real audio files'; $('#listCover').src='icon-glass.svg';
+  listViewTracks=fullTracks; window._currentPlaylistTracks=fullTracks; renderList($('#listTracks'), fullTracks);
+}
+
 /* Library */
-function parseFilename(name){ const base=name.replace(/\.mp3$/i,'').replace(/_/g,' '); const parts=base.split(' - '); if(parts.length>=2) return {artist:parts[0].trim(),title:parts.slice(1).join(' - ').trim()}; return {artist:'Local File',title:base.trim()}; }
+function parseFilename(name){ const base=name.replace(/\.(mp3|wav)$/i,'').replace(/_/g,' '); const parts=base.split(' - '); if(parts.length>=2) return {artist:parts[0].trim(),title:parts.slice(1).join(' - ').trim()}; return {artist:'Local File',title:base.trim()}; }
 async function handleFiles(files){
-  const arr=Array.from(files).filter(f=>f.name.toLowerCase().endsWith('.mp3')||f.type.includes('audio'));
-  if(!arr.length){ toast('Please add MP3 files only',true); return; }
+  const arr=Array.from(files).filter(f=>/\.(mp3|wav)$/i.test(f.name)||f.type.includes('audio'));
+  if(!arr.length){ toast('Please add MP3 or WAV files',true); return; }
   for(const file of arr){
     const id='local_'+Date.now()+'_'+Math.random().toString(36).slice(2,7);
     const meta=parseFilename(file.name);
@@ -611,7 +667,7 @@ async function handleFiles(files){
     const track={id:id, idbId:id, title:meta.title, artist:meta.artist, cover:'icon.svg', duration:dur, src:'', type:'local', offline:true};
     libraryTracks.unshift(track);
   }
-  renderLibrary(); toast(arr.length+' MP3 file(s) saved offline'); showView('library');
+  renderLibrary(); toast(arr.length+' file(s) saved offline'); showView('library');
 }
 function getDuration(file){ return new Promise((res,rej)=>{ const a=document.createElement('audio'); const url=URL.createObjectURL(file); a.preload='metadata'; a.src=url; a.onloadedmetadata=()=>{ const d=a.duration; URL.revokeObjectURL(url); res(isFinite(d)?d:0); }; a.onerror=rej; }); }
 $('#dropZone').addEventListener('click',()=>$('#fileInput').click());
@@ -651,6 +707,8 @@ async function restoreLibrary(){
 function renderSidebarPlaylists(){ const c=$('#sidebarPlaylists'); if(!c) return; c.innerHTML=playlists.map((p,i)=>'<button data-pi="'+i+'">'+esc(p.name)+' · '+p.tracks.length+'</button>').join('')||'<p style="font-size:12px;color:#777;padding:6px 12px">No playlists yet</p>'; c.querySelectorAll('button').forEach(b=>b.addEventListener('click',()=>{ showView('playlists'); openPlaylist(Number(b.dataset.pi)); })); }
 function renderPlaylists(){
   const g=$('#playlistsGrid'); if(!g) return; g.innerHTML='';
+  if(beachTracks.length){ const cel=document.createElement('div'); cel.className='card'; cel.innerHTML='<img src="'+esc(beachTracks[0].cover||'icon-glass.svg')+'" alt=""><h4>Beach Playlist</h4><p>'+beachTracks.length+' tracks · Beach vibes</p>'; cel.addEventListener('click',()=>{ openBeach(); }); g.appendChild(cel); }
+  if(fullTracks.length){ const fel=document.createElement('div'); fel.className='card'; fel.innerHTML='<img src="icon-glass.svg" alt=""><h4>Full Songs Database</h4><p>'+fullTracks.length+' full songs · No teasers</p>'; fel.addEventListener('click',()=>{ openFull(); }); g.appendChild(fel); }
   if(builtinPlaylist && henzTracks.length){ const bel=document.createElement('div'); bel.className='card'; bel.innerHTML='<img src="'+esc(builtinPlaylist.cover||'icon.svg')+'" alt=""><h4>HENZ</h4><p>'+henzTracks.length+' tracks · Built in</p>'; bel.addEventListener('click',()=>{ showView('playlists'); openHenz(); }); g.appendChild(bel); }
   playlists.forEach((p,i)=>{ const el=document.createElement('div'); el.className='card'; const cover=p.tracks[0]?p.tracks[0].cover:'icon.svg'; el.innerHTML='<img src="'+esc(cover)+'" alt=""><h4>'+esc(p.name)+'</h4><p>'+p.tracks.length+' track(s)</p>'; el.addEventListener('click',()=>openPlaylist(i)); g.appendChild(el); });
   renderSidebarPlaylists();
@@ -691,7 +749,7 @@ window.addEventListener('online',()=>{ updateOnline(); toast('Back online'); });
 window.addEventListener('offline',()=>{ updateOnline(); toast('You are offline. Offline tracks still play.',true); });
 updateOnline();
 
-(async function init(){ await restoreLibrary(); renderRecent(); renderLiked(); renderPlaylists(); renderSidebarPlaylists(); renderLibrary(); renderQueue(); loadHome(); loadBuiltinPlaylist(); })();
+(async function init(){ await restoreLibrary(); renderRecent(); renderLiked(); renderPlaylists(); renderSidebarPlaylists(); renderLibrary(); renderQueue(); loadHome(); loadBuiltinPlaylist(); loadBeach(); loadFullSongs(); })();
 </script>
 </body>
 </html>
