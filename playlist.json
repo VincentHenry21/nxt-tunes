@@ -755,9 +755,9 @@
    "artist": "Reload, Shine",
    "album": "What's my name?",
    "duration": 252,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/2354efbe308d24668360e3d1c6b49218/500x500-000000-80-0-0.jpg",
+   "cover": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84325328e8c6895d2e07fda31b",
    "src": "https://p.scdn.co/mp3-preview/642c7ee8db81aa3c35ae05af4a680c16f58a7706",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/4/5/c/0/45c18a0cf643a7e49b2b690393501c35.mp3?hdnea=exp=1792672632~acl=/api/1/1/4/5/c/0/45c18a0cf643a7e49b2b690393501c35.mp3*~data=user_id=0,application_id=42~hmac=42228fe07c181ccce18268184c6cbd0b583436c2cd394252aa4ccd0be96ebc81",
+   "srcBackup": null,
    "source": "spotify-playlist",
    "spotifyUri": "spotify:track:6jkal4bf4r7VqIxByqn6ps"
   },
