@@ -3,66 +3,6 @@
  "note": "Full-length real audio files. No previews.",
  "tracks": [
   {
-   "id": "full-cc-16626",
-   "title": "I dunno",
-   "artist": "grapes",
-   "album": "ccMixter · Hip Hop",
-   "duration": 165,
-   "cover": "icon-glass.svg",
-   "src": "https://ccmixter.org/content/grapes/grapes_-_I_dunno.mp3",
-   "format": "MP3",
-   "license": "Attribution (3.0)",
-   "source": "ccmixter"
-  },
-  {
-   "id": "full-cc-37792",
-   "title": "Drops of H2O ( The Filtered Water Treatment )",
-   "artist": "J.Lang",
-   "album": "ccMixter · Hip Hop",
-   "duration": 315,
-   "cover": "icon-glass.svg",
-   "src": "https://ccmixter.org/content/djlang59/djlang59_-_Drops_of_H2O_(_The_Filtered_Water_Treatment_).mp3",
-   "format": "MP3",
-   "license": "Attribution (3.0)",
-   "source": "ccmixter"
-  },
-  {
-   "id": "full-cc-19367",
-   "title": "Parametaphoriquement",
-   "artist": "gmz",
-   "album": "ccMixter · Hip Hop",
-   "duration": 289,
-   "cover": "icon-glass.svg",
-   "src": "https://ccmixter.org/content/gmz/gmz_-_Parametaphoriquement.mp3",
-   "format": "MP3",
-   "license": "Attribution (3.0)",
-   "source": "ccmixter"
-  },
-  {
-   "id": "full-cc-12238",
-   "title": "beeKoo mix",
-   "artist": "Lasswell",
-   "album": "ccMixter · Hip Hop",
-   "duration": 253,
-   "cover": "icon-glass.svg",
-   "src": "https://ccmixter.org/content/lazztunes07/lazztunes07_-_beeKoo_mix.mp3",
-   "format": "MP3",
-   "license": "Attribution (3.0)",
-   "source": "ccmixter"
-  },
-  {
-   "id": "full-cc-4163",
-   "title": "The Next Step",
-   "artist": "Trifonic",
-   "album": "ccMixter · Hip Hop",
-   "duration": 203,
-   "cover": "icon-glass.svg",
-   "src": "https://ccmixter.org/contests/copyrightcriminals/trifonic/copyrightcriminals_-_trifonic_-_The_Next_Step.mp3",
-   "format": "MP3",
-   "license": "Attribution Noncommercial",
-   "source": "ccmixter"
-  },
-  {
    "id": "full-sh-1",
    "title": "SoundHelix Song 1",
    "artist": "T. Schürger",
@@ -72,7 +12,8 @@
    "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
    "format": "MP3",
    "license": "Free use (SoundHelix)",
-   "source": "soundhelix"
+   "source": "soundhelix",
+   "genre": "Electronic"
   },
   {
    "id": "full-sh-2",
@@ -84,7 +25,8 @@
    "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
    "format": "MP3",
    "license": "Free use (SoundHelix)",
-   "source": "soundhelix"
+   "source": "soundhelix",
+   "genre": "Electronic"
   },
   {
    "id": "full-sh-3",
@@ -96,7 +38,8 @@
    "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
    "format": "MP3",
    "license": "Free use (SoundHelix)",
-   "source": "soundhelix"
+   "source": "soundhelix",
+   "genre": "Electronic"
   },
   {
    "id": "full-sh-4",
@@ -108,7 +51,8 @@
    "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
    "format": "MP3",
    "license": "Free use (SoundHelix)",
-   "source": "soundhelix"
+   "source": "soundhelix",
+   "genre": "Electronic"
   },
   {
    "id": "full-sh-5",
@@ -120,7 +64,8 @@
    "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
    "format": "MP3",
    "license": "Free use (SoundHelix)",
-   "source": "soundhelix"
+   "source": "soundhelix",
+   "genre": "Electronic"
   },
   {
    "id": "full-sh-6",
@@ -132,7 +77,8 @@
    "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
    "format": "MP3",
    "license": "Free use (SoundHelix)",
-   "source": "soundhelix"
+   "source": "soundhelix",
+   "genre": "Electronic"
   },
   {
    "id": "full-sh-7",
@@ -144,7 +90,8 @@
    "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
    "format": "MP3",
    "license": "Free use (SoundHelix)",
-   "source": "soundhelix"
+   "source": "soundhelix",
+   "genre": "Electronic"
   },
   {
    "id": "full-sh-8",
@@ -156,7 +103,8 @@
    "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
    "format": "MP3",
    "license": "Free use (SoundHelix)",
-   "source": "soundhelix"
+   "source": "soundhelix",
+   "genre": "Electronic"
   },
   {
    "id": "full-ia-French_exit-19115-0",
@@ -164,11 +112,12 @@
    "artist": "TV Girl",
    "album": "French Exit",
    "duration": 177,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/French_exit-19115",
    "src": "https://archive.org/download/French_exit-19115/TV_Girl_-_01_-_Pantyhose.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Indie Pop"
   },
   {
    "id": "full-ia-French_exit-19115-1",
@@ -176,11 +125,12 @@
    "artist": "TV Girl",
    "album": "French Exit",
    "duration": 209,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/French_exit-19115",
    "src": "https://archive.org/download/French_exit-19115/TV_Girl_-_02_-_Birds_Dont_Sing.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Indie Pop"
   },
   {
    "id": "full-ia-French_exit-19115-2",
@@ -188,11 +138,12 @@
    "artist": "TV Girl",
    "album": "French Exit",
    "duration": 194,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/French_exit-19115",
    "src": "https://archive.org/download/French_exit-19115/TV_Girl_-_03_-_Louise.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Indie Pop"
   },
   {
    "id": "full-ia-French_exit-19115-3",
@@ -200,11 +151,12 @@
    "artist": "TV Girl",
    "album": "French Exit",
    "duration": 214,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/French_exit-19115",
    "src": "https://archive.org/download/French_exit-19115/TV_Girl_-_04_-_Hate_Yourself.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Indie Pop"
   },
   {
    "id": "full-ia-French_exit-19115-4",
@@ -212,11 +164,12 @@
    "artist": "TV Girl",
    "album": "French Exit",
    "duration": 224,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/French_exit-19115",
    "src": "https://archive.org/download/French_exit-19115/TV_Girl_-_05_-_The_Getaway.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Indie Pop"
   },
   {
    "id": "full-ia-French_exit-19115-5",
@@ -224,11 +177,12 @@
    "artist": "TV Girl",
    "album": "French Exit",
    "duration": 178,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/French_exit-19115",
    "src": "https://archive.org/download/French_exit-19115/TV_Girl_-_06_-_Talk_to_Strangers.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Indie Pop"
   },
   {
    "id": "full-ia-French_exit-19115-6",
@@ -236,11 +190,12 @@
    "artist": "TV Girl",
    "album": "French Exit",
    "duration": 227,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/French_exit-19115",
    "src": "https://archive.org/download/French_exit-19115/TV_Girl_-_07_-_The_Blonde.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Indie Pop"
   },
   {
    "id": "full-ia-French_exit-19115-7",
@@ -248,11 +203,12 @@
    "artist": "TV Girl",
    "album": "French Exit",
    "duration": 154,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/French_exit-19115",
    "src": "https://archive.org/download/French_exit-19115/TV_Girl_-_08_-_Daughter_of_a_Cop.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Indie Pop"
   },
   {
    "id": "full-ia-French_exit-19115-8",
@@ -260,11 +216,12 @@
    "artist": "TV Girl",
    "album": "French Exit",
    "duration": 214,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/French_exit-19115",
    "src": "https://archive.org/download/French_exit-19115/TV_Girl_-_09_-_Lovers_Rock.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Indie Pop"
   },
   {
    "id": "full-ia-French_exit-19115-9",
@@ -272,11 +229,12 @@
    "artist": "TV Girl",
    "album": "French Exit",
    "duration": 209,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/French_exit-19115",
    "src": "https://archive.org/download/French_exit-19115/TV_Girl_-_10_-_Her_and_Her_Friend.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Indie Pop"
   },
   {
    "id": "full-ia-French_exit-19115-10",
@@ -284,11 +242,12 @@
    "artist": "TV Girl",
    "album": "French Exit",
    "duration": 218,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/French_exit-19115",
    "src": "https://archive.org/download/French_exit-19115/TV_Girl_-_11_-_Come_When_You_Call.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Indie Pop"
   },
   {
    "id": "full-ia-French_exit-19115-11",
@@ -296,11 +255,12 @@
    "artist": "TV Girl",
    "album": "French Exit",
    "duration": 224,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/French_exit-19115",
    "src": "https://archive.org/download/French_exit-19115/TV_Girl_-_12_-_Anjela.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Indie Pop"
   },
   {
    "id": "full-ia-Ex_Military-9086-12",
@@ -308,11 +268,12 @@
    "artist": "Death Grips",
    "album": "Ex Military",
    "duration": 353,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Ex_Military-9086",
    "src": "https://archive.org/download/Ex_Military-9086/Death_Grips_-_01_-_Beware.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Experimental Hip Hop"
   },
   {
    "id": "full-ia-Ex_Military-9086-13",
@@ -320,11 +281,12 @@
    "artist": "Death Grips",
    "album": "Ex Military",
    "duration": 223,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Ex_Military-9086",
    "src": "https://archive.org/download/Ex_Military-9086/Death_Grips_-_02_-_Guillotine.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Experimental Hip Hop"
   },
   {
    "id": "full-ia-Ex_Military-9086-14",
@@ -332,11 +294,12 @@
    "artist": "Death Grips",
    "album": "Ex Military",
    "duration": 232,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Ex_Military-9086",
    "src": "https://archive.org/download/Ex_Military-9086/Death_Grips_-_03_-_Spread_Eagle_Cross_the_Block.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Experimental Hip Hop"
   },
   {
    "id": "full-ia-Ex_Military-9086-15",
@@ -344,11 +307,12 @@
    "artist": "Death Grips",
    "album": "Ex Military",
    "duration": 210,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Ex_Military-9086",
    "src": "https://archive.org/download/Ex_Military-9086/Death_Grips_-_04_-_Lord_of_the_Game_ft_Mexican_Girl.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Experimental Hip Hop"
   },
   {
    "id": "full-ia-Ex_Military-9086-16",
@@ -356,11 +320,12 @@
    "artist": "Death Grips",
    "album": "Ex Military",
    "duration": 168,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Ex_Military-9086",
    "src": "https://archive.org/download/Ex_Military-9086/Death_Grips_-_05_-_Takyon_Death_Yon.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Experimental Hip Hop"
   },
   {
    "id": "full-ia-Ex_Military-9086-17",
@@ -368,11 +333,12 @@
    "artist": "Death Grips",
    "album": "Ex Military",
    "duration": 72,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Ex_Military-9086",
    "src": "https://archive.org/download/Ex_Military-9086/Death_Grips_-_06_-_Cut_Throat_Instrumental.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Experimental Hip Hop"
   },
   {
    "id": "full-ia-Ex_Military-9086-18",
@@ -380,11 +346,12 @@
    "artist": "Death Grips",
    "album": "Ex Military",
    "duration": 202,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Ex_Military-9086",
    "src": "https://archive.org/download/Ex_Military-9086/Death_Grips_-_07_-_Klink.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Experimental Hip Hop"
   },
   {
    "id": "full-ia-Ex_Military-9086-19",
@@ -392,11 +359,12 @@
    "artist": "Death Grips",
    "album": "Ex Military",
    "duration": 261,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Ex_Military-9086",
    "src": "https://archive.org/download/Ex_Military-9086/Death_Grips_-_08_-_Culture_Shock.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Experimental Hip Hop"
   },
   {
    "id": "full-ia-Ex_Military-9086-20",
@@ -404,11 +372,12 @@
    "artist": "Death Grips",
    "album": "Ex Military",
    "duration": 236,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Ex_Military-9086",
    "src": "https://archive.org/download/Ex_Military-9086/Death_Grips_-_10_-_Thru_the_Walls.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Experimental Hip Hop"
   },
   {
    "id": "full-ia-Ex_Military-9086-21",
@@ -416,11 +385,12 @@
    "artist": "Death Grips",
    "album": "Ex Military",
    "duration": 253,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Ex_Military-9086",
    "src": "https://archive.org/download/Ex_Military-9086/Death_Grips_-_11_-_Known_for_it.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Experimental Hip Hop"
   },
   {
    "id": "full-ia-Ex_Military-9086-22",
@@ -428,11 +398,12 @@
    "artist": "Death Grips",
    "album": "Ex Military",
    "duration": 371,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Ex_Military-9086",
    "src": "https://archive.org/download/Ex_Military-9086/Death_Grips_-_12_-_I_Want_it_I_need_it_Death_Heated.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Experimental Hip Hop"
   },
   {
    "id": "full-ia-Ex_Military-9086-23",
@@ -440,11 +411,12 @@
    "artist": "Death Grips",
    "album": "Ex Military",
    "duration": 290,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Ex_Military-9086",
    "src": "https://archive.org/download/Ex_Military-9086/Death_Grips_-_13_-_Blood_Creepin.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Experimental Hip Hop"
   },
   {
    "id": "full-ia-Grab_Bag-12446-24",
@@ -452,11 +424,12 @@
    "artist": "Jahzzar",
    "album": "Grab Bag",
    "duration": 234,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Grab_Bag-12446",
    "src": "https://archive.org/download/Grab_Bag-12446/01_-_Dummy.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Instrumental"
   },
   {
    "id": "full-ia-Grab_Bag-12446-25",
@@ -464,11 +437,12 @@
    "artist": "Jahzzar",
    "album": "Grab Bag",
    "duration": 308,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Grab_Bag-12446",
    "src": "https://archive.org/download/Grab_Bag-12446/02_-_Candlelight.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Instrumental"
   },
   {
    "id": "full-ia-Grab_Bag-12446-26",
@@ -476,11 +450,12 @@
    "artist": "Jahzzar",
    "album": "Grab Bag",
    "duration": 254,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Grab_Bag-12446",
    "src": "https://archive.org/download/Grab_Bag-12446/03_-_Trust.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Instrumental"
   },
   {
    "id": "full-ia-Grab_Bag-12446-27",
@@ -488,11 +463,12 @@
    "artist": "Jahzzar",
    "album": "Grab Bag",
    "duration": 266,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Grab_Bag-12446",
    "src": "https://archive.org/download/Grab_Bag-12446/04_-_Guilty.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Instrumental"
   },
   {
    "id": "full-ia-Grab_Bag-12446-28",
@@ -500,11 +476,12 @@
    "artist": "Jahzzar",
    "album": "Grab Bag",
    "duration": 266,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Grab_Bag-12446",
    "src": "https://archive.org/download/Grab_Bag-12446/05_-_Storm.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Instrumental"
   },
   {
    "id": "full-ia-BABES_FOREVER-6932-29",
@@ -512,11 +489,12 @@
    "artist": "COOLRUNNINGS",
    "album": "BABES FOREVER",
    "duration": 214,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/BABES_FOREVER-6932",
    "src": "https://archive.org/download/BABES_FOREVER-6932/COOLRUNNINGS_-_01_-_SAN_DIMAS_OASIS.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Indie Rock"
   },
   {
    "id": "full-ia-BABES_FOREVER-6932-30",
@@ -524,11 +502,12 @@
    "artist": "COOLRUNNINGS",
    "album": "BABES FOREVER",
    "duration": 254,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/BABES_FOREVER-6932",
    "src": "https://archive.org/download/BABES_FOREVER-6932/COOLRUNNINGS_-_02_-_BABES_FOREVER.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Indie Rock"
   },
   {
    "id": "full-ia-BABES_FOREVER-6932-31",
@@ -536,11 +515,12 @@
    "artist": "COOLRUNNINGS",
    "album": "BABES FOREVER",
    "duration": 246,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/BABES_FOREVER-6932",
    "src": "https://archive.org/download/BABES_FOREVER-6932/COOLRUNNINGS_-_03_-_BETTER_THINGS.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Indie Rock"
   },
   {
    "id": "full-ia-BABES_FOREVER-6932-32",
@@ -548,11 +528,12 @@
    "artist": "COOLRUNNINGS",
    "album": "BABES FOREVER",
    "duration": 201,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/BABES_FOREVER-6932",
    "src": "https://archive.org/download/BABES_FOREVER-6932/COOLRUNNINGS_-_04_-_WHEN_I_GOT_HIGH_WITH_YOU.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Indie Rock"
   },
   {
    "id": "full-ia-BABES_FOREVER-6932-33",
@@ -560,11 +541,12 @@
    "artist": "COOLRUNNINGS",
    "album": "BABES FOREVER",
    "duration": 243,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/BABES_FOREVER-6932",
    "src": "https://archive.org/download/BABES_FOREVER-6932/COOLRUNNINGS_-_05_-_TRIPPIN_BALLS_AT_DUR_WEINERSCHNITZEL.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Indie Rock"
   },
   {
    "id": "full-ia-BABES_FOREVER-6932-34",
@@ -572,11 +554,12 @@
    "artist": "COOLRUNNINGS",
    "album": "BABES FOREVER",
    "duration": 298,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/BABES_FOREVER-6932",
    "src": "https://archive.org/download/BABES_FOREVER-6932/COOLRUNNINGS_-_07_-_SLUMBERLAND.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Indie Rock"
   },
   {
    "id": "full-ia-Kuka_EP-12251-35",
@@ -584,11 +567,12 @@
    "artist": "Kučka",
    "album": "Kučka EP",
    "duration": 328,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Kuka_EP-12251",
    "src": "https://archive.org/download/Kuka_EP-12251/Kuka_-_01_-_rewind.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Electronic"
   },
   {
    "id": "full-ia-Kuka_EP-12251-36",
@@ -596,11 +580,12 @@
    "artist": "Kučka",
    "album": "Kučka EP",
    "duration": 299,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Kuka_EP-12251",
    "src": "https://archive.org/download/Kuka_EP-12251/Kuka_-_02_-_the_operation.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Electronic"
   },
   {
    "id": "full-ia-Kuka_EP-12251-37",
@@ -608,11 +593,12 @@
    "artist": "Kučka",
    "album": "Kučka EP",
    "duration": 243,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Kuka_EP-12251",
    "src": "https://archive.org/download/Kuka_EP-12251/Kuka_-_03_-_polly_serialkillersundays.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Electronic"
   },
   {
    "id": "full-ia-Kuka_EP-12251-38",
@@ -620,11 +606,12 @@
    "artist": "Kučka",
    "album": "Kučka EP",
    "duration": 265,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Kuka_EP-12251",
    "src": "https://archive.org/download/Kuka_EP-12251/Kuka_-_04_-_sun_moon_blood_night.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Electronic"
   },
   {
    "id": "full-ia-Kuka_EP-12251-39",
@@ -632,11 +619,12 @@
    "artist": "Kučka",
    "album": "Kučka EP",
    "duration": 265,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Kuka_EP-12251",
    "src": "https://archive.org/download/Kuka_EP-12251/Kuka_-_05_-_chinatown.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Electronic"
   },
   {
    "id": "full-ia-Kuka_EP-12251-40",
@@ -644,11 +632,12 @@
    "artist": "Kučka",
    "album": "Kučka EP",
    "duration": 270,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Kuka_EP-12251",
    "src": "https://archive.org/download/Kuka_EP-12251/Kuka_-_06_-_i.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Electronic"
   },
   {
    "id": "full-ia-Kuka_EP-12251-41",
@@ -656,11 +645,12 @@
    "artist": "Kučka",
    "album": "Kučka EP",
    "duration": 253,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Kuka_EP-12251",
    "src": "https://archive.org/download/Kuka_EP-12251/Kuka_-_07_-_rewind_fm_remix.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Electronic"
   },
   {
    "id": "full-ia-Ill_Be_Good_EP-12234-42",
@@ -668,11 +658,12 @@
    "artist": "Setec",
    "album": "I'll Be Good EP",
    "duration": 188,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Ill_Be_Good_EP-12234",
    "src": "https://archive.org/download/Ill_Be_Good_EP-12234/Setec_-_01_-_Ill_Be_Good.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Ambient"
   },
   {
    "id": "full-ia-Ill_Be_Good_EP-12234-43",
@@ -680,11 +671,12 @@
    "artist": "Setec",
    "album": "I'll Be Good EP",
    "duration": 127,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Ill_Be_Good_EP-12234",
    "src": "https://archive.org/download/Ill_Be_Good_EP-12234/Setec_-_02_-_Vowel_Of_Owl.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Ambient"
   },
   {
    "id": "full-ia-Ill_Be_Good_EP-12234-44",
@@ -692,11 +684,12 @@
    "artist": "Setec",
    "album": "I'll Be Good EP",
    "duration": 221,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Ill_Be_Good_EP-12234",
    "src": "https://archive.org/download/Ill_Be_Good_EP-12234/Setec_-_03_-_Get_Out_Of_Here.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Ambient"
   },
   {
    "id": "full-ia-Ill_Be_Good_EP-12234-45",
@@ -704,11 +697,12 @@
    "artist": "Setec",
    "album": "I'll Be Good EP",
    "duration": 265,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Ill_Be_Good_EP-12234",
    "src": "https://archive.org/download/Ill_Be_Good_EP-12234/Setec_-_04_-_Woodchips.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Ambient"
   },
   {
    "id": "full-ia-Back_To_The_Sea-8076-46",
@@ -716,11 +710,12 @@
    "artist": "Adam and Alma",
    "album": "Back To The Sea",
    "duration": 428,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Back_To_The_Sea-8076",
    "src": "https://archive.org/download/Back_To_The_Sea-8076/Adam__Alma_-_01_-_Things.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Electronic"
   },
   {
    "id": "full-ia-Back_To_The_Sea-8076-47",
@@ -728,11 +723,12 @@
    "artist": "Adam and Alma",
    "album": "Back To The Sea",
    "duration": 348,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Back_To_The_Sea-8076",
    "src": "https://archive.org/download/Back_To_The_Sea-8076/Adam__Alma_-_02_-_Smile_For_Me_Sun.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Electronic"
   },
   {
    "id": "full-ia-Back_To_The_Sea-8076-48",
@@ -740,11 +736,12 @@
    "artist": "Adam and Alma",
    "album": "Back To The Sea",
    "duration": 393,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Back_To_The_Sea-8076",
    "src": "https://archive.org/download/Back_To_The_Sea-8076/Adam__Alma_-_03_-_Naked.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Electronic"
   },
   {
    "id": "full-ia-Back_To_The_Sea-8076-49",
@@ -752,11 +749,12 @@
    "artist": "Adam and Alma",
    "album": "Back To The Sea",
    "duration": 370,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Back_To_The_Sea-8076",
    "src": "https://archive.org/download/Back_To_The_Sea-8076/Adam__Alma_-_04_-_Back_To_The_Sea.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Electronic"
   },
   {
    "id": "full-ia-Back_To_The_Sea-8076-50",
@@ -764,11 +762,12 @@
    "artist": "Adam and Alma",
    "album": "Back To The Sea",
    "duration": 420,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Back_To_The_Sea-8076",
    "src": "https://archive.org/download/Back_To_The_Sea-8076/Adam__Alma_-_05_-_Bon.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Electronic"
   },
   {
    "id": "full-ia-Winter_Sunshine_EP-8201-51",
@@ -776,11 +775,12 @@
    "artist": "Evgeny Grinko",
    "album": "Winter Sunshine EP",
    "duration": 195,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Winter_Sunshine_EP-8201",
    "src": "https://archive.org/download/Winter_Sunshine_EP-8201/Evgeny_Grinko_-_01_-_Winter_Sunshine.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Modern Classical"
   },
   {
    "id": "full-ia-Winter_Sunshine_EP-8201-52",
@@ -788,11 +788,12 @@
    "artist": "Evgeny Grinko",
    "album": "Winter Sunshine EP",
    "duration": 130,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Winter_Sunshine_EP-8201",
    "src": "https://archive.org/download/Winter_Sunshine_EP-8201/Evgeny_Grinko_-_02_-_Other_Child_Room.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Modern Classical"
   },
   {
    "id": "full-ia-Winter_Sunshine_EP-8201-53",
@@ -800,11 +801,12 @@
    "artist": "Evgeny Grinko",
    "album": "Winter Sunshine EP",
    "duration": 283,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Winter_Sunshine_EP-8201",
    "src": "https://archive.org/download/Winter_Sunshine_EP-8201/Evgeny_Grinko_-_03_-_It_smells_like_Chamomile_Tea.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Modern Classical"
   },
   {
    "id": "full-ia-Winter_Sunshine_EP-8201-54",
@@ -812,11 +814,12 @@
    "artist": "Evgeny Grinko",
    "album": "Winter Sunshine EP",
    "duration": 103,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Winter_Sunshine_EP-8201",
    "src": "https://archive.org/download/Winter_Sunshine_EP-8201/Evgeny_Grinko_-_04_-_Blizzard.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Modern Classical"
   },
   {
    "id": "full-ia-Winter_Sunshine_EP-8201-55",
@@ -824,11 +827,12 @@
    "artist": "Evgeny Grinko",
    "album": "Winter Sunshine EP",
    "duration": 99,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Winter_Sunshine_EP-8201",
    "src": "https://archive.org/download/Winter_Sunshine_EP-8201/Evgeny_Grinko_-_05_-_Sunset.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Modern Classical"
   },
   {
    "id": "full-ia2-Below_The_Sea-11918-1",
@@ -836,11 +840,12 @@
    "artist": "Niamh De Barra",
    "album": "Below The Sea",
    "duration": 223,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Below_The_Sea-11918",
    "src": "https://archive.org/download/Below_The_Sea-11918/Niamh_De_Barra_-_01_-_The_Man_In_The_Picture.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Alternative"
   },
   {
    "id": "full-ia2-Below_The_Sea-11918-2",
@@ -848,11 +853,12 @@
    "artist": "Niamh De Barra",
    "album": "Below The Sea",
    "duration": 241,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Below_The_Sea-11918",
    "src": "https://archive.org/download/Below_The_Sea-11918/Niamh_De_Barra_-_02_-_Big_Day_For_The_Hunter.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Alternative"
   },
   {
    "id": "full-ia2-Below_The_Sea-11918-3",
@@ -860,11 +866,12 @@
    "artist": "Niamh De Barra",
    "album": "Below The Sea",
    "duration": 350,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Below_The_Sea-11918",
    "src": "https://archive.org/download/Below_The_Sea-11918/Niamh_De_Barra_-_03_-_Big_Day_Below_The_Sea.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Alternative"
   },
   {
    "id": "full-ia2-Below_The_Sea-11918-4",
@@ -872,11 +879,12 @@
    "artist": "Niamh De Barra",
    "album": "Below The Sea",
    "duration": 178,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Below_The_Sea-11918",
    "src": "https://archive.org/download/Below_The_Sea-11918/Niamh_De_Barra_-_04_-_Rugcutter.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Alternative"
   },
   {
    "id": "full-ia2-OnwardUpward-13786-1",
@@ -884,11 +892,12 @@
    "artist": "junior85",
    "album": "Onward&Upward",
    "duration": 923,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/OnwardUpward-13786",
    "src": "https://archive.org/download/OnwardUpward-13786/junior85_-_01_-_Onward.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Electronic"
   },
   {
    "id": "full-ia2-OnwardUpward-13786-2",
@@ -896,11 +905,12 @@
    "artist": "junior85",
    "album": "Onward&Upward",
    "duration": 305,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/OnwardUpward-13786",
    "src": "https://archive.org/download/OnwardUpward-13786/junior85_-_02_-_Upward.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Electronic"
   },
   {
    "id": "full-ia2-OnwardUpward-13786-3",
@@ -908,11 +918,12 @@
    "artist": "junior85",
    "album": "Onward&Upward",
    "duration": 675,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/OnwardUpward-13786",
    "src": "https://archive.org/download/OnwardUpward-13786/junior85_-_03_-_OnwardUpward.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Electronic"
   },
   {
    "id": "full-ia2-Big_Buck_Bunny-13302-1",
@@ -920,11 +931,12 @@
    "artist": "Jan Morgenstern",
    "album": "Big Buck Bunny",
    "duration": 91,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Big_Buck_Bunny-13302",
    "src": "https://archive.org/download/Big_Buck_Bunny-13302/Jan_Morgenstern_-_02_-_All_Ears.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Soundtrack"
   },
   {
    "id": "full-ia2-Big_Buck_Bunny-13302-2",
@@ -932,11 +944,12 @@
    "artist": "Jan Morgenstern",
    "album": "Big Buck Bunny",
    "duration": 148,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Big_Buck_Bunny-13302",
    "src": "https://archive.org/download/Big_Buck_Bunny-13302/Jan_Morgenstern_-_03_-_Shock_and_Gnaw.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Soundtrack"
   },
   {
    "id": "full-ia2-Big_Buck_Bunny-13302-3",
@@ -944,11 +957,12 @@
    "artist": "Jan Morgenstern",
    "album": "Big Buck Bunny",
    "duration": 75,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Big_Buck_Bunny-13302",
    "src": "https://archive.org/download/Big_Buck_Bunny-13302/Jan_Morgenstern_-_04_-_Death_Becomes_Fur.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Soundtrack"
   },
   {
    "id": "full-ia2-Big_Buck_Bunny-13302-4",
@@ -956,11 +970,12 @@
    "artist": "Jan Morgenstern",
    "album": "Big Buck Bunny",
    "duration": 80,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Big_Buck_Bunny-13302",
    "src": "https://archive.org/download/Big_Buck_Bunny-13302/Jan_Morgenstern_-_05_-_Daikaiju_RA-BI-TO.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Soundtrack"
   },
   {
    "id": "full-ia2-Big_Buck_Bunny-13302-5",
@@ -968,11 +983,12 @@
    "artist": "Jan Morgenstern",
    "album": "Big Buck Bunny",
    "duration": 69,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Big_Buck_Bunny-13302",
    "src": "https://archive.org/download/Big_Buck_Bunny-13302/Jan_Morgenstern_-_06_-_Hare_Force.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Soundtrack"
   },
   {
    "id": "full-ia2-Big_Buck_Bunny-13302-6",
@@ -980,11 +996,12 @@
    "artist": "Jan Morgenstern",
    "album": "Big Buck Bunny",
    "duration": 128,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Big_Buck_Bunny-13302",
    "src": "https://archive.org/download/Big_Buck_Bunny-13302/Jan_Morgenstern_-_07_-_High_as_a_Kite__End_Crabbits.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Soundtrack"
   },
   {
    "id": "full-ia2-Silent_movie_surround_sound-5031-1",
@@ -992,11 +1009,12 @@
    "artist": "Monopole",
    "album": "Silent movie surround sound",
    "duration": 496,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Silent_movie_surround_sound-5031",
    "src": "https://archive.org/download/Silent_movie_surround_sound-5031/Monopole_-_02_-_Stereo-vision_radio.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Hip Hop"
   },
   {
    "id": "full-ia2-Sci-Fi_Vol1-9802-1",
@@ -1004,11 +1022,12 @@
    "artist": "Pablo Ribot",
    "album": "Sci-Fi Vol.1",
    "duration": 136,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Sci-Fi_Vol1-9802",
    "src": "https://archive.org/download/Sci-Fi_Vol1-9802/Pablo_Ribot_-_01_-_Bending_You.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Electronic"
   },
   {
    "id": "full-ia2-Sci-Fi_Vol1-9802-2",
@@ -1016,11 +1035,12 @@
    "artist": "Pablo Ribot",
    "album": "Sci-Fi Vol.1",
    "duration": 156,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Sci-Fi_Vol1-9802",
    "src": "https://archive.org/download/Sci-Fi_Vol1-9802/Pablo_Ribot_-_02_-_Timeless_Space.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Electronic"
   },
   {
    "id": "full-ia2-Sci-Fi_Vol1-9802-3",
@@ -1028,11 +1048,12 @@
    "artist": "Pablo Ribot",
    "album": "Sci-Fi Vol.1",
    "duration": 158,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Sci-Fi_Vol1-9802",
    "src": "https://archive.org/download/Sci-Fi_Vol1-9802/Pablo_Ribot_-_03_-_Antibliss.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Electronic"
   },
   {
    "id": "full-ia2-Sci-Fi_Vol1-9802-4",
@@ -1040,11 +1061,12 @@
    "artist": "Pablo Ribot",
    "album": "Sci-Fi Vol.1",
    "duration": 220,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Sci-Fi_Vol1-9802",
    "src": "https://archive.org/download/Sci-Fi_Vol1-9802/Pablo_Ribot_-_04_-_Monster_Bit.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Electronic"
   },
   {
    "id": "full-ia2-Sci-Fi_Vol1-9802-5",
@@ -1052,11 +1074,12 @@
    "artist": "Pablo Ribot",
    "album": "Sci-Fi Vol.1",
    "duration": 150,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Sci-Fi_Vol1-9802",
    "src": "https://archive.org/download/Sci-Fi_Vol1-9802/Pablo_Ribot_-_05_-_Mk_II_Infiltrado.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Electronic"
   },
   {
    "id": "full-ia2-Sci-Fi_Vol1-9802-6",
@@ -1064,11 +1087,12 @@
    "artist": "Pablo Ribot",
    "album": "Sci-Fi Vol.1",
    "duration": 182,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Sci-Fi_Vol1-9802",
    "src": "https://archive.org/download/Sci-Fi_Vol1-9802/Pablo_Ribot_-_06_-_Last_days_in_the_Planet_Earth.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Electronic"
   },
   {
    "id": "full-ia2-Sci-Fi_Vol1-9802-7",
@@ -1076,11 +1100,12 @@
    "artist": "Pablo Ribot",
    "album": "Sci-Fi Vol.1",
    "duration": 152,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Sci-Fi_Vol1-9802",
    "src": "https://archive.org/download/Sci-Fi_Vol1-9802/Pablo_Ribot_-_07_-_Badly_Circuit.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Electronic"
   },
   {
    "id": "full-ia2-Sci-Fi_Vol1-9802-8",
@@ -1088,11 +1113,12 @@
    "artist": "Pablo Ribot",
    "album": "Sci-Fi Vol.1",
    "duration": 140,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Sci-Fi_Vol1-9802",
    "src": "https://archive.org/download/Sci-Fi_Vol1-9802/Pablo_Ribot_-_08_-_Inside_The_Dream.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Electronic"
   },
   {
    "id": "full-ia2-Sci-Fi_Vol1-9802-9",
@@ -1100,11 +1126,12 @@
    "artist": "Pablo Ribot",
    "album": "Sci-Fi Vol.1",
    "duration": 154,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Sci-Fi_Vol1-9802",
    "src": "https://archive.org/download/Sci-Fi_Vol1-9802/Pablo_Ribot_-_10_-_Half-Machine.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Electronic"
   },
   {
    "id": "full-ia2-Sci-Fi_Vol1-9802-10",
@@ -1112,11 +1139,12 @@
    "artist": "Pablo Ribot",
    "album": "Sci-Fi Vol.1",
    "duration": 160,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Sci-Fi_Vol1-9802",
    "src": "https://archive.org/download/Sci-Fi_Vol1-9802/Pablo_Ribot_-_11_-_Broken_Form.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Electronic"
   },
   {
    "id": "full-ia2-Sci-Fi_Vol1-9802-11",
@@ -1124,11 +1152,12 @@
    "artist": "Pablo Ribot",
    "album": "Sci-Fi Vol.1",
    "duration": 147,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Sci-Fi_Vol1-9802",
    "src": "https://archive.org/download/Sci-Fi_Vol1-9802/Pablo_Ribot_-_12_-_Portrait_Of_The_Happy_Days.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Electronic"
   },
   {
    "id": "full-ia2-Sci-Fi_Vol1-9802-12",
@@ -1136,11 +1165,12 @@
    "artist": "Pablo Ribot",
    "album": "Sci-Fi Vol.1",
    "duration": 182,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Sci-Fi_Vol1-9802",
    "src": "https://archive.org/download/Sci-Fi_Vol1-9802/Pablo_Ribot_-_13_-_Password_Incorrecto.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Electronic"
   },
   {
    "id": "full-ia2-Sci-Fi_Vol1-9802-13",
@@ -1148,11 +1178,12 @@
    "artist": "Pablo Ribot",
    "album": "Sci-Fi Vol.1",
    "duration": 117,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Sci-Fi_Vol1-9802",
    "src": "https://archive.org/download/Sci-Fi_Vol1-9802/Pablo_Ribot_-_14_-_Mc_Chromatic.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Electronic"
   },
   {
    "id": "full-ia2-Sci-Fi_Vol1-9802-14",
@@ -1160,11 +1191,12 @@
    "artist": "Pablo Ribot",
    "album": "Sci-Fi Vol.1",
    "duration": 273,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Sci-Fi_Vol1-9802",
    "src": "https://archive.org/download/Sci-Fi_Vol1-9802/Pablo_Ribot_-_15_-_Beatnik_Man.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Electronic"
   },
   {
    "id": "full-ia2-Feel_Freeze-9508-1",
@@ -1172,11 +1204,12 @@
    "artist": "Naran",
    "album": "Feel Free:::::ze",
    "duration": 240,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Feel_Freeze-9508",
    "src": "https://archive.org/download/Feel_Freeze-9508/Naran_-_01_-_I_am_rich.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Alternative"
   },
   {
    "id": "full-ia2-Feel_Freeze-9508-2",
@@ -1184,11 +1217,12 @@
    "artist": "Naran",
    "album": "Feel Free:::::ze",
    "duration": 420,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Feel_Freeze-9508",
    "src": "https://archive.org/download/Feel_Freeze-9508/Naran_-_02_-_Sister_D2.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Alternative"
   },
   {
    "id": "full-ia2-Feel_Freeze-9508-3",
@@ -1196,11 +1230,12 @@
    "artist": "Naran",
    "album": "Feel Free:::::ze",
    "duration": 493,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Feel_Freeze-9508",
    "src": "https://archive.org/download/Feel_Freeze-9508/Naran_-_03_-_Onnee.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Alternative"
   },
   {
    "id": "full-ia2-Feel_Freeze-9508-4",
@@ -1208,11 +1243,12 @@
    "artist": "Naran",
    "album": "Feel Free:::::ze",
    "duration": 314,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Feel_Freeze-9508",
    "src": "https://archive.org/download/Feel_Freeze-9508/Naran_-_04_-_Beginning.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Alternative"
   },
   {
    "id": "full-ia2-Feel_Freeze-9508-5",
@@ -1220,11 +1256,12 @@
    "artist": "Naran",
    "album": "Feel Free:::::ze",
    "duration": 288,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Feel_Freeze-9508",
    "src": "https://archive.org/download/Feel_Freeze-9508/Naran_-_05_-_Brother_of_an_angel.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Alternative"
   },
   {
    "id": "full-ia2-The_Last_Straw-6527-1",
@@ -1232,11 +1269,12 @@
    "artist": "Sp",
    "album": "The Last Straw",
    "duration": 85,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/The_Last_Straw-6527",
    "src": "https://archive.org/download/The_Last_Straw-6527/Spitball_-_01_-_Split_Splat.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Hip-Hop/Rap"
   },
   {
    "id": "full-ia2-The_Last_Straw-6527-2",
@@ -1244,11 +1282,12 @@
    "artist": "Spitball",
    "album": "The Last Straw",
    "duration": 133,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/The_Last_Straw-6527",
    "src": "https://archive.org/download/The_Last_Straw-6527/Spitball_-_02_-_Nasty_Habit.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Hip-Hop/Rap"
   },
   {
    "id": "full-ia2-The_Last_Straw-6527-3",
@@ -1256,11 +1295,12 @@
    "artist": "Spitball",
    "album": "The Last Straw",
    "duration": 182,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/The_Last_Straw-6527",
    "src": "https://archive.org/download/The_Last_Straw-6527/Spitball_-_03_-_Bizznizz.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Hip-Hop/Rap"
   },
   {
    "id": "full-ia2-The_Last_Straw-6527-4",
@@ -1268,11 +1308,12 @@
    "artist": "Spitball",
    "album": "The Last Straw",
    "duration": 67,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/The_Last_Straw-6527",
    "src": "https://archive.org/download/The_Last_Straw-6527/Spitball_-_04_-_Cap_Session_Pt_1.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Hip-Hop/Rap"
   },
   {
    "id": "full-ia2-The_Last_Straw-6527-5",
@@ -1280,11 +1321,12 @@
    "artist": "Spitball",
    "album": "The Last Straw",
    "duration": 236,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/The_Last_Straw-6527",
    "src": "https://archive.org/download/The_Last_Straw-6527/Spitball_-_05_-_Diss_U.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Hip-Hop/Rap"
   },
   {
    "id": "full-ia2-The_Last_Straw-6527-6",
@@ -1292,11 +1334,12 @@
    "artist": "Spitball",
    "album": "The Last Straw",
    "duration": 134,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/The_Last_Straw-6527",
    "src": "https://archive.org/download/The_Last_Straw-6527/Spitball_-_06_-_Fuk_That_Bust_Bak.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Hip-Hop/Rap"
   },
   {
    "id": "full-ia2-The_Last_Straw-6527-7",
@@ -1304,11 +1347,12 @@
    "artist": "Spitball",
    "album": "The Last Straw",
    "duration": 228,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/The_Last_Straw-6527",
    "src": "https://archive.org/download/The_Last_Straw-6527/Spitball_-_07_-_Gift_Of_Gab.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Hip-Hop/Rap"
   },
   {
    "id": "full-ia2-The_Last_Straw-6527-8",
@@ -1316,11 +1360,12 @@
    "artist": "Spitball",
    "album": "The Last Straw",
    "duration": 117,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/The_Last_Straw-6527",
    "src": "https://archive.org/download/The_Last_Straw-6527/Spitball_-_08_-_Shitting_Bricks.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Hip-Hop/Rap"
   },
   {
    "id": "full-ia2-The_Last_Straw-6527-9",
@@ -1328,11 +1373,12 @@
    "artist": "Spitball",
    "album": "The Last Straw",
    "duration": 84,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/The_Last_Straw-6527",
    "src": "https://archive.org/download/The_Last_Straw-6527/Spitball_-_09_-__Vs_.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Hip-Hop/Rap"
   },
   {
    "id": "full-ia2-The_Last_Straw-6527-10",
@@ -1340,11 +1386,12 @@
    "artist": "Spitball",
    "album": "The Last Straw",
    "duration": 257,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/The_Last_Straw-6527",
    "src": "https://archive.org/download/The_Last_Straw-6527/Spitball_-_10_-_Perfect_Storm.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Hip-Hop/Rap"
   },
   {
    "id": "full-ia2-The_Last_Straw-6527-11",
@@ -1352,11 +1399,12 @@
    "artist": "Spitball",
    "album": "The Last Straw",
    "duration": 248,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/The_Last_Straw-6527",
    "src": "https://archive.org/download/The_Last_Straw-6527/Spitball_-_11_-_Slap_Happy_Spittin.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Hip-Hop/Rap"
   },
   {
    "id": "full-ia2-The_Last_Straw-6527-12",
@@ -1364,11 +1412,12 @@
    "artist": "Spitball",
    "album": "The Last Straw",
    "duration": 234,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/The_Last_Straw-6527",
    "src": "https://archive.org/download/The_Last_Straw-6527/Spitball_-_12_-_Trash_Talkin_Trash.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Hip-Hop/Rap"
   },
   {
    "id": "full-ia2-The_Last_Straw-6527-13",
@@ -1376,11 +1425,12 @@
    "artist": "Spitball",
    "album": "The Last Straw",
    "duration": 267,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/The_Last_Straw-6527",
    "src": "https://archive.org/download/The_Last_Straw-6527/Spitball_-_13_-_HmmmBrilliant.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Hip-Hop/Rap"
   },
   {
    "id": "full-ia2-The_Last_Straw-6527-14",
@@ -1388,11 +1438,12 @@
    "artist": "Spitball",
    "album": "The Last Straw",
    "duration": 174,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/The_Last_Straw-6527",
    "src": "https://archive.org/download/The_Last_Straw-6527/Spitball_-_14_-_Tits_Kit.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Hip-Hop/Rap"
   },
   {
    "id": "full-ia2-The_Last_Straw-6527-15",
@@ -1400,11 +1451,12 @@
    "artist": "Spitball",
    "album": "The Last Straw",
    "duration": 181,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/The_Last_Straw-6527",
    "src": "https://archive.org/download/The_Last_Straw-6527/Spitball_-_15_-_The_Worst.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Hip-Hop/Rap"
   },
   {
    "id": "full-ia2-The_Last_Straw-6527-16",
@@ -1412,11 +1464,12 @@
    "artist": "Spitball",
    "album": "The Last Straw",
    "duration": 161,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/The_Last_Straw-6527",
    "src": "https://archive.org/download/The_Last_Straw-6527/Spitball_-_16_-_Season_Of_The_Vic.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Hip-Hop/Rap"
   },
   {
    "id": "full-ia2-The_Last_Straw-6527-17",
@@ -1424,11 +1477,12 @@
    "artist": "Spitball",
    "album": "The Last Straw",
    "duration": 264,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/The_Last_Straw-6527",
    "src": "https://archive.org/download/The_Last_Straw-6527/Spitball_-_17_-_Stuk_On_Stupid.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Hip-Hop/Rap"
   },
   {
    "id": "full-ia2-The_Last_Straw-6527-18",
@@ -1436,11 +1490,12 @@
    "artist": "Spitball",
    "album": "The Last Straw",
    "duration": 189,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/The_Last_Straw-6527",
    "src": "https://archive.org/download/The_Last_Straw-6527/Spitball_-_18_-_Spitball_Anthem.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Hip-Hop/Rap"
   },
   {
    "id": "full-ia2-Testosterone-11904-1",
@@ -1448,11 +1503,12 @@
    "artist": "Talkshow Boy",
    "album": "Testosterone!",
    "duration": 87,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Testosterone-11904",
    "src": "https://archive.org/download/Testosterone-11904/Talkshow_Boy_-_01_-_I_Got_A_Melody.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Alternative"
   },
   {
    "id": "full-ia2-Testosterone-11904-2",
@@ -1460,11 +1516,12 @@
    "artist": "Talkshow Boy",
    "album": "Testosterone!",
    "duration": 159,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Testosterone-11904",
    "src": "https://archive.org/download/Testosterone-11904/Talkshow_Boy_-_02_-_Testosterone.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Alternative"
   },
   {
    "id": "full-ia2-Testosterone-11904-3",
@@ -1472,11 +1529,12 @@
    "artist": "Talkshow Boy",
    "album": "Testosterone!",
    "duration": 125,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Testosterone-11904",
    "src": "https://archive.org/download/Testosterone-11904/Talkshow_Boy_-_03_-_Far_More_Love_Than_Sound.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Alternative"
   },
   {
    "id": "full-ia2-Testosterone-11904-4",
@@ -1484,11 +1542,12 @@
    "artist": "Talkshow Boy",
    "album": "Testosterone!",
    "duration": 146,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Testosterone-11904",
    "src": "https://archive.org/download/Testosterone-11904/Talkshow_Boy_-_04_-_Black_Remix.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Alternative"
   },
   {
    "id": "full-ia2-Testosterone-11904-5",
@@ -1496,11 +1555,12 @@
    "artist": "Talkshow Boy",
    "album": "Testosterone!",
    "duration": 125,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Testosterone-11904",
    "src": "https://archive.org/download/Testosterone-11904/Talkshow_Boy_-_05_-_I_Cut_Myself.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Alternative"
   },
   {
    "id": "full-ia2-Testosterone-11904-6",
@@ -1508,11 +1568,12 @@
    "artist": "Talkshow Boy",
    "album": "Testosterone!",
    "duration": 70,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Testosterone-11904",
    "src": "https://archive.org/download/Testosterone-11904/Talkshow_Boy_-_06_-_Second_Sun.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Alternative"
   },
   {
    "id": "full-ia2-Testosterone-11904-7",
@@ -1520,11 +1581,12 @@
    "artist": "Talkshow Boy",
    "album": "Testosterone!",
    "duration": 213,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Testosterone-11904",
    "src": "https://archive.org/download/Testosterone-11904/Talkshow_Boy_-_07_-_Beatpop_Girl-a-thon.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Alternative"
   },
   {
    "id": "full-ia2-Testosterone-11904-8",
@@ -1532,11 +1594,12 @@
    "artist": "Talkshow Boy",
    "album": "Testosterone!",
    "duration": 134,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Testosterone-11904",
    "src": "https://archive.org/download/Testosterone-11904/Talkshow_Boy_-_08_-_Lcd_Soundsystem_Is_Locked_Under_The_Stairs_And_Forcefed_Methadone_At_My_House.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Alternative"
   },
   {
    "id": "full-ia2-Testosterone-11904-9",
@@ -1544,11 +1607,12 @@
    "artist": "Talkshow Boy",
    "album": "Testosterone!",
    "duration": 149,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Testosterone-11904",
    "src": "https://archive.org/download/Testosterone-11904/Talkshow_Boy_-_09_-_Four_Cute_Breakbeats.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Alternative"
   },
   {
    "id": "full-ia2-Testosterone-11904-10",
@@ -1556,11 +1620,12 @@
    "artist": "Talkshow Boy",
    "album": "Testosterone!",
    "duration": 174,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Testosterone-11904",
    "src": "https://archive.org/download/Testosterone-11904/Talkshow_Boy_-_10_-_Im_Difficult.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Alternative"
   },
   {
    "id": "full-ia2-Testosterone-11904-11",
@@ -1568,11 +1633,12 @@
    "artist": "Talkshow Boy",
    "album": "Testosterone!",
    "duration": 138,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Testosterone-11904",
    "src": "https://archive.org/download/Testosterone-11904/Talkshow_Boy_-_11_-_Ice_Police_Vs_Love_Doctors.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Alternative"
   },
   {
    "id": "full-ia2-Testosterone-11904-12",
@@ -1580,11 +1646,12 @@
    "artist": "Talkshow Boy",
    "album": "Testosterone!",
    "duration": 175,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Testosterone-11904",
    "src": "https://archive.org/download/Testosterone-11904/Talkshow_Boy_-_12_-_Single_Of_The_Year_Talkshow_Boy_Sings_An_Aria.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Alternative"
   },
   {
    "id": "full-ia2-Testosterone-11904-13",
@@ -1592,11 +1659,12 @@
    "artist": "Talkshow Boy",
    "album": "Testosterone!",
    "duration": 182,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Testosterone-11904",
    "src": "https://archive.org/download/Testosterone-11904/Talkshow_Boy_-_13_-_Chop_Us_Out.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Alternative"
   },
   {
    "id": "full-ia2-Testosterone-11904-14",
@@ -1604,11 +1672,12 @@
    "artist": "Talkshow Boy",
    "album": "Testosterone!",
    "duration": 166,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Testosterone-11904",
    "src": "https://archive.org/download/Testosterone-11904/Talkshow_Boy_-_14_-_Fry_Me_In_A_Pan.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Alternative"
   },
   {
    "id": "full-ia2-Testosterone-11904-15",
@@ -1616,11 +1685,12 @@
    "artist": "Talkshow Boy",
    "album": "Testosterone!",
    "duration": 111,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Testosterone-11904",
    "src": "https://archive.org/download/Testosterone-11904/Talkshow_Boy_-_15_-_Black_Logic_Vhs_Version.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Alternative"
   },
   {
    "id": "full-ia2-Testosterone-11904-16",
@@ -1628,11 +1698,12 @@
    "artist": "Talkshow Boy",
    "album": "Testosterone!",
    "duration": 61,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Testosterone-11904",
    "src": "https://archive.org/download/Testosterone-11904/Talkshow_Boy_-_16_-_Double-up_Hard_Pop_Edit.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Alternative"
   },
   {
    "id": "full-ia2-Testosterone-11904-17",
@@ -1640,11 +1711,12 @@
    "artist": "Talkshow Boy",
    "album": "Testosterone!",
    "duration": 179,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Testosterone-11904",
    "src": "https://archive.org/download/Testosterone-11904/Talkshow_Boy_-_17_-_My_Blood_Is_Fucking_Up_The_Dancefloor.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Alternative"
   },
   {
    "id": "full-ia2-Testosterone-11904-18",
@@ -1652,11 +1724,12 @@
    "artist": "Talkshow Boy",
    "album": "Testosterone!",
    "duration": 127,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Testosterone-11904",
    "src": "https://archive.org/download/Testosterone-11904/Talkshow_Boy_-_18_-_Step_Into_My_Orifice_Baby.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Alternative"
   },
   {
    "id": "full-ia2-Testosterone-11904-19",
@@ -1664,11 +1737,12 @@
    "artist": "Talkshow Boy",
    "album": "Testosterone!",
    "duration": 112,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Testosterone-11904",
    "src": "https://archive.org/download/Testosterone-11904/Talkshow_Boy_-_19_-_More_Me_In_The_Foldback.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Alternative"
   },
   {
    "id": "full-ia2-Rock_Rock_Rock_Remixes-3302-1",
@@ -1676,11 +1750,12 @@
    "artist": "DJ Donna Summer",
    "album": "Rock Rock Rock Remixes",
    "duration": 168,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Rock_Rock_Rock_Remixes-3302",
    "src": "https://archive.org/download/Rock_Rock_Rock_Remixes-3302/DJ_Donna_Summer_-_Arrogant_Cobbler_Neros_Day_At_Disneyland_-_Rock_Rock_Rock_Remix.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Hip Hop"
   },
   {
    "id": "full-ia2-Rock_Rock_Rock_Remixes-3302-2",
@@ -1688,11 +1763,12 @@
    "artist": "DJ Donna Summer",
    "album": "Rock Rock Rock Remixes",
    "duration": 269,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Rock_Rock_Rock_Remixes-3302",
    "src": "https://archive.org/download/Rock_Rock_Rock_Remixes-3302/DJ_Donna_Summer_-_Fuck_Fuck_Fuck_DJ_C_Mix.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Hip Hop"
   },
   {
    "id": "full-ia2-Rock_Rock_Rock_Remixes-3302-3",
@@ -1700,11 +1776,12 @@
    "artist": "DJ Donna Summer",
    "album": "Rock Rock Rock Remixes",
    "duration": 226,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Rock_Rock_Rock_Remixes-3302",
    "src": "https://archive.org/download/Rock_Rock_Rock_Remixes-3302/DJ_Donna_Summer_-_Jump_Off_A_Rock_Soundbites_Rock_Rock_Rock_Remix.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Hip Hop"
   },
   {
    "id": "full-ia2-Rock_Rock_Rock_Remixes-3302-4",
@@ -1712,11 +1789,12 @@
    "artist": "DJ Donna Summer",
    "album": "Rock Rock Rock Remixes",
    "duration": 118,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Rock_Rock_Rock_Remixes-3302",
    "src": "https://archive.org/download/Rock_Rock_Rock_Remixes-3302/DJ_Donna_Summer_-_Rock_Power_Ladyscraper_Rock_Rock_Rock_Remix.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Hip Hop"
   },
   {
    "id": "full-ia2-Rock_Rock_Rock_Remixes-3302-5",
@@ -1724,11 +1802,12 @@
    "artist": "DJ Donna Summer",
    "album": "Rock Rock Rock Remixes",
    "duration": 294,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Rock_Rock_Rock_Remixes-3302",
    "src": "https://archive.org/download/Rock_Rock_Rock_Remixes-3302/DJ_Donna_Summer_-_Rock_Rock_Rock_Aaron_Spectre_Remix.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Hip Hop"
   },
   {
    "id": "full-ia2-Rock_Rock_Rock_Remixes-3302-6",
@@ -1736,11 +1815,12 @@
    "artist": "DJ Donna Summer",
    "album": "Rock Rock Rock Remixes",
    "duration": 266,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Rock_Rock_Rock_Remixes-3302",
    "src": "https://archive.org/download/Rock_Rock_Rock_Remixes-3302/DJ_Donna_Summer_-_Rock_Rock_Rock_Black_Rabbit_Remix.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Hip Hop"
   },
   {
    "id": "full-ia2-Rock_Rock_Rock_Remixes-3302-7",
@@ -1748,11 +1828,12 @@
    "artist": "DJ Donna Summer",
    "album": "Rock Rock Rock Remixes",
    "duration": 240,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Rock_Rock_Rock_Remixes-3302",
    "src": "https://archive.org/download/Rock_Rock_Rock_Remixes-3302/DJ_Donna_Summer_-_Rock_Rock_Rock_Glowstyx_Remix.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Hip Hop"
   },
   {
    "id": "full-ia2-Rock_Rock_Rock_Remixes-3302-8",
@@ -1760,11 +1841,12 @@
    "artist": "DJ Donna Summer",
    "album": "Rock Rock Rock Remixes",
    "duration": 250,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Rock_Rock_Rock_Remixes-3302",
    "src": "https://archive.org/download/Rock_Rock_Rock_Remixes-3302/DJ_Donna_Summer_-_Rock_Rock_Rock_Karsten_Pflum_edit.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Hip Hop"
   },
   {
    "id": "full-ia2-Rock_Rock_Rock_Remixes-3302-9",
@@ -1772,11 +1854,12 @@
    "artist": "DJ Donna Summer",
    "album": "Rock Rock Rock Remixes",
    "duration": 348,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Rock_Rock_Rock_Remixes-3302",
    "src": "https://archive.org/download/Rock_Rock_Rock_Remixes-3302/DJ_Donna_Summer_-_Rock_Rock_Rock_The_Scandals-Excessive_Post_Rave_Mix.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Hip Hop"
   },
   {
    "id": "full-ia2-Rock_Rock_Rock_Remixes-3302-10",
@@ -1784,11 +1867,12 @@
    "artist": "DJ Donna Summer",
    "album": "Rock Rock Rock Remixes",
    "duration": 288,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Rock_Rock_Rock_Remixes-3302",
    "src": "https://archive.org/download/Rock_Rock_Rock_Remixes-3302/DJ_Donna_Summer_-_Rock_Rock_Rock_tpazolite_Remix.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Hip Hop"
   },
   {
    "id": "full-ia2-Rock_Rock_Rock_Remixes-3302-11",
@@ -1796,11 +1880,12 @@
    "artist": "DJ Donna Summer",
    "album": "Rock Rock Rock Remixes",
    "duration": 262,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Rock_Rock_Rock_Remixes-3302",
    "src": "https://archive.org/download/Rock_Rock_Rock_Remixes-3302/DJ_Donna_Summer_-_Rock_x_3_-_Kids_Get_Hyphy_Zeddemore_Remix.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Hip Hop"
   },
   {
    "id": "full-ia2-Rock_Rock_Rock_Remixes-3302-12",
@@ -1808,11 +1893,12 @@
    "artist": "DJ Donna Summer",
    "album": "Rock Rock Rock Remixes",
    "duration": 218,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Rock_Rock_Rock_Remixes-3302",
    "src": "https://archive.org/download/Rock_Rock_Rock_Remixes-3302/DJ_Donna_Summer_-_Tryptamine_Extraction_Hardoffs_Remix.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Hip Hop"
   },
   {
    "id": "full-ia2-Rock_Rock_Rock_Remixes-3302-13",
@@ -1820,11 +1906,12 @@
    "artist": "DJ Donna Summer",
    "album": "Rock Rock Rock Remixes",
    "duration": 224,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Rock_Rock_Rock_Remixes-3302",
    "src": "https://archive.org/download/Rock_Rock_Rock_Remixes-3302/DJ_Donna_Summer_-_Yea_Boy_Slam52_Edit.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Hip Hop"
   },
   {
    "id": "full-ia2-Keep_the_Fire-10442-1",
@@ -1832,11 +1919,12 @@
    "artist": "Jenny Mayhem",
    "album": "Keep the Fire",
    "duration": 122,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Keep_the_Fire-10442",
    "src": "https://archive.org/download/Keep_the_Fire-10442/Jenny_Mayhem_-_01_-_King_of_the_Street.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Alternative"
   },
   {
    "id": "full-ia2-Keep_the_Fire-10442-2",
@@ -1844,11 +1932,12 @@
    "artist": "Jenny Mayhem",
    "album": "Keep the Fire",
    "duration": 158,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Keep_the_Fire-10442",
    "src": "https://archive.org/download/Keep_the_Fire-10442/Jenny_Mayhem_-_02_-_When_Youre_Older.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Alternative"
   },
   {
    "id": "full-ia2-Keep_the_Fire-10442-3",
@@ -1856,11 +1945,12 @@
    "artist": "Jenny Mayhem",
    "album": "Keep the Fire",
    "duration": 141,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Keep_the_Fire-10442",
    "src": "https://archive.org/download/Keep_the_Fire-10442/Jenny_Mayhem_-_03_-_Keep_the_Fire.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Alternative"
   },
   {
    "id": "full-ia2-Keep_the_Fire-10442-4",
@@ -1868,11 +1958,12 @@
    "artist": "Jenny Mayhem",
    "album": "Keep the Fire",
    "duration": 147,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Keep_the_Fire-10442",
    "src": "https://archive.org/download/Keep_the_Fire-10442/Jenny_Mayhem_-_04_-_Morning_Sun.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Alternative"
   },
   {
    "id": "full-ia2-Keep_the_Fire-10442-5",
@@ -1880,11 +1971,12 @@
    "artist": "Jenny Mayhem",
    "album": "Keep the Fire",
    "duration": 154,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Keep_the_Fire-10442",
    "src": "https://archive.org/download/Keep_the_Fire-10442/Jenny_Mayhem_-_05_-_All_the_World.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Alternative"
   },
   {
    "id": "full-ia2-Keep_the_Fire-10442-6",
@@ -1892,11 +1984,12 @@
    "artist": "Jenny Mayhem",
    "album": "Keep the Fire",
    "duration": 170,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Keep_the_Fire-10442",
    "src": "https://archive.org/download/Keep_the_Fire-10442/Jenny_Mayhem_-_06_-_Equatorial.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Alternative"
   },
   {
    "id": "full-ia2-Under_a_Blue_Grey_Sky_Live_at_Roulette_2009-11754-1",
@@ -1904,11 +1997,12 @@
    "artist": "Jeremiah Cymerman",
    "album": "Under a Blue Grey Sky Live at Roulette, 2009",
    "duration": 350,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Under_a_Blue_Grey_Sky_Live_at_Roulette_2009-11754",
    "src": "https://archive.org/download/Under_a_Blue_Grey_Sky_Live_at_Roulette_2009-11754/Jeremiah_Cymerman_-_01_-_Act_1.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Electronic"
   },
   {
    "id": "full-ia2-Under_a_Blue_Grey_Sky_Live_at_Roulette_2009-11754-2",
@@ -1916,11 +2010,12 @@
    "artist": "Jeremiah Cymerman",
    "album": "Under a Blue Grey Sky Live at Roulette, 2009",
    "duration": 515,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Under_a_Blue_Grey_Sky_Live_at_Roulette_2009-11754",
    "src": "https://archive.org/download/Under_a_Blue_Grey_Sky_Live_at_Roulette_2009-11754/Jeremiah_Cymerman_-_02_-_Act_2.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Electronic"
   },
   {
    "id": "full-ia2-Under_a_Blue_Grey_Sky_Live_at_Roulette_2009-11754-3",
@@ -1928,11 +2023,12 @@
    "artist": "Jeremiah Cymerman",
    "album": "Under a Blue Grey Sky Live at Roulette, 2009",
    "duration": 106,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Under_a_Blue_Grey_Sky_Live_at_Roulette_2009-11754",
    "src": "https://archive.org/download/Under_a_Blue_Grey_Sky_Live_at_Roulette_2009-11754/Jeremiah_Cymerman_-_03_-_Act_3.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Electronic"
   },
   {
    "id": "full-ia2-Under_a_Blue_Grey_Sky_Live_at_Roulette_2009-11754-4",
@@ -1940,11 +2036,12 @@
    "artist": "Jeremiah Cymerman",
    "album": "Under a Blue Grey Sky Live at Roulette, 2009",
    "duration": 314,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Under_a_Blue_Grey_Sky_Live_at_Roulette_2009-11754",
    "src": "https://archive.org/download/Under_a_Blue_Grey_Sky_Live_at_Roulette_2009-11754/Jeremiah_Cymerman_-_04_-_Act_4.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Electronic"
   },
   {
    "id": "full-ia2-Under_a_Blue_Grey_Sky_Live_at_Roulette_2009-11754-5",
@@ -1952,11 +2049,12 @@
    "artist": "Jeremiah Cymerman",
    "album": "Under a Blue Grey Sky Live at Roulette, 2009",
    "duration": 321,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Under_a_Blue_Grey_Sky_Live_at_Roulette_2009-11754",
    "src": "https://archive.org/download/Under_a_Blue_Grey_Sky_Live_at_Roulette_2009-11754/Jeremiah_Cymerman_-_05_-_Act_5.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Electronic"
   },
   {
    "id": "full-ia2-Under_a_Blue_Grey_Sky_Live_at_Roulette_2009-11754-6",
@@ -1964,11 +2062,12 @@
    "artist": "Jeremiah Cymerman",
    "album": "Under a Blue Grey Sky Live at Roulette, 2009",
    "duration": 249,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Under_a_Blue_Grey_Sky_Live_at_Roulette_2009-11754",
    "src": "https://archive.org/download/Under_a_Blue_Grey_Sky_Live_at_Roulette_2009-11754/Jeremiah_Cymerman_-_06_-_Act_5_Interlude.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Electronic"
   },
   {
    "id": "full-ia2-Under_a_Blue_Grey_Sky_Live_at_Roulette_2009-11754-7",
@@ -1976,11 +2075,77 @@
    "artist": "Jeremiah Cymerman",
    "album": "Under a Blue Grey Sky Live at Roulette, 2009",
    "duration": 486,
-   "cover": "icon-glass.svg",
+   "cover": "https://archive.org/services/img/Under_a_Blue_Grey_Sky_Live_at_Roulette_2009-11754",
    "src": "https://archive.org/download/Under_a_Blue_Grey_Sky_Live_at_Roulette_2009-11754/Jeremiah_Cymerman_-_07_-_Act_6.mp3",
    "format": "MP3",
    "license": "Creative Commons (Free Music Archive)",
-   "source": "archive-fma"
+   "source": "archive-fma",
+   "genre": "Electronic"
+  },
+  {
+   "id": "full-sh-9",
+   "title": "SoundHelix Song 9",
+   "artist": "T. Schürger",
+   "album": "SoundHelix · Electronic",
+   "duration": 389,
+   "cover": "icon-glass.svg",
+   "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+   "format": "MP3",
+   "license": "Free use (SoundHelix)",
+   "source": "soundhelix",
+   "genre": "Electronic"
+  },
+  {
+   "id": "full-sh-10",
+   "title": "SoundHelix Song 10",
+   "artist": "T. Schürger",
+   "album": "SoundHelix · Electronic",
+   "duration": 527,
+   "cover": "icon-glass.svg",
+   "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+   "format": "MP3",
+   "license": "Free use (SoundHelix)",
+   "source": "soundhelix",
+   "genre": "Electronic"
+  },
+  {
+   "id": "full-sh-11",
+   "title": "SoundHelix Song 11",
+   "artist": "T. Schürger",
+   "album": "SoundHelix · Electronic",
+   "duration": 551,
+   "cover": "icon-glass.svg",
+   "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3",
+   "format": "MP3",
+   "license": "Free use (SoundHelix)",
+   "source": "soundhelix",
+   "genre": "Electronic"
+  },
+  {
+   "id": "full-sh-12",
+   "title": "SoundHelix Song 12",
+   "artist": "T. Schürger",
+   "album": "SoundHelix · Electronic",
+   "duration": 514,
+   "cover": "icon-glass.svg",
+   "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3",
+   "format": "MP3",
+   "license": "Free use (SoundHelix)",
+   "source": "soundhelix",
+   "genre": "Electronic"
+  },
+  {
+   "id": "full-sh-13",
+   "title": "SoundHelix Song 13",
+   "artist": "T. Schürger",
+   "album": "SoundHelix · Electronic",
+   "duration": 470,
+   "cover": "icon-glass.svg",
+   "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3",
+   "format": "MP3",
+   "license": "Free use (SoundHelix)",
+   "source": "soundhelix",
+   "genre": "Electronic"
   }
  ]
 }

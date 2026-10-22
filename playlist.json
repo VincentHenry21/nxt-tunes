@@ -11,11 +11,11 @@
    "artist": "Don Toliver",
    "album": "OCTANE",
    "duration": 153,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/123eb0268dfea84370a28c4a2114dc28/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/00/c1/dd/00c1dd09-3f86-7288-01dc-63b9f4262f57/075679599377.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/6531864966b2fc846a74a9bc161d9bf4563ec2e9",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/c/c/1/0/cc1156e419778897464d9ece273ddf8c.mp3?hdnea=exp=1792672547~acl=/api/1/1/c/c/1/0/cc1156e419778897464d9ece273ddf8c.mp3*~data=user_id=0,application_id=42~hmac=4b77daba7dc41a2992dafa7370abb2ce17f54e39548f2a31465eba14cd2d1a2f",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:3B4cjvGlPvyBLNG3AzEgkZ"
+   "spotifyUri": "spotify:track:3B4cjvGlPvyBLNG3AzEgkZ",
+   "genre": "Hip-Hop/Rap"
   },
   {
    "id": "henz-2",
@@ -23,11 +23,11 @@
    "artist": "Don Toliver",
    "album": "OCTANE",
    "duration": 211,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/123eb0268dfea84370a28c4a2114dc28/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/00/c1/dd/00c1dd09-3f86-7288-01dc-63b9f4262f57/075679599377.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/d6040b12bb1e47f5e930ac757736008d635bfefe",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/f/2/8/0/f284a1e2d01dde7807248877f878b5d6.mp3?hdnea=exp=1792672548~acl=/api/1/1/f/2/8/0/f284a1e2d01dde7807248877f878b5d6.mp3*~data=user_id=0,application_id=42~hmac=87ff315e160205f62d572960af93e84a4456b36b9fdf5da8c8bcc94bc6215716",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:2A5cwtDZpk7RvsPolrF4UL"
+   "spotifyUri": "spotify:track:2A5cwtDZpk7RvsPolrF4UL",
+   "genre": "Hip-Hop/Rap"
   },
   {
    "id": "henz-3",
@@ -35,11 +35,11 @@
    "artist": "Don Toliver",
    "album": "OCTANE",
    "duration": 181,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/123eb0268dfea84370a28c4a2114dc28/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/00/c1/dd/00c1dd09-3f86-7288-01dc-63b9f4262f57/075679599377.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/470f2efac37d07cc006f10454e87ec2255682185",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/5/f/4/0/5f48c641eebe0056decc9fdfbd16e598.mp3?hdnea=exp=1792672549~acl=/api/1/1/5/f/4/0/5f48c641eebe0056decc9fdfbd16e598.mp3*~data=user_id=0,application_id=42~hmac=64b92dd44113a33fac7ec52291ced71c99c5270adb7d9bbb0c25d3f829c930f8",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:03auLpFLdCv4HozP4pQseu"
+   "spotifyUri": "spotify:track:03auLpFLdCv4HozP4pQseu",
+   "genre": "Hip-Hop/Rap"
   },
   {
    "id": "henz-4",
@@ -49,9 +49,9 @@
    "duration": 346,
    "cover": "https://cdn-images.dzcdn.net/images/cover/1b12a3693578183b0ece3544133f41ad/500x500-000000-80-0-0.jpg",
    "src": "https://p.scdn.co/mp3-preview/b966c2d0ef56468ca5f8775ac8424d49aea2f843",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/4/b/6/0/4b62fa16e44f23cb4a0157381989be46.mp3?hdnea=exp=1792672550~acl=/api/1/1/4/b/6/0/4b62fa16e44f23cb4a0157381989be46.mp3*~data=user_id=0,application_id=42~hmac=1935340b6a2760417b0f0c29560c41e27b552d1051e876f3fd129a89261fbede",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:2xsTsnA5QOFCnFXdEHGkli"
+   "spotifyUri": "spotify:track:2xsTsnA5QOFCnFXdEHGkli",
+   "genre": "Hip Hop"
   },
   {
    "id": "henz-5",
@@ -59,11 +59,11 @@
    "artist": "Yeat",
    "album": "DANGEROUS SUMMER",
    "duration": 199,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/3e3a44df3a1130625cd47f6e92d4db79/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/90/dd/f1/90ddf169-715d-ecd2-660f-bfc9d058c813/886443007154.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/2eee774e0688dedbc348414f4c9636fde150c9b9",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/1/8/9/0/189a93f7e3e477f2ab68623ccb0806e0.mp3?hdnea=exp=1792672551~acl=/api/1/1/1/8/9/0/189a93f7e3e477f2ab68623ccb0806e0.mp3*~data=user_id=0,application_id=42~hmac=296edccb13d84d4b8acae21966c3c1831d74b8724e3aa0fab23a685115e73797",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:2mNGL7mZILSqZHxGboJaO9"
+   "spotifyUri": "spotify:track:2mNGL7mZILSqZHxGboJaO9",
+   "genre": "Pop"
   },
   {
    "id": "henz-6",
@@ -71,11 +71,11 @@
    "artist": "Ty Dolla $ign, Quavo, Juicy J",
    "album": "TYCOON",
    "duration": 132,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/61979f02c5f74d9b7f75b9c20fe98eb5/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b4/9f/9e/b49f9e8e-c0d2-4e8e-df0b-ded17bd6679b/075679595744.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/4926d0499e8a7240478f91ed132e6f980f0e5e6b",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/2/f/1/0/2f14632a111e51d3d4aac41d15c13aa1.mp3?hdnea=exp=1792672552~acl=/api/1/1/2/f/1/0/2f14632a111e51d3d4aac41d15c13aa1.mp3*~data=user_id=0,application_id=42~hmac=e69f3414e5574cd3b44d6a087aea27620bdcb4ad2781e96582156c0ab8d4ccf7",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:4YmsnZcxHEGEqHB3K0vdt0"
+   "spotifyUri": "spotify:track:4YmsnZcxHEGEqHB3K0vdt0",
+   "genre": "Hip-Hop/Rap"
   },
   {
    "id": "henz-7",
@@ -83,11 +83,11 @@
    "artist": "Drake",
    "album": "ICEMAN",
    "duration": 237,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/cccf5e9af10b6aae96f5cdd5a27c2aff/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7f/39/61/7f396123-be56-bc11-eaab-976441808e58/26UMGIM63622.rgb.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/1de9b315e1aa811aedaf905b1058b668b2d3146e",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/7/3/2/0/7324c7d1edf2e198c43ec4f5c80670fc.mp3?hdnea=exp=1792672553~acl=/api/1/1/7/3/2/0/7324c7d1edf2e198c43ec4f5c80670fc.mp3*~data=user_id=0,application_id=42~hmac=e0ec12cf212191342d65d2515f48b8fe63b4404d1fee9ec44a6f828c3034b2c5",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:514joG57v4yKTsfQmz7stz"
+   "spotifyUri": "spotify:track:514joG57v4yKTsfQmz7stz",
+   "genre": "Hip-Hop"
   },
   {
    "id": "henz-8",
@@ -97,9 +97,9 @@
    "duration": 224,
    "cover": "https://cdn-images.dzcdn.net/images/cover/18cc5fc078225fa6f43bed64112181ff/500x500-000000-80-0-0.jpg",
    "src": "https://p.scdn.co/mp3-preview/fbe196bad0e3fefbb6217815efd33b2e4e77ed0c",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/8/4/4/0/844eab83a38cfe25247c02aa2a669b82.mp3?hdnea=exp=1792672553~acl=/api/1/1/8/4/4/0/844eab83a38cfe25247c02aa2a669b82.mp3*~data=user_id=0,application_id=42~hmac=b3126cb311bd935102288147c33560ccc5226093451a1ad8ba14ee081d7e8fa4",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:4v2r3H6YEQIlxS4Z1njwoe"
+   "spotifyUri": "spotify:track:4v2r3H6YEQIlxS4Z1njwoe",
+   "genre": "Hip Hop"
   },
   {
    "id": "henz-9",
@@ -107,11 +107,11 @@
    "artist": "CORTIS",
    "album": "REDRED",
    "duration": 163,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/8205858eac90419715886271bfac6722/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9b/5f/47/9b5f4711-dc78-2dea-6721-d06709ea5121/198704992810_Cover.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/06fb2bb357494081a5b8e753e9c56ccc83520f11",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/a/a/b/0/aabd17eec9fa422a07fc7719f6ac82c7.mp3?hdnea=exp=1792672554~acl=/api/1/1/a/a/b/0/aabd17eec9fa422a07fc7719f6ac82c7.mp3*~data=user_id=0,application_id=42~hmac=cefd00bf3e227893b1d9e3c59f45f2e9f0dfd41754b4958c97bee5055280ade0",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:2fCwv2ppU5nTRTckomIGsd"
+   "spotifyUri": "spotify:track:2fCwv2ppU5nTRTckomIGsd",
+   "genre": "K-Pop"
   },
   {
    "id": "henz-10",
@@ -119,11 +119,11 @@
    "artist": "CORTIS",
    "album": "GREENGREEN",
    "duration": 174,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/10407b27dd835c6d24d05a3484b49709/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9b/5f/47/9b5f4711-dc78-2dea-6721-d06709ea5121/198704992810_Cover.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/1493b59e318d0330f1c07d24a227c5f3c8935848",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/1/8/e/0/18e56f67c02780c4fe799a066fe81fa7.mp3?hdnea=exp=1792672556~acl=/api/1/1/1/8/e/0/18e56f67c02780c4fe799a066fe81fa7.mp3*~data=user_id=0,application_id=42~hmac=74c7786264b1d9a24b8d743739f5cdf82e161db8bb2047ed99830a99818d61b4",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:7Ldcvhcl4Xj4eOTSWpZus5"
+   "spotifyUri": "spotify:track:7Ldcvhcl4Xj4eOTSWpZus5",
+   "genre": "K-Pop"
   },
   {
    "id": "henz-11",
@@ -133,9 +133,9 @@
    "duration": 264,
    "cover": "https://cdn-images.dzcdn.net/images/cover/c32f7865d203fa246bd2c19635153d2c/500x500-000000-80-0-0.jpg",
    "src": "https://p.scdn.co/mp3-preview/ac2cd5a6dd107815207d7256a800c7f0c82920ee",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/a/9/2/0/a922dc5d342ecec4002875a9a285cae2.mp3?hdnea=exp=1792672556~acl=/api/1/1/a/9/2/0/a922dc5d342ecec4002875a9a285cae2.mp3*~data=user_id=0,application_id=42~hmac=a5e3ab54092294f9961554878eefd057b408e1104bb80e1e0aac708837abdfc8",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:1KA2JLeMi0Mo3hjO0442re"
+   "spotifyUri": "spotify:track:1KA2JLeMi0Mo3hjO0442re",
+   "genre": "R&B"
   },
   {
    "id": "henz-12",
@@ -143,11 +143,11 @@
    "artist": "Drake",
    "album": "ICEMAN",
    "duration": 201,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/cccf5e9af10b6aae96f5cdd5a27c2aff/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7f/39/61/7f396123-be56-bc11-eaab-976441808e58/26UMGIM63622.rgb.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/5afd123bd4453cb0d4b5b63949747b938427f70e",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/9/7/d/0/97d16a361784464e6e647b6afe1f61ec.mp3?hdnea=exp=1792672557~acl=/api/1/1/9/7/d/0/97d16a361784464e6e647b6afe1f61ec.mp3*~data=user_id=0,application_id=42~hmac=885f3595a857ec38fa66d1978df952328a108534fa64845f70f3e13662ebe92e",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:393OFJFZKIIv66JmJcNm9D"
+   "spotifyUri": "spotify:track:393OFJFZKIIv66JmJcNm9D",
+   "genre": "Hip-Hop"
   },
   {
    "id": "henz-13",
@@ -155,11 +155,11 @@
    "artist": "Drake",
    "album": "ICEMAN",
    "duration": 302,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/cccf5e9af10b6aae96f5cdd5a27c2aff/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7f/39/61/7f396123-be56-bc11-eaab-976441808e58/26UMGIM63622.rgb.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/4ae3a0736bd840aaa498e85388dcef50112f63c7",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/2/6/0/0/2607803b6ca2884577ba324df734d36f.mp3?hdnea=exp=1792672558~acl=/api/1/1/2/6/0/0/2607803b6ca2884577ba324df734d36f.mp3*~data=user_id=0,application_id=42~hmac=5863dfc0f8a3c91f2fb71ef9d28df48124d175a290405854bf1013ec466e7f00",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:57rkFdhoKjgkg16fsS4pgg"
+   "spotifyUri": "spotify:track:57rkFdhoKjgkg16fsS4pgg",
+   "genre": "Hip-Hop"
   },
   {
    "id": "henz-14",
@@ -167,11 +167,11 @@
    "artist": "Central Cee",
    "album": "ALL ROADS LEAD HOME",
    "duration": 127,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/3358b515fc3e27effa0101bf6259fc32/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/13/4f/5d134f96-4228-8673-2366-ddcb2048c8de/196874252574.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/7586dccc84e413506296a28300b8bf8ba533fe56",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/d/a/9/0/da9f0f0f7233e0ca25b9ca6c30b6ce5d.mp3?hdnea=exp=1792672559~acl=/api/1/1/d/a/9/0/da9f0f0f7233e0ca25b9ca6c30b6ce5d.mp3*~data=user_id=0,application_id=42~hmac=899aa7aa9a3e954dca2cfe6f43143e87450f56b437570d6d7a60622ad6da31fa",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:33XUHrCbrAW6me9ewdCZip"
+   "spotifyUri": "spotify:track:33XUHrCbrAW6me9ewdCZip",
+   "genre": "Hip-Hop/Rap"
   },
   {
    "id": "henz-15",
@@ -181,9 +181,9 @@
    "duration": 169,
    "cover": "https://cdn-images.dzcdn.net/images/cover/e6c8292811aac14c1c4d25d768b863ee/500x500-000000-80-0-0.jpg",
    "src": "https://p.scdn.co/mp3-preview/857196ff6cd02484da7526a245f0d4407412ff54",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/0/0/9/0/00923ce99fdd214462f91a1d174dd1b5.mp3?hdnea=exp=1792672560~acl=/api/1/1/0/0/9/0/00923ce99fdd214462f91a1d174dd1b5.mp3*~data=user_id=0,application_id=42~hmac=3320560feb837b45972d4e937e818c0ba0e65ec70fc8425506e0bb06fd650165",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:5pfn68duSmBKo4FhYknOms"
+   "spotifyUri": "spotify:track:5pfn68duSmBKo4FhYknOms",
+   "genre": "Hip Hop"
   },
   {
    "id": "henz-16",
@@ -191,11 +191,11 @@
    "artist": "Don Toliver",
    "album": "OCTANE",
    "duration": 124,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/123eb0268dfea84370a28c4a2114dc28/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/00/c1/dd/00c1dd09-3f86-7288-01dc-63b9f4262f57/075679599377.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/e6bad253c4e88c227637dfd0f64d0a22c8a47b44",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/f/4/1/0/f4120da199ed580ff52f96142dbdaa52.mp3?hdnea=exp=1792672561~acl=/api/1/1/f/4/1/0/f4120da199ed580ff52f96142dbdaa52.mp3*~data=user_id=0,application_id=42~hmac=cda532abd6e89aa66f1bb0b19e7ff97b33c645df139f929bf165c26792bafa65",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:16yVaWo0Gmvs2wlnmJbcH7"
+   "spotifyUri": "spotify:track:16yVaWo0Gmvs2wlnmJbcH7",
+   "genre": "Hip-Hop/Rap"
   },
   {
    "id": "henz-17",
@@ -203,11 +203,11 @@
    "artist": "Drake",
    "album": "Take Care (Deluxe)",
    "duration": 236,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/6e7a6c8f36669dcd11abe7e7c3222e91/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d2/53/62/d2536245-b94c-b3fd-7168-9512f655f6d4/00602527899091.rgb.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/570ddea0adb2c0bff50a1f0447a0e643c084fbe6",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/e/2/0/0/e20ff1b84ea32883a21366e4d3116b9d.mp3?hdnea=exp=1792672562~acl=/api/1/1/e/2/0/0/e20ff1b84ea32883a21366e4d3116b9d.mp3*~data=user_id=0,application_id=42~hmac=fa8ad31494b55e3a8776bfe4165871e6d684b6a4b56933fa24ac50c4925e66f9",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:6LxSe8YmdPxy095Ux6znaQ"
+   "spotifyUri": "spotify:track:6LxSe8YmdPxy095Ux6znaQ",
+   "genre": "Hip-Hop/Rap"
   },
   {
    "id": "henz-18",
@@ -215,11 +215,11 @@
    "artist": "DaBaby",
    "album": "POP DAT THANG",
    "duration": 138,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/82a9b99a628bc53cdcdf7ccc446e6949/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/eb/6e/d1/eb6ed1fb-c40b-4e51-11c4-7d9d71191b0e/26UMGIM54414.rgb.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/966f1f29b7f24a04ce9992d73569592292b67d9e",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/f/a/5/0/fa5babfa139df75c85bf2374682f1303.mp3?hdnea=exp=1792672563~acl=/api/1/1/f/a/5/0/fa5babfa139df75c85bf2374682f1303.mp3*~data=user_id=0,application_id=42~hmac=2f675455d48e507bd9f07bd49887827ae2179069c8110f1b8d848f39deab0784",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:0QgwjxR1VchizzckKXwyBu"
+   "spotifyUri": "spotify:track:0QgwjxR1VchizzckKXwyBu",
+   "genre": "Hip-Hop/Rap"
   },
   {
    "id": "henz-19",
@@ -227,11 +227,11 @@
    "artist": "Central Cee",
    "album": "ICEMAN FREESTYLE",
    "duration": 186,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/77bebeadae0f7e6ba6a4f21e64413d16/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/13/4f/5d134f96-4228-8673-2366-ddcb2048c8de/196874252574.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/9135a15b9ccefc786187ae3ac5a554b7ed34be47",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/c/3/5/0/c35c9084ec0b7dae2b1c5b985cf652d4.mp3?hdnea=exp=1792672564~acl=/api/1/1/c/3/5/0/c35c9084ec0b7dae2b1c5b985cf652d4.mp3*~data=user_id=0,application_id=42~hmac=fa46b73e408a9c506eca8ea5ea8c57df821c3c59d86d2172ecda0318de43c859",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:1vrHvLIgh1wjMFpjTr5bMu"
+   "spotifyUri": "spotify:track:1vrHvLIgh1wjMFpjTr5bMu",
+   "genre": "Hip-Hop/Rap"
   },
   {
    "id": "henz-20",
@@ -239,11 +239,11 @@
    "artist": "BIA",
    "album": "WE ON GO",
    "duration": 169,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/b66dca598a478621f4757b3ea9ee1f3d/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5f/bf/e8/5fbfe875-27cf-4f4d-0478-d824db66f843/196872918403.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/bea2c8890582d4b59d8a18fed0912f783eb7d599",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/a/f/9/0/af904fe08b11bd8e8a26dc5049758330.mp3?hdnea=exp=1792672567~acl=/api/1/1/a/f/9/0/af904fe08b11bd8e8a26dc5049758330.mp3*~data=user_id=0,application_id=42~hmac=019eb0c4cf698cfc5a83e1de575376f627e9d93f27d2b19e2a2f28f71bfaabff",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:6g4EPHt65k6X0BgLGzP1KW"
+   "spotifyUri": "spotify:track:6g4EPHt65k6X0BgLGzP1KW",
+   "genre": "Rap"
   },
   {
    "id": "henz-21",
@@ -251,11 +251,11 @@
    "artist": "Kanye West, Ye",
    "album": "BULLY - DELUXE",
    "duration": 127,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/bee7027021b52bb1b7487eee1cd82244/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/4d/bd/28/4dbd28f9-8a60-5445-c1ea-3f84cfcb6988/5054197463358.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/5402926377442277f0d114a5644658fbe7926477",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/a/9/c/0/a9ca5671ebf8a3243412837caddd49e9.mp3?hdnea=exp=1792672568~acl=/api/1/1/a/9/c/0/a9ca5671ebf8a3243412837caddd49e9.mp3*~data=user_id=0,application_id=42~hmac=49caaabe67994791a5787fff491119427eb5b585d2e80bb9b3ee82d30ad50bdb",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:163l4Itf8oDEK7ZYdVm22N"
+   "spotifyUri": "spotify:track:163l4Itf8oDEK7ZYdVm22N",
+   "genre": "Dance"
   },
   {
    "id": "henz-22",
@@ -263,11 +263,11 @@
    "artist": "EsDeeKid",
    "album": "Rebel",
    "duration": 147,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/efdb627af294be73280594c3e89b09a1/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8b/48/08/8b4808fd-24f5-0064-b2ef-22320e5a5de0/artwork.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/be29bc24e9ea5878fa071d04916175eb630d8fb7",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/8/3/2/0/83205492926ce463cd5ba18a0f65bfa6.mp3?hdnea=exp=1792672570~acl=/api/1/1/8/3/2/0/83205492926ce463cd5ba18a0f65bfa6.mp3*~data=user_id=0,application_id=42~hmac=2d8585a5f0c5226fa908d880dec5bc4ab3f7b148b92e0182d8ef7cfe4efef257",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:554qQSs9lpRVq6TlaaiIKT"
+   "spotifyUri": "spotify:track:554qQSs9lpRVq6TlaaiIKT",
+   "genre": "Hip-Hop/Rap"
   },
   {
    "id": "henz-23",
@@ -277,9 +277,9 @@
    "duration": 130,
    "cover": "https://cdn-images.dzcdn.net/images/cover/efdb627af294be73280594c3e89b09a1/500x500-000000-80-0-0.jpg",
    "src": "https://p.scdn.co/mp3-preview/5d0d820f642e71c47fcc795a34cfa81d677204d0",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/e/b/6/0/eb651a096d2c5cbb40a2012863c41831.mp3?hdnea=exp=1792672572~acl=/api/1/1/e/b/6/0/eb651a096d2c5cbb40a2012863c41831.mp3*~data=user_id=0,application_id=42~hmac=e34fddd878f38c281d580b3c660e8ff6c24ea7dcab98bd3f052f593ba6106025",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:2NLOyWzztMiW5FmNhD83K6"
+   "spotifyUri": "spotify:track:2NLOyWzztMiW5FmNhD83K6",
+   "genre": "Underground Hip Hop"
   },
   {
    "id": "henz-24",
@@ -289,9 +289,9 @@
    "duration": 111,
    "cover": "https://cdn-images.dzcdn.net/images/cover/efdb627af294be73280594c3e89b09a1/500x500-000000-80-0-0.jpg",
    "src": "https://p.scdn.co/mp3-preview/96fc4bd96401d0053fed6fd0e50a27a875e56183",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/7/1/b/0/71b2913586aec7a8109cf4952553e2a7.mp3?hdnea=exp=1792672573~acl=/api/1/1/7/1/b/0/71b2913586aec7a8109cf4952553e2a7.mp3*~data=user_id=0,application_id=42~hmac=0cf7a36f1883377c740e0045246bfec13b70d5aee5db2f8fbf4dc639825eaef4",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:5uz5v1hRZLjNGatcPtOWUv"
+   "spotifyUri": "spotify:track:5uz5v1hRZLjNGatcPtOWUv",
+   "genre": "Underground Hip Hop"
   },
   {
    "id": "henz-25",
@@ -301,9 +301,9 @@
    "duration": 85,
    "cover": "https://cdn-images.dzcdn.net/images/cover/89defaf2bf618ac4fd77613f4b1ed3ff/500x500-000000-80-0-0.jpg",
    "src": "https://p.scdn.co/mp3-preview/135a02a1c013e3d128f59effb323ac723ea2281b",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/8/3/7/0/837e8757e5f97057c23b12bff5a31efc.mp3?hdnea=exp=1792672575~acl=/api/1/1/8/3/7/0/837e8757e5f97057c23b12bff5a31efc.mp3*~data=user_id=0,application_id=42~hmac=53abef88b7f09c997477097beaafb27dda6c2e84f035f69963b3735f4ac1c70b",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:6RM6SBmaiv1ouUxh9nmQLj"
+   "spotifyUri": "spotify:track:6RM6SBmaiv1ouUxh9nmQLj",
+   "genre": "Underground Hip Hop"
   },
   {
    "id": "henz-26",
@@ -313,9 +313,9 @@
    "duration": 78,
    "cover": "https://cdn-images.dzcdn.net/images/cover/46d18871f12d16a3fc86fa9a0ac2e7da/500x500-000000-80-0-0.jpg",
    "src": "https://p.scdn.co/mp3-preview/9196311333e6a1a4fa82b2bbfca606f96b50c31b",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/a/e/d/0/aed88715e81273c1231e726b12575ba7.mp3?hdnea=exp=1792672576~acl=/api/1/1/a/e/d/0/aed88715e81273c1231e726b12575ba7.mp3*~data=user_id=0,application_id=42~hmac=0e392d98a4531778a27378103c960f3c3c644ceb5ba91122639da9f20e211652",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:6hxowqRsDm1fsm00y2eHJP"
+   "spotifyUri": "spotify:track:6hxowqRsDm1fsm00y2eHJP",
+   "genre": "Underground Hip Hop"
   },
   {
    "id": "henz-27",
@@ -325,9 +325,9 @@
    "duration": 132,
    "cover": "https://cdn-images.dzcdn.net/images/cover/7ed14d4e892061a35b14f1c3c914cb2d/500x500-000000-80-0-0.jpg",
    "src": "https://p.scdn.co/mp3-preview/cb65e6d328787d1654b4f82988c6221cf26d32b6",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/a/a/0/0/aa046ea0ece49b04b8a09f8673f6a88d.mp3?hdnea=exp=1792672578~acl=/api/1/1/a/a/0/0/aa046ea0ece49b04b8a09f8673f6a88d.mp3*~data=user_id=0,application_id=42~hmac=2674be82555bfb5fc84bbff9b965d0648a1134f92a8da55f3e8d659ab0a2738b",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:0jNhSK5gotdRB1G4nMqEau"
+   "spotifyUri": "spotify:track:0jNhSK5gotdRB1G4nMqEau",
+   "genre": "Underground Hip Hop"
   },
   {
    "id": "henz-28",
@@ -337,9 +337,9 @@
    "duration": 92,
    "cover": "https://cdn-images.dzcdn.net/images/cover/aaf483b7bdc4271b271c8c2412390102/500x500-000000-80-0-0.jpg",
    "src": "https://p.scdn.co/mp3-preview/f47349aeeb01c54f53461e8c475820d559e1ee67",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/3/0/e/0/30e8620ee3171fe13cd84670def2544e.mp3?hdnea=exp=1792672580~acl=/api/1/1/3/0/e/0/30e8620ee3171fe13cd84670def2544e.mp3*~data=user_id=0,application_id=42~hmac=a4bae23ace9300d3ed85a2279f26b68c4f75efcd09dc6f13a79be019459ca877",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:0FdLKxYR85N2BBxnuxaVbd"
+   "spotifyUri": "spotify:track:0FdLKxYR85N2BBxnuxaVbd",
+   "genre": "Underground Hip Hop"
   },
   {
    "id": "henz-29",
@@ -349,9 +349,9 @@
    "duration": 159,
    "cover": "https://cdn-images.dzcdn.net/images/cover/f325fcd6be60d5a6153b110f4aa772c3/500x500-000000-80-0-0.jpg",
    "src": "https://p.scdn.co/mp3-preview/77bcd657bfbac71adb991e6259c769e5396c3910",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/0/7/8/0/07886050bf7184c0ff89d4e8c81db403.mp3?hdnea=exp=1792672581~acl=/api/1/1/0/7/8/0/07886050bf7184c0ff89d4e8c81db403.mp3*~data=user_id=0,application_id=42~hmac=182e8903137a78ecfbca817648dd2c17df0dce2aa486c351dde38e2232d189a9",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:5oJ0ALxhXxJaN3Veh8NNLO"
+   "spotifyUri": "spotify:track:5oJ0ALxhXxJaN3Veh8NNLO",
+   "genre": "Hip Hop"
   },
   {
    "id": "henz-30",
@@ -361,9 +361,9 @@
    "duration": 145,
    "cover": "https://cdn-images.dzcdn.net/images/cover/aaf483b7bdc4271b271c8c2412390102/500x500-000000-80-0-0.jpg",
    "src": "https://p.scdn.co/mp3-preview/b901faa97866e5fe8c1546eedbfee9cf36e492af",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/e/9/4/0/e9418623f822a8659578fb2a022849c9.mp3?hdnea=exp=1792672583~acl=/api/1/1/e/9/4/0/e9418623f822a8659578fb2a022849c9.mp3*~data=user_id=0,application_id=42~hmac=607cc5831bb842340ddad45458c8a3cfb8387ac07aff33eb95fbe61a625f0ae1",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:09xhawlPUifhftf8zuie7w"
+   "spotifyUri": "spotify:track:09xhawlPUifhftf8zuie7w",
+   "genre": "Underground Hip Hop"
   },
   {
    "id": "henz-31",
@@ -371,11 +371,11 @@
    "artist": "The Weeknd",
    "album": "Beauty Behind The Madness",
    "duration": 242,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/eea9f7fc913300e40307a0ff70dc73cf/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/30/05/1e/30051e57-a63a-3acc-4b30-42568293f5f7/15UMGIM36514.rgb.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/30a8d26fa2b2e9a5a01007d71783510180e677ab",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/7/c/5/0/7c561179e6eb8c33aaac84ae86c4f79e.mp3?hdnea=exp=1792672585~acl=/api/1/1/7/c/5/0/7c561179e6eb8c33aaac84ae86c4f79e.mp3*~data=user_id=0,application_id=42~hmac=98cbb79621fb996cdf73bfc052a9ff6e6700de009eb2b3a6cd38f04533267b9b",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:7fBv7CLKzipRk6EC6TWHOB"
+   "spotifyUri": "spotify:track:7fBv7CLKzipRk6EC6TWHOB",
+   "genre": "R&B/Soul"
   },
   {
    "id": "henz-32",
@@ -383,11 +383,11 @@
    "artist": "The Weeknd, Daft Punk",
    "album": "Starboy",
    "duration": 269,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/134778e4c4f19ea71c82408300925a9a/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e2/61/f8/e261f8c1-73db-9a7a-c89e-1068f19970e0/16UMGIM67863.rgb.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/e6e4b349ff5605d875fb7aad3846f5fdfe6aa19c",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/9/0/64964cf78e664f63594a3190e1e834eb.mp3?hdnea=exp=1792672586~acl=/api/1/1/6/4/9/0/64964cf78e664f63594a3190e1e834eb.mp3*~data=user_id=0,application_id=42~hmac=e58e17bf8996616fe085edaa4eb9d54e4579bf15259aa04355b12b502458a1fc",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:5GXAXm5YOmYT0kL5jHvYBt"
+   "spotifyUri": "spotify:track:5GXAXm5YOmYT0kL5jHvYBt",
+   "genre": "R&B/Soul"
   },
   {
    "id": "henz-33",
@@ -395,11 +395,11 @@
    "artist": "Katy Perry, Juicy J",
    "album": "PRISM (Deluxe)",
    "duration": 216,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/fe781ecd9879a82beed80f6d3e80745b/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/21/81/36218129-51b4-df22-cafb-8e9503b53147/13UAAIM70445.rgb.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/7251bb524fb32b7f4feae106ade846f568b7177e",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/d/c/8/0/dc80a4e6333cf463cade1b83f0143c09.mp3?hdnea=exp=1792672588~acl=/api/1/1/d/c/8/0/dc80a4e6333cf463cade1b83f0143c09.mp3*~data=user_id=0,application_id=42~hmac=5ca7c673c5330f9555351c6607ff0cd9760161a44eec3e641a87670de30d9659",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:4jbmgIyjGoXjY01XxatOx6"
+   "spotifyUri": "spotify:track:4jbmgIyjGoXjY01XxatOx6",
+   "genre": "Pop"
   },
   {
    "id": "henz-34",
@@ -407,11 +407,11 @@
    "artist": "Eminem, Dina Rae",
    "album": "The Eminem Show",
    "duration": 350,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/ec3c8ed67427064c70f67e5815b74cef/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/dd/5c/e6/dd5ce621-f7d2-f767-7a08-e7a7eaa7870b/00602537526994.rgb.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/8625034728d0e1a6971ab17f003fecaad74f63b4",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/9/a/e/0/9ae7b301a2467f1d505c6382a8da1e29.mp3?hdnea=exp=1792672590~acl=/api/1/1/9/a/e/0/9ae7b301a2467f1d505c6382a8da1e29.mp3*~data=user_id=0,application_id=42~hmac=0c5132aa8a002ee2aba460065001b621310b7f2e45215f085c43eb13cf0043e3",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:4woTEX1wYOTGDqNXuavlRC"
+   "spotifyUri": "spotify:track:4woTEX1wYOTGDqNXuavlRC",
+   "genre": "Hip-Hop/Rap"
   },
   {
    "id": "henz-35",
@@ -419,11 +419,11 @@
    "artist": "Fetty Wap",
    "album": "Trap Queen (Afro Remix)",
    "duration": 222,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/abfda6fd095630d1c07adde0c664c2ef/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b3/df/c5/b3dfc5e2-3980-7b7c-f227-7022c846f5dd/814908020219.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/1d36c88258eaa5468d2be62c82dbeb41cbd66713",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/5/7/b/0/57b503afd57bea63c0061e4ac08b3bed.mp3?hdnea=exp=1792672591~acl=/api/1/1/5/7/b/0/57b503afd57bea63c0061e4ac08b3bed.mp3*~data=user_id=0,application_id=42~hmac=798c073a88cb5aeb72ed41f783fa2128628f1d8f8524ed529c4c533a81ef467c",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:2d8JP84HNLKhmd6IYOoupQ"
+   "spotifyUri": "spotify:track:2d8JP84HNLKhmd6IYOoupQ",
+   "genre": "Hip-Hop/Rap"
   },
   {
    "id": "henz-36",
@@ -431,11 +431,11 @@
    "artist": "Post Malone, 21 Savage",
    "album": "beerbongs & bentleys",
    "duration": 218,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/c000a4d39f31f3716bf3f11aa5fab080/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/55/9f/fb/559ffb75-3c00-abd6-7b1f-8b6b1518b173/18UMGIM22101.rgb.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/beb04a51a925ea2ed2fb7c2363b7b3fa37ebc89b",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/f/7/5/0/f751c0f32b4c0d1d870b4294901f2fb3.mp3?hdnea=exp=1792672593~acl=/api/1/1/f/7/5/0/f751c0f32b4c0d1d870b4294901f2fb3.mp3*~data=user_id=0,application_id=42~hmac=b063a3e721a36fca6d174bdf4f2e59108f9a8d700f837b2d27a14144669ee3fa",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:0e7ipj03S05BNilyu5bRzt"
+   "spotifyUri": "spotify:track:0e7ipj03S05BNilyu5bRzt",
+   "genre": "Hip-Hop/Rap"
   },
   {
    "id": "henz-37",
@@ -443,11 +443,11 @@
    "artist": "Drake",
    "album": "Scorpion",
    "duration": 199,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/b69d3bcbd130ad4cc9259de543889e30/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bb/6d/8f/bb6d8f67-6d04-10b5-dd62-eb5809ac54fc/00602567879152.rgb.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/a90a7912992fdfd494c99027c31eb9002b592ed3",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/9/5/c/0/95c243df757f8ccd17b6692e1051e2e9.mp3?hdnea=exp=1792672594~acl=/api/1/1/9/5/c/0/95c243df757f8ccd17b6692e1051e2e9.mp3*~data=user_id=0,application_id=42~hmac=df26cef1c6c88a1fadfb8f3b4e7459f32a20685a12da9adfe033f8daa16144c6",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:6DCZcSspjsKoFjzjrWoCdn"
+   "spotifyUri": "spotify:track:6DCZcSspjsKoFjzjrWoCdn",
+   "genre": "Hip-Hop/Rap"
   },
   {
    "id": "henz-38",
@@ -455,11 +455,11 @@
    "artist": "The Weeknd",
    "album": "After Hours",
    "duration": 361,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/fd00ebd6d30d7253f813dba3bb1c66a9/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6f/bc/e6/6fbce6c4-c38c-72d8-4fd0-66cfff32f679/20UMGIM12176.rgb.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/2375bc6998d765b02b229ff44e5c3d7b75fff74a",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/5/0/7a57adf1f07af04ff457e0ce2c509d4a.mp3?hdnea=exp=1792672595~acl=/api/1/1/7/a/5/0/7a57adf1f07af04ff457e0ce2c509d4a.mp3*~data=user_id=0,application_id=42~hmac=e5061b7f02a4f55fd91f20f91908a8f69840886fc0329af14613cd6b8fec6efe",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:2p8IUWQDrpjuFltbdgLOag"
+   "spotifyUri": "spotify:track:2p8IUWQDrpjuFltbdgLOag",
+   "genre": "R&B/Soul"
   },
   {
    "id": "henz-39",
@@ -467,11 +467,11 @@
    "artist": "Rihanna, Drake",
    "album": "ANTI (Deluxe)",
    "duration": 219,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/4fc5f387624c25de0ec96b4719e3a36d/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9c/da/90/9cda90c9-df1a-078b-319c-bdf2801e8d1f/16UMGIM03373.rgb.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/71a3b34b7c69f1a1e6bb9f8c3312c33c7babadd4",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/4/4/3/0/443e99645382dc24ad5f15cc4e115c19.mp3?hdnea=exp=1792672597~acl=/api/1/1/4/4/3/0/443e99645382dc24ad5f15cc4e115c19.mp3*~data=user_id=0,application_id=42~hmac=2f9429f4537632bd80d4a72bbdda6c7ea6ab6ff479203076c1988b9a4268cc73",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:72TFWvU3wUYdUuxejTTIzt"
+   "spotifyUri": "spotify:track:72TFWvU3wUYdUuxejTTIzt",
+   "genre": "Pop"
   },
   {
    "id": "henz-40",
@@ -479,11 +479,11 @@
    "artist": "Justin Timberlake, Timbaland",
    "album": "FutureSex/LoveSounds Deluxe Edition",
    "duration": 243,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/615bb58abf2e5fd86741ed5311d364b1/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4c/44/30/4c4430dd-150b-d393-ec70-4894975f4b16/888880422095.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/3093705825f1c799e2de0064a2c775ef5c56d503",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/4/0/554612b7cfc17d2cb2551bad31332dec.mp3?hdnea=exp=1792672598~acl=/api/1/1/5/5/4/0/554612b7cfc17d2cb2551bad31332dec.mp3*~data=user_id=0,application_id=42~hmac=fc2ea55ba94deb8abc3f811d6f7177ca4b8981905b2d63efe9d27d01ddc15f2d",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:0O45fw2L5vsWpdsOdXwNAR"
+   "spotifyUri": "spotify:track:0O45fw2L5vsWpdsOdXwNAR",
+   "genre": "Pop"
   },
   {
    "id": "henz-41",
@@ -491,11 +491,11 @@
    "artist": "Jeremih",
    "album": "Jeremih",
    "duration": 227,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/0c7ba8c2d22369a315bfa82133a4d85f/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/92/dc/0d/92dc0dc8-d4b8-a4a0-0a5c-396cd3b198fb/09UMGIM12305.rgb.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/36a5d5e39b307f32d71ecfc17189cef3cd38799a",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/5/0/b35454a4ea234dd1518ed486da8e5745.mp3?hdnea=exp=1792672600~acl=/api/1/1/b/3/5/0/b35454a4ea234dd1518ed486da8e5745.mp3*~data=user_id=0,application_id=42~hmac=3ae33896d17bc7c224fae8951721866e386464787b9cd56e65bb65166da60757",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:4NpDZPwSXmL0cCTaJuVrCw"
+   "spotifyUri": "spotify:track:4NpDZPwSXmL0cCTaJuVrCw",
+   "genre": "R&B/Soul"
   },
   {
    "id": "henz-42",
@@ -503,11 +503,11 @@
    "artist": "Britney Spears",
    "album": "Blackout",
    "duration": 251,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/76763b33422eb22b46ffa7c1d8bfe910/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music117/v4/a5/05/e0/a505e0d6-f963-ba5d-c7b6-02385d5cc697/886444180184.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/c69be559ed82a4259f047ad29f2acdcbec09cde4",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/0/f/d/0/0fdc5f2b47b7650d5e2f3f862c13a936.mp3?hdnea=exp=1792672601~acl=/api/1/1/0/f/d/0/0fdc5f2b47b7650d5e2f3f862c13a936.mp3*~data=user_id=0,application_id=42~hmac=9461bfed81bc3dbeb06bb529854bd654dc4f69625aeddb6948320068501fd0fb",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:6ic8OlLUNEATToEFU3xmaH"
+   "spotifyUri": "spotify:track:6ic8OlLUNEATToEFU3xmaH",
+   "genre": "Pop"
   },
   {
    "id": "henz-43",
@@ -515,11 +515,11 @@
    "artist": "Don Toliver",
    "album": "OCTANE",
    "duration": 156,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/123eb0268dfea84370a28c4a2114dc28/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/00/c1/dd/00c1dd09-3f86-7288-01dc-63b9f4262f57/075679599377.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/4a5bc0d7bc7fe5feb991389bcf55c7e817784ce5",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/e/9/2/0/e92c91a7b260e766a8673dcfaaee0980.mp3?hdnea=exp=1792672602~acl=/api/1/1/e/9/2/0/e92c91a7b260e766a8673dcfaaee0980.mp3*~data=user_id=0,application_id=42~hmac=ff2eec152b8a200c7da647b46465d6beca7bba2e51e7bab67376b397f2cb3231",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:0FlcmZ13DGRmscCroro9GO"
+   "spotifyUri": "spotify:track:0FlcmZ13DGRmscCroro9GO",
+   "genre": "Hip-Hop/Rap"
   },
   {
    "id": "henz-44",
@@ -527,11 +527,11 @@
    "artist": "Don Toliver",
    "album": "Tiramisu",
    "duration": 139,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/77820b03ecad0c987e3fe636bd5605fa/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/23/e6/dc23e6c0-07bd-0ce7-6ce5-18c8bf22ed77/075679600691.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/7860684f51c8a141150cc50de4eff6ad2aa16ea7",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/6/0/7a6c00a87728e7f7eff77add0256e0fd.mp3?hdnea=exp=1792672603~acl=/api/1/1/7/a/6/0/7a6c00a87728e7f7eff77add0256e0fd.mp3*~data=user_id=0,application_id=42~hmac=efc49a8f481d7a01d6ef9f4e1ba32648547b01aabbcd4aae2a3b2359d202cc70",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:2GHKo6nrSjruvBEQbzD7Fw"
+   "spotifyUri": "spotify:track:2GHKo6nrSjruvBEQbzD7Fw",
+   "genre": "Hip-Hop/Rap"
   },
   {
    "id": "henz-45",
@@ -541,9 +541,9 @@
    "duration": 108,
    "cover": "https://cdn-images.dzcdn.net/images/cover/efdb627af294be73280594c3e89b09a1/500x500-000000-80-0-0.jpg",
    "src": "https://p.scdn.co/mp3-preview/e198bfe5954e8ae60c764f2aada65df339c13c83",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/a/f/1/0/af1588333386fe024d560ecc5061ad21.mp3?hdnea=exp=1792672604~acl=/api/1/1/a/f/1/0/af1588333386fe024d560ecc5061ad21.mp3*~data=user_id=0,application_id=42~hmac=f9c40b0935565546711887b5d313f89a942d82c08e4ca9993a4189c87557fada",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:2pPNAgcdgtRMwK9mPYMK7O"
+   "spotifyUri": "spotify:track:2pPNAgcdgtRMwK9mPYMK7O",
+   "genre": "Underground Hip Hop"
   },
   {
    "id": "henz-46",
@@ -551,11 +551,11 @@
    "artist": "EsDeeKid",
    "album": "Century",
    "duration": 110,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/2e983a2d338a5a8ca412b732a460eec2/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b9/4f/d9/b94fd9ef-f47b-325a-c0ff-a64abe190167/artwork.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/cacca2541f2343cafa8c11af9e5917f7513bd4ba",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/9/0/b39ee55aaf78f0219ba3ad8c8755a588.mp3?hdnea=exp=1792672606~acl=/api/1/1/b/3/9/0/b39ee55aaf78f0219ba3ad8c8755a588.mp3*~data=user_id=0,application_id=42~hmac=d8183a683180d9ac493280e452cbc8aadecd491f7cca709e055feb518acaabf7",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:1lJOLxDS8kS2rihrqezMcv"
+   "spotifyUri": "spotify:track:1lJOLxDS8kS2rihrqezMcv",
+   "genre": "Dance"
   },
   {
    "id": "henz-47",
@@ -565,9 +565,9 @@
    "duration": 135,
    "cover": "https://cdn-images.dzcdn.net/images/cover/8848c366508735e513fed3e2c6f2a6d1/500x500-000000-80-0-0.jpg",
    "src": "https://p.scdn.co/mp3-preview/fb7441a4c6926521aa793b49ff41376a3c4d1e27",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/2/5/f/0/25f6203c3258c784e617048b8d595dc3.mp3?hdnea=exp=1792672607~acl=/api/1/1/2/5/f/0/25f6203c3258c784e617048b8d595dc3.mp3*~data=user_id=0,application_id=42~hmac=9a51a9471d8b1d4a6bb87ca7b5d636ae68f35e178d7295bd9001c377859aee10",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:4evMMKc2HD6fV9slMfgkMx"
+   "spotifyUri": "spotify:track:4evMMKc2HD6fV9slMfgkMx",
+   "genre": "Hip Hop"
   },
   {
    "id": "henz-48",
@@ -577,9 +577,9 @@
    "duration": 170,
    "cover": "https://cdn-images.dzcdn.net/images/cover/2a622e01fb9b1c4717c63ae3caca9826/500x500-000000-80-0-0.jpg",
    "src": "https://p.scdn.co/mp3-preview/0559c3e52f40049478c0025a2ff5aff5c604fce8",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/f/c/3/0/fc3a9cdaca69930413dfeec2a0511578.mp3?hdnea=exp=1792672608~acl=/api/1/1/f/c/3/0/fc3a9cdaca69930413dfeec2a0511578.mp3*~data=user_id=0,application_id=42~hmac=f9cecfe304e55bfa6849e1328106d82defdf4c5b4bdf76bb6984dd6162bd8f04",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:2LgrNOU8GQYASgz7lIDVt3"
+   "spotifyUri": "spotify:track:2LgrNOU8GQYASgz7lIDVt3",
+   "genre": "Hip Hop"
   },
   {
    "id": "henz-49",
@@ -587,11 +587,11 @@
    "artist": "Don Toliver",
    "album": "Love Sick (Deluxe)",
    "duration": 188,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/1de09d4af3eef9cb4b21070dc6af8275/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/06/d8/23/06d82339-cee8-cf8b-6c18-6899eb004b79/5063621864890_cover.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/bb025edbea020ade019e710784b5d6828ae6f20e",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/d/4/2/0/d42b6ed1291d7b0a89b117e0f40bf1e8.mp3?hdnea=exp=1792672609~acl=/api/1/1/d/4/2/0/d42b6ed1291d7b0a89b117e0f40bf1e8.mp3*~data=user_id=0,application_id=42~hmac=843e4c37266c65ec13a5fc3b77d8af0d046b7c55a07dfaa1f30cd6d6853f4e2d",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:0eaVIYo2zeOaGJeqZ5TwYz"
+   "spotifyUri": "spotify:track:0eaVIYo2zeOaGJeqZ5TwYz",
+   "genre": "Pop"
   },
   {
    "id": "henz-50",
@@ -599,11 +599,11 @@
    "artist": "Drake",
    "album": "ICEMAN",
    "duration": 194,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/cccf5e9af10b6aae96f5cdd5a27c2aff/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7f/39/61/7f396123-be56-bc11-eaab-976441808e58/26UMGIM63622.rgb.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/d0cf7958fbc6f4e60712590f63231da8acad6e04",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/0/0/f60f4d4aa19d279c0a6a2d76d5a11261.mp3?hdnea=exp=1792672610~acl=/api/1/1/f/6/0/0/f60f4d4aa19d279c0a6a2d76d5a11261.mp3*~data=user_id=0,application_id=42~hmac=bfdcb2fe588b9f5b27a867add9c1db18845e93b9c06da8356fe236feabf56c93",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:7oDbkGSI3IRzKmhrTiQdID"
+   "spotifyUri": "spotify:track:7oDbkGSI3IRzKmhrTiQdID",
+   "genre": "Hip-Hop"
   },
   {
    "id": "henz-51",
@@ -611,11 +611,11 @@
    "artist": "The Weeknd, Playboi Carti",
    "album": "Hurry Up Tomorrow",
    "duration": 256,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/e4b16c1afe136140bba34368357e8f05/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/dd/f7/2dddf721-a46d-439d-65df-b7ec60d9de7b/25UMGIM63126.rgb.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/c27493ac0bcb3deb72a8e814ab6c7e8686cd2324",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/d/0/d1d0f32d011c2139bcff3bf9b591cf67.mp3?hdnea=exp=1792672612~acl=/api/1/1/d/1/d/0/d1d0f32d011c2139bcff3bf9b591cf67.mp3*~data=user_id=0,application_id=42~hmac=a844f35f019491d3dd26a63b8070755822f0f3c05d51c1571d3a1f3e539218e2",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:0FIDCNYYjNvPVimz5icugS"
+   "spotifyUri": "spotify:track:0FIDCNYYjNvPVimz5icugS",
+   "genre": "R&B/Soul"
   },
   {
    "id": "henz-52",
@@ -625,9 +625,9 @@
    "duration": 110,
    "cover": "https://cdn-images.dzcdn.net/images/cover/efdb627af294be73280594c3e89b09a1/500x500-000000-80-0-0.jpg",
    "src": "https://p.scdn.co/mp3-preview/9dbcdcc28857513b615b126752b2b81c9d03afdc",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/7/d/1/0/7d123f82369352ff8b5ccf84bdc0a11f.mp3?hdnea=exp=1792672614~acl=/api/1/1/7/d/1/0/7d123f82369352ff8b5ccf84bdc0a11f.mp3*~data=user_id=0,application_id=42~hmac=7b0a78e1b740dfa556aaa7fb361617a30a3346b5190f2ce85d2962c30494e83c",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:57Z6TJCTMACXxdrcwZ3Zvf"
+   "spotifyUri": "spotify:track:57Z6TJCTMACXxdrcwZ3Zvf",
+   "genre": "Underground Hip Hop"
   },
   {
    "id": "henz-53",
@@ -635,11 +635,11 @@
    "artist": "Drake",
    "album": "Views",
    "duration": 256,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/56bdb7a86a27fadb96332c0c8f1b8e81/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/95/f5/87/95f587f7-21c3-d5f9-d81a-4350f9caa020/16UMGIM27643.rgb.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/38a04878609b52412b6f10eb3f24373b1e47b818",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/c/e/a/0/ceac2b0f817e0be28654b1cd6c6f6115.mp3?hdnea=exp=1792672615~acl=/api/1/1/c/e/a/0/ceac2b0f817e0be28654b1cd6c6f6115.mp3*~data=user_id=0,application_id=42~hmac=ea4c8c7cf59710a32a290ca6d141ecd19df621acb36d3ca8aaeb489d15976ff5",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:1C7KSXR2GVxknex6I4ANco"
+   "spotifyUri": "spotify:track:1C7KSXR2GVxknex6I4ANco",
+   "genre": "Hip-Hop/Rap"
   },
   {
    "id": "henz-54",
@@ -649,9 +649,9 @@
    "duration": 110,
    "cover": "https://cdn-images.dzcdn.net/images/cover/efdb627af294be73280594c3e89b09a1/500x500-000000-80-0-0.jpg",
    "src": "https://p.scdn.co/mp3-preview/716757781c5c4767a7c9f379e3361671ad18a3ec",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/7/1/c/0/71c01c4175b14807bf516b26ffa1cda9.mp3?hdnea=exp=1792672617~acl=/api/1/1/7/1/c/0/71c01c4175b14807bf516b26ffa1cda9.mp3*~data=user_id=0,application_id=42~hmac=3de61d0bb55884dcddb80f8cfdc2bb5f1dcfeb95baa0c985dd179e5a271d2506",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:1r7dV486KA1fMo2w1voblx"
+   "spotifyUri": "spotify:track:1r7dV486KA1fMo2w1voblx",
+   "genre": "Underground Hip Hop"
   },
   {
    "id": "henz-55",
@@ -659,11 +659,11 @@
    "artist": "Don Toliver",
    "album": "OCTANE",
    "duration": 122,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/123eb0268dfea84370a28c4a2114dc28/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/00/c1/dd/00c1dd09-3f86-7288-01dc-63b9f4262f57/075679599377.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/84321b813c7de630838ef46f98a7c509edf8b6a7",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/7/c/8/0/7c88410b15fb40cefdd4e682a03ce506.mp3?hdnea=exp=1792672619~acl=/api/1/1/7/c/8/0/7c88410b15fb40cefdd4e682a03ce506.mp3*~data=user_id=0,application_id=42~hmac=2d5b6dac03b681b0b3bd55b5083886c58b951f59e7dfad45db1d834323017cbc",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:6d9Cs2D2RSIl9c0ulgnFe8"
+   "spotifyUri": "spotify:track:6d9Cs2D2RSIl9c0ulgnFe8",
+   "genre": "Hip-Hop/Rap"
   },
   {
    "id": "henz-56",
@@ -673,9 +673,9 @@
    "duration": 96,
    "cover": "https://cdn-images.dzcdn.net/images/cover/efdb627af294be73280594c3e89b09a1/500x500-000000-80-0-0.jpg",
    "src": "https://p.scdn.co/mp3-preview/f94d936d1d713e519ae71c1fddc74cf25d070335",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/3/d/c/0/3dc6ef27909be8cff93d01bfb9766079.mp3?hdnea=exp=1792672620~acl=/api/1/1/3/d/c/0/3dc6ef27909be8cff93d01bfb9766079.mp3*~data=user_id=0,application_id=42~hmac=9364e1e1b5d995fe0c85d89310609dbd6c9993b39d42531673a0a48bf1b5e07a",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:7mcxFbFdnFFbWwPflgqqKE"
+   "spotifyUri": "spotify:track:7mcxFbFdnFFbWwPflgqqKE",
+   "genre": "Underground Hip Hop"
   },
   {
    "id": "henz-57",
@@ -685,9 +685,9 @@
    "duration": 177,
    "cover": "https://cdn-images.dzcdn.net/images/cover/88e7b38c04b8d8300300823ade50e28d/500x500-000000-80-0-0.jpg",
    "src": "https://p.scdn.co/mp3-preview/1529d2924ef213309125d11e9458e6732eeb3dc5",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/b/2/8/0/b280029603bf67694ec608d3cb574ac1.mp3?hdnea=exp=1792672622~acl=/api/1/1/b/2/8/0/b280029603bf67694ec608d3cb574ac1.mp3*~data=user_id=0,application_id=42~hmac=ed77d6bcffca4d4a47b1770f3c883ad04960924e077588b963d7daef275979cd",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:0c0YHn3DIQLl1opsQDd9kO"
+   "spotifyUri": "spotify:track:0c0YHn3DIQLl1opsQDd9kO",
+   "genre": "Electronic"
   },
   {
    "id": "henz-58",
@@ -695,11 +695,11 @@
    "artist": "Playboi Carti",
    "album": "MUSIC",
    "duration": 184,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/8848c366508735e513fed3e2c6f2a6d1/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c6/34/c0/c634c07b-08cb-ff72-4f10-41e823fc8091/693233.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/793379cd675c6f47be2bcad2334aa9d2c98f99e8",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/1/f/4/0/1f4bddaf67b8b9831d2375e420832db2.mp3?hdnea=exp=1792672624~acl=/api/1/1/1/f/4/0/1f4bddaf67b8b9831d2375e420832db2.mp3*~data=user_id=0,application_id=42~hmac=f5e4b73efa1e80232881270e01daf598bf8aa2aef363bced2066a6ffd4324740",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:6iycYUk3oB0NPMdaDUrN1w"
+   "spotifyUri": "spotify:track:6iycYUk3oB0NPMdaDUrN1w",
+   "genre": "Hip-Hop/Rap"
   },
   {
    "id": "henz-59",
@@ -707,11 +707,11 @@
    "artist": "Drake",
    "album": "$ome $exy $ongs 4 U",
    "duration": 241,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/2f2f706059ac2ada8587fa0799ff8fbd/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/65/a1/d8/65a1d809-dede-adf4-d85e-964070e77f58/808391285897.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/d8905212ce5c04f3e5c9a299e62810ef0067975c",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/6/7/2/0/6727470b7672c4332d0dafadf1b1a8dc.mp3?hdnea=exp=1792672626~acl=/api/1/1/6/7/2/0/6727470b7672c4332d0dafadf1b1a8dc.mp3*~data=user_id=0,application_id=42~hmac=bf4b8aa4326eec41bc642b513f78fca7a9c0459daddf0dda793859822dda441c",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:2u9S9JJ6hTZS3Vf22HOZKg"
+   "spotifyUri": "spotify:track:2u9S9JJ6hTZS3Vf22HOZKg",
+   "genre": "R&B/Soul"
   },
   {
    "id": "henz-60",
@@ -721,9 +721,9 @@
    "duration": 121,
    "cover": "https://cdn-images.dzcdn.net/images/cover/67e627664623c1e5b233f360a5400591/500x500-000000-80-0-0.jpg",
    "src": "https://p.scdn.co/mp3-preview/d983eb7361c39fa1f45a2d3b9858f6d358cddfbc",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/d/f/9/0/df99175d35a4c21f49b6eb0b533154c2.mp3?hdnea=exp=1792672627~acl=/api/1/1/d/f/9/0/df99175d35a4c21f49b6eb0b533154c2.mp3*~data=user_id=0,application_id=42~hmac=8e6d35b01627e1f3850efb2dd0f482ba7321603c9c7d8a25988660ab14fd8f9b",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:0WQhJTiyHjgAfYWZtx4AKU"
+   "spotifyUri": "spotify:track:0WQhJTiyHjgAfYWZtx4AKU",
+   "genre": "Burmese Hip Hop"
   },
   {
    "id": "henz-61",
@@ -733,9 +733,9 @@
    "duration": 120,
    "cover": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84325328e8c6895d2e07fda31b",
    "src": "https://p.scdn.co/mp3-preview/0a5c16afc53c04ddcc80fd083776c66448efcd75",
-   "srcBackup": null,
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:46jKxnaZgGBWnBuTh1A8MU"
+   "spotifyUri": "spotify:track:46jKxnaZgGBWnBuTh1A8MU",
+   "genre": "Burmese Hip Hop"
   },
   {
    "id": "henz-62",
@@ -745,9 +745,9 @@
    "duration": 157,
    "cover": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84325328e8c6895d2e07fda31b",
    "src": "https://p.scdn.co/mp3-preview/36d6ebd717ac86a0c9fb2abe97a8385530de2eee",
-   "srcBackup": null,
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:4UiLE4ch863BRqZMZZv2wg"
+   "spotifyUri": "spotify:track:4UiLE4ch863BRqZMZZv2wg",
+   "genre": "Burmese Hip Hop"
   },
   {
    "id": "henz-63",
@@ -757,9 +757,9 @@
    "duration": 252,
    "cover": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84325328e8c6895d2e07fda31b",
    "src": "https://p.scdn.co/mp3-preview/642c7ee8db81aa3c35ae05af4a680c16f58a7706",
-   "srcBackup": null,
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:6jkal4bf4r7VqIxByqn6ps"
+   "spotifyUri": "spotify:track:6jkal4bf4r7VqIxByqn6ps",
+   "genre": "Burmese Hip Hop"
   },
   {
    "id": "henz-64",
@@ -769,9 +769,9 @@
    "duration": 289,
    "cover": "https://cdn-images.dzcdn.net/images/cover/67f09e8d6bc241dc4f505a4e92872a94/500x500-000000-80-0-0.jpg",
    "src": "https://p.scdn.co/mp3-preview/48da42738ab2c20990b19d41f8101995a23b7e47",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/0/0/6402e46b4d54fc4038109b4257a388e2.mp3?hdnea=exp=1792672634~acl=/api/1/1/6/4/0/0/6402e46b4d54fc4038109b4257a388e2.mp3*~data=user_id=0,application_id=42~hmac=94601cc7fb37aafcf213fe9db3b196535e4eba4734a4a5c6796128705cb65fde",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:5a7BmjqSYGTBGInby1Oxwm"
+   "spotifyUri": "spotify:track:5a7BmjqSYGTBGInby1Oxwm",
+   "genre": "Burmese Hip Hop"
   },
   {
    "id": "henz-65",
@@ -779,11 +779,11 @@
    "artist": "Justin Bieber",
    "album": "Flatline",
    "duration": 219,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/0a161344bb2aebbf2a3f15435cd78b41/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2e/36/22/2e362231-343c-1769-3a70-26764aba11bc/13UAEIM70403.rgb.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/6006d48c0814f35eb0e7a67af46a84919664a49f",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/2/0/f/0/20f52a6feebe20e28eb10a1e7f052912.mp3?hdnea=exp=1792672636~acl=/api/1/1/2/0/f/0/20f52a6feebe20e28eb10a1e7f052912.mp3*~data=user_id=0,application_id=42~hmac=4c19bbf4e7980db743a3a73bad6f1ce131c23ead93a5218445560e5bab9ec710",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:2GBgiuXwY1KzJMA0gSAr9J"
+   "spotifyUri": "spotify:track:2GBgiuXwY1KzJMA0gSAr9J",
+   "genre": "Pop"
   },
   {
    "id": "henz-66",
@@ -791,11 +791,11 @@
    "artist": "Justin Bieber",
    "album": "SWAG LIVE FROM COACHELLA (Weekend I)",
    "duration": 176,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/323416544881c058d541423ca28b7c8f/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/06/1c/73/061c7321-52c9-5532-4fb5-5d704e43e7a9/ticket.efkjkgmd.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/d990a355be1d84adc0882bda733862fba7767e70",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/b/c/1/0/bc1e5b0190ef460a358800fd38d28dfd.mp3?hdnea=exp=1792672637~acl=/api/1/1/b/c/1/0/bc1e5b0190ef460a358800fd38d28dfd.mp3*~data=user_id=0,application_id=42~hmac=fd47602dd0206f0a355dc78447520713df5b5758f4569b16e54a23e66a64a61e",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:5BZsQlgw21vDOAjoqkNgKb"
+   "spotifyUri": "spotify:track:5BZsQlgw21vDOAjoqkNgKb",
+   "genre": "Pop"
   },
   {
    "id": "henz-67",
@@ -805,9 +805,9 @@
    "duration": 147,
    "cover": "https://cdn-images.dzcdn.net/images/cover/574f3513415c57e13e7b344c36026a76/500x500-000000-80-0-0.jpg",
    "src": "https://p.scdn.co/mp3-preview/75d3bd0663af8886f2a230bf99932cf5b6db84e6",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/f/e/e/0/feeddfa13973d71951e24cd57151d75f.mp3?hdnea=exp=1792672639~acl=/api/1/1/f/e/e/0/feeddfa13973d71951e24cd57151d75f.mp3*~data=user_id=0,application_id=42~hmac=cb5f48e82408ad51f3b52e38a3d2e1ed56b46092d09783143ab189adc54171b8",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:35sZOqVnTQNIGWGURrFdLh"
+   "spotifyUri": "spotify:track:35sZOqVnTQNIGWGURrFdLh",
+   "genre": "R&B"
   },
   {
    "id": "henz-68",
@@ -815,11 +815,11 @@
    "artist": "PARTYNEXTDOOR",
    "album": "PARTYNEXTDOOR TWO",
    "duration": 217,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/5a863f7b66be73232811d51c442a2a5e/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/80/44/09/804409df-b7a1-6b68-288b-c1869b6bdfea/93624935247.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/aaf4660ba22a6ebeb742bd1424e1c3689c4dc318",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/8/0/b78f9e4f16071f3f7788166e7b6a8140.mp3?hdnea=exp=1792672640~acl=/api/1/1/b/7/8/0/b78f9e4f16071f3f7788166e7b6a8140.mp3*~data=user_id=0,application_id=42~hmac=e72428484da891d92843211e37ba126e72b4b4a2e6803f76adb859ffdc220eb3",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:3JEJwjqLkg2Jbau5922CAb"
+   "spotifyUri": "spotify:track:3JEJwjqLkg2Jbau5922CAb",
+   "genre": "R&B/Soul"
   },
   {
    "id": "henz-69",
@@ -827,11 +827,11 @@
    "artist": "PARTYNEXTDOOR",
    "album": "PARTYNEXTDOOR TWO",
    "duration": 98,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/5a863f7b66be73232811d51c442a2a5e/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/80/44/09/804409df-b7a1-6b68-288b-c1869b6bdfea/93624935247.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/9b4f78e5fef73cda3168712d5ada9297723ec373",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/9/f/9/0/9f97404115ed554c06103a6a37d69edf.mp3?hdnea=exp=1792672642~acl=/api/1/1/9/f/9/0/9f97404115ed554c06103a6a37d69edf.mp3*~data=user_id=0,application_id=42~hmac=a12c33214ab8f704d2808923211ece56512e4c3c0025457fa97030477ad3d6bf",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:5c3luoCub1Z1Gg74NdNtuq"
+   "spotifyUri": "spotify:track:5c3luoCub1Z1Gg74NdNtuq",
+   "genre": "R&B/Soul"
   },
   {
    "id": "henz-70",
@@ -839,11 +839,11 @@
    "artist": "Don Toliver",
    "album": "HARDSTONE PSYCHO",
    "duration": 217,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/385d0b2eea8cc5706daf9d0bd6720901/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/de/bf/44debf50-b8c0-85b7-0ac9-1f5acfc3e138/075679660763.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/56c0e2a1cf8c5006c6cd223e20d01c20aaa26627",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/a/b/4/0/ab45eaf5489122033f6eae782596db92.mp3?hdnea=exp=1792672643~acl=/api/1/1/a/b/4/0/ab45eaf5489122033f6eae782596db92.mp3*~data=user_id=0,application_id=42~hmac=a7db627938ff02d55bb042571c87a12423fb86ea8c9528d3c8dc4b937a074e65",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:2c7z5oRcPBbqRaBY2mLWcf"
+   "spotifyUri": "spotify:track:2c7z5oRcPBbqRaBY2mLWcf",
+   "genre": "Hip-Hop/Rap"
   },
   {
    "id": "henz-71",
@@ -851,11 +851,11 @@
    "artist": "PARTYNEXTDOOR",
    "album": "PARTYNEXTDOOR 4 (P4)",
    "duration": 265,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/0afbeaa51ea6c1b30d9880ebb203aded/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2a/de/fa/2adefac5-0d69-ca47-da59-94f50f405d52/39740.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/06f60075187791c9c6ef7ad5e4dff5f7aa133342",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/9/3/a/0/93a1d2005d77fbc54e4d7007bab57c0e.mp3?hdnea=exp=1792672645~acl=/api/1/1/9/3/a/0/93a1d2005d77fbc54e4d7007bab57c0e.mp3*~data=user_id=0,application_id=42~hmac=1715e27eb0e3359650b8b1a1a7f1ca8cf25f821111bac5dcd2f52e3044502d56",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:1zhMHgotgZXkLCXpqNRnPK"
+   "spotifyUri": "spotify:track:1zhMHgotgZXkLCXpqNRnPK",
+   "genre": "R&B/Soul"
   },
   {
    "id": "henz-72",
@@ -863,11 +863,11 @@
    "artist": "PARTYNEXTDOOR",
    "album": "PARTYNEXTDOOR 4 (P4)",
    "duration": 239,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/0afbeaa51ea6c1b30d9880ebb203aded/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2a/de/fa/2adefac5-0d69-ca47-da59-94f50f405d52/39740.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/8db9d9273519e94b49d617ab76bb010bf4fcaa89",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/5/a/5/0/5a50621171ad8ce8aeba792aee6ab744.mp3?hdnea=exp=1792672646~acl=/api/1/1/5/a/5/0/5a50621171ad8ce8aeba792aee6ab744.mp3*~data=user_id=0,application_id=42~hmac=5496b848ca1c76f9269b9010b736cf52265d54b2ebec20ba9a9674eb90f321f5",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:4UL6S1pHHKqmsNOfsPJqgW"
+   "spotifyUri": "spotify:track:4UL6S1pHHKqmsNOfsPJqgW",
+   "genre": "R&B/Soul"
   },
   {
    "id": "henz-73",
@@ -875,11 +875,11 @@
    "artist": "Future, Metro Boomin, The Weeknd",
    "album": "WE STILL DON'T TRUST YOU",
    "duration": 254,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/475b27916ce9ad78b45236d307cd3b94/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/33/aa/6c/33aa6ca4-cb53-d64a-2981-5fd79fdc57ce/196871990851.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/797accf9a35862f1a2c6ea098b57d98263fb86f2",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/9/0/5/0/90586121b47f2b775e13bb3fd7e117ff.mp3?hdnea=exp=1792672648~acl=/api/1/1/9/0/5/0/90586121b47f2b775e13bb3fd7e117ff.mp3*~data=user_id=0,application_id=42~hmac=0e9023519df8be7f4d25c265365a686fba3f8dd636ecfe8bd93c61f069880b39",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:0lOQaZwX9AkAiSvObh4G70"
+   "spotifyUri": "spotify:track:0lOQaZwX9AkAiSvObh4G70",
+   "genre": "Hip-Hop/Rap"
   },
   {
    "id": "henz-74",
@@ -889,9 +889,9 @@
    "duration": 167,
    "cover": "https://cdn-images.dzcdn.net/images/cover/574f3513415c57e13e7b344c36026a76/500x500-000000-80-0-0.jpg",
    "src": "https://p.scdn.co/mp3-preview/d583e26e1bdca6d6d3f48aafd86a3f918f3f9d0a",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/7/0/6876425592e1a77b74c6935950c1a3a5.mp3?hdnea=exp=1792672649~acl=/api/1/1/6/8/7/0/6876425592e1a77b74c6935950c1a3a5.mp3*~data=user_id=0,application_id=42~hmac=dd3de0c907907adb8f00472d07e696c0891ac40d3793473f7e8547bce30d006f",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:76NiA6xWcInB3Ug5x5mvuH"
+   "spotifyUri": "spotify:track:76NiA6xWcInB3Ug5x5mvuH",
+   "genre": "R&B"
   },
   {
    "id": "henz-75",
@@ -899,11 +899,11 @@
    "artist": "Don Toliver, Travis Scott",
    "album": "Life of a DON",
    "duration": 214,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/d4a1eabe71d16d4c12bfe577c498219f/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b1/05/3d/b1053d96-a026-324e-9322-decf3836ac1f/075679766335.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/b03a8c3e92920c6249738e8fb9ccc2b1c588a009",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/9/2/e/0/92e4d62a478956617c65e4056ed38cff.mp3?hdnea=exp=1792672650~acl=/api/1/1/9/2/e/0/92e4d62a478956617c65e4056ed38cff.mp3*~data=user_id=0,application_id=42~hmac=06dda007c15c799a194749994d9c266b26002b831079f4c70d4ea38fea8ddc31",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:4qS2KPWvsQzLvRa9oCHw41"
+   "spotifyUri": "spotify:track:4qS2KPWvsQzLvRa9oCHw41",
+   "genre": "Hip-Hop/Rap"
   },
   {
    "id": "henz-76",
@@ -911,11 +911,11 @@
    "artist": "Miguel",
    "album": "All I Want Is You",
    "duration": 103,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/23f94611c678b0c16b2a8336fa420e3f/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4b/85/3f/4b853f59-1e43-5e93-54cf-5a799c04ed1d/884977670820.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/ac38a10692d8c4cf05c509854c59889f403c6093",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/8/2/e/0/82edcdba296ebd4567bbd6e519283145.mp3?hdnea=exp=1792672652~acl=/api/1/1/8/2/e/0/82edcdba296ebd4567bbd6e519283145.mp3*~data=user_id=0,application_id=42~hmac=64358774bc1f893a3c53f581628f371c1341bfc4f5569c29907db9187d164424",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:1eUGmzzvahJjOSWgDHuRlv"
+   "spotifyUri": "spotify:track:1eUGmzzvahJjOSWgDHuRlv",
+   "genre": "R&B/Soul"
   },
   {
    "id": "henz-77",
@@ -923,11 +923,11 @@
    "artist": "NLE Choppa",
    "album": "SLUT SZN",
    "duration": 138,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/00a3c1071e8cfb5f58a59c07f3d261d3/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/b8/b2/efb8b277-adf3-6f3e-89d6-a9890e91bac8/093624834403.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/83b8fc45e68efbf7c0f3969c6f22851d8f8c3099",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/4/4/9/0/44957defffcff5dc41a16ee7ac6e71d6.mp3?hdnea=exp=1792672653~acl=/api/1/1/4/4/9/0/44957defffcff5dc41a16ee7ac6e71d6.mp3*~data=user_id=0,application_id=42~hmac=d47d359d48775e0e8f41333f0820bdf49f241ebc181a15f7fe729826f1bcafc5",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:76Ku9OBFK1NjMylR8r4WLK"
+   "spotifyUri": "spotify:track:76Ku9OBFK1NjMylR8r4WLK",
+   "genre": "Hip-Hop/Rap"
   },
   {
    "id": "henz-78",
@@ -935,11 +935,11 @@
    "artist": "Lloyd, Lil Wayne",
    "album": "You",
    "duration": 273,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/c10a3b0eb66321a38e8f5f5316d82839/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/83/17/b2/8317b29e-6d8a-22a7-718e-b7e014f3b6c1/07UMGIM01885.rgb.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/69695d1c6e2f71359a51fbb08f380197c46128c2",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/8/f/0/0/8f085913abc784018ee86c2f0a836a75.mp3?hdnea=exp=1792672654~acl=/api/1/1/8/f/0/0/8f085913abc784018ee86c2f0a836a75.mp3*~data=user_id=0,application_id=42~hmac=bb3aabb8c86c1c0d92e62976e1e36df5b1d550ce1636b5e41808efa45f4d9404",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:5Y77SQxEr1eiofPeUTPHxM"
+   "spotifyUri": "spotify:track:5Y77SQxEr1eiofPeUTPHxM",
+   "genre": "R&B/Soul"
   },
   {
    "id": "henz-79",
@@ -947,11 +947,11 @@
    "artist": "Drake, THE-DREAM",
    "album": "Shut It Down",
    "duration": 419,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/9a00b38310928d71de22c53e2a4ef161/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/65/d3/f6/65d3f6e2-25d5-5890-afe5-526e7cb993ff/00602527458038.rgb.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/6e829968df031e9c02e610ba68f2688171a24a36",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/9/d/0/0/9d04d65dd8c56b30da9ad98e3d4e4a27.mp3?hdnea=exp=1792672655~acl=/api/1/1/9/d/0/0/9d04d65dd8c56b30da9ad98e3d4e4a27.mp3*~data=user_id=0,application_id=42~hmac=bcbf775e5228d0fbefe9d592d7cfaa0a9be0aca1fa56b13d914333e66579d6e4",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:3d8PDk3B4am5c6TsUCznUW"
+   "spotifyUri": "spotify:track:3d8PDk3B4am5c6TsUCznUW",
+   "genre": "Hip-Hop/Rap"
   },
   {
    "id": "henz-80",
@@ -961,9 +961,9 @@
    "duration": 135,
    "cover": "https://cdn-images.dzcdn.net/images/cover/25e7265885cef2579b26b66440e174c1/500x500-000000-80-0-0.jpg",
    "src": "https://p.scdn.co/mp3-preview/1cc2ddb051a61a831e6ba5eea86fc1398743f90e",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/8/8/8/0/8886dea451ba6a151aa87d5b54c63ef9.mp3?hdnea=exp=1792672656~acl=/api/1/1/8/8/8/0/8886dea451ba6a151aa87d5b54c63ef9.mp3*~data=user_id=0,application_id=42~hmac=791187effe83a48cc6f9dda651d5e42e3ecad2e54830adff552a976f27a99b32",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:3MNYWKzMNhTV6rI5h9eyhn"
+   "spotifyUri": "spotify:track:3MNYWKzMNhTV6rI5h9eyhn",
+   "genre": "Hip Hop"
   },
   {
    "id": "henz-81",
@@ -971,11 +971,11 @@
    "artist": "Drake",
    "album": "More Life",
    "duration": 220,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/8f0187ad83cdd1f47f1c55420f9df227/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/18/9d/b8/189db80b-bfa8-89d1-1514-5fcb7e5cf8f4/00602557611526.rgb.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/0611c318539924ebddcb9b8a86860fd667de0d91",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/2/f/e/0/2fe80eb47049c28c0a612bd7bf1059f1.mp3?hdnea=exp=1792672657~acl=/api/1/1/2/f/e/0/2fe80eb47049c28c0a612bd7bf1059f1.mp3*~data=user_id=0,application_id=42~hmac=66c7c429f8620cf8795766bc54bc603f29b29f88405f5a1de6822aa83b5d3b86",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:6n3HGiq4v35D6eFOSwqYuo"
+   "spotifyUri": "spotify:track:6n3HGiq4v35D6eFOSwqYuo",
+   "genre": "Hip-Hop/Rap"
   },
   {
    "id": "henz-82",
@@ -983,11 +983,11 @@
    "artist": "A$AP Rocky",
    "album": "LONG.LIVE.A$AP (Deluxe Version)",
    "duration": 236,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/ca42a0630c1d60391ac44f3be6abcac0/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9a/94/5b/9a945b11-9de3-8915-c571-63c8f8df05c1/22UMGIM44292.rgb.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/91b041f28c73aa5763d26b7ce7a644f8c5aa3b18",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/9/a/4/0/9a4b7e67e3a77163dcee61679dd44cbc.mp3?hdnea=exp=1792672658~acl=/api/1/1/9/a/4/0/9a4b7e67e3a77163dcee61679dd44cbc.mp3*~data=user_id=0,application_id=42~hmac=4303b8f71e47d1319316b5ded72c2135ddbfa37403b7191c14508e6060fb99a5",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:0O3TAouZE4vL9dM5SyxgvH"
+   "spotifyUri": "spotify:track:0O3TAouZE4vL9dM5SyxgvH",
+   "genre": "Hip-Hop/Rap"
   },
   {
    "id": "henz-83",
@@ -995,11 +995,11 @@
    "artist": "Drake, Chris Brown",
    "album": "Dark Lane Demo Tapes",
    "duration": 270,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/d46b7a8aa40ef7f09d71a03c2ce8edcd/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/00/70/0b/00700b6f-2b06-c986-c7ec-445d95b28e74/20UMGIM34467.rgb.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/4f0d96526c816b0c7c478b451b15f50683f307cc",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/d/5/1/0/d51008801a76749ce151a78a1c6595af.mp3?hdnea=exp=1792672659~acl=/api/1/1/d/5/1/0/d51008801a76749ce151a78a1c6595af.mp3*~data=user_id=0,application_id=42~hmac=2494d02e45a51ebd9531d4ae3dd28eb0e83e5b2815db6a4ec47978818d6e6ae8",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:3Q4gttWQ6hxqWOa3tHoTNi"
+   "spotifyUri": "spotify:track:3Q4gttWQ6hxqWOa3tHoTNi",
+   "genre": "Hip-Hop/Rap"
   },
   {
    "id": "henz-84",
@@ -1007,11 +1007,11 @@
    "artist": "Lil Uzi Vert",
    "album": "Luv Is Rage 2 (Deluxe)",
    "duration": 221,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/5786e1b86286cc386722ae62a4f3e6f1/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4a/d7/df/4ad7df3d-f63c-45ed-e6be-6a808e5101b6/075679884763.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/3dd55d0ccc147f9a655048af71275a345ad54c7f",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/6/a/9/0/6a96f191b6491231cb7d5d2209814486.mp3?hdnea=exp=1792672661~acl=/api/1/1/6/a/9/0/6a96f191b6491231cb7d5d2209814486.mp3*~data=user_id=0,application_id=42~hmac=acba9f221087b3400a79f82ae80d6dbb4bc0315e1c7f7e17dd171c292e456c88",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:0uxSUdBrJy9Un0EYoBowng"
+   "spotifyUri": "spotify:track:0uxSUdBrJy9Un0EYoBowng",
+   "genre": "Hip-Hop/Rap"
   },
   {
    "id": "henz-85",
@@ -1019,11 +1019,11 @@
    "artist": "A$AP Rocky, Imogen Heap, Clams Casino",
    "album": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
    "duration": 191,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/751bb2a3d4857d5233fbdf71e00a9980/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/64/8f/5f/648f5f68-3ffa-e33d-39d0-50210803074f/196871388221.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/ba82428dcfd80a3e3e86c62935e41831280be80c",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/c/c/5/0/cc50489e0ad217c8e5256b29b3c2bfd8.mp3?hdnea=exp=1792672662~acl=/api/1/1/c/c/5/0/cc50489e0ad217c8e5256b29b3c2bfd8.mp3*~data=user_id=0,application_id=42~hmac=1686b7112cd6ce233dd2a280eaea31d52a970b220b27883e3972b5c45ad39b33",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:3jnYCrF7UpSYAwwy1URW8d"
+   "spotifyUri": "spotify:track:3jnYCrF7UpSYAwwy1URW8d",
+   "genre": "Rap"
   },
   {
    "id": "henz-86",
@@ -1031,11 +1031,11 @@
    "artist": "PARTYNEXTDOOR",
    "album": "PARTYNEXTDOOR",
    "duration": 123,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/c68b34616f81d2f02e762dcf656d5c2e/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/96/4c/5b/964c5b90-4ebb-92be-16c5-3a8ce8b2f3bb/27495.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/72d9eeae454a8d8ef5d8fbad09e4fab223d08939",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/1/a/e/0/1ae1ea8629a1ad8698e6e42bcad86dad.mp3?hdnea=exp=1792672663~acl=/api/1/1/1/a/e/0/1ae1ea8629a1ad8698e6e42bcad86dad.mp3*~data=user_id=0,application_id=42~hmac=dec762691522e620d28bc6246d46e53c39a7b45e06f7c10e2dd5f40a1e5415f6",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:236P5yLtfnHgTMxevc0q6F"
+   "spotifyUri": "spotify:track:236P5yLtfnHgTMxevc0q6F",
+   "genre": "R&B/Soul"
   },
   {
    "id": "henz-87",
@@ -1045,9 +1045,9 @@
    "duration": 210,
    "cover": "https://cdn-images.dzcdn.net/images/cover/8848c366508735e513fed3e2c6f2a6d1/500x500-000000-80-0-0.jpg",
    "src": "https://p.scdn.co/mp3-preview/1b432933057dcac2c9acc53ec52bdee8b37a8b6f",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/9/8/e/0/98ee72abb5acff9a222187de73cd6802.mp3?hdnea=exp=1792672664~acl=/api/1/1/9/8/e/0/98ee72abb5acff9a222187de73cd6802.mp3*~data=user_id=0,application_id=42~hmac=d8e5b6c96c4e8a208432d62ec03d8d5c0e74b0f8e97f88dd9dc0501e3df5dd5f",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:68qeaZhtMZ6abrJCYt6nQn"
+   "spotifyUri": "spotify:track:68qeaZhtMZ6abrJCYt6nQn",
+   "genre": "Hip Hop"
   },
   {
    "id": "henz-88",
@@ -1057,9 +1057,9 @@
    "duration": 169,
    "cover": "https://cdn-images.dzcdn.net/images/cover/0ae8e05f734268cbe5aae06f96f2b1f2/500x500-000000-80-0-0.jpg",
    "src": "https://p.scdn.co/mp3-preview/a7c290528a619bd534452b818c8d437b99a8b820",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/5/1/6/0/5163a83924eab2fb9cfeac1aab09354c.mp3?hdnea=exp=1792672665~acl=/api/1/1/5/1/6/0/5163a83924eab2fb9cfeac1aab09354c.mp3*~data=user_id=0,application_id=42~hmac=26762b21c02e97a63afdfb95766e087605f9e489a0dfbf8346eaedaa6330e25f",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:3yk7PJnryiJ8mAPqsrujzf"
+   "spotifyUri": "spotify:track:3yk7PJnryiJ8mAPqsrujzf",
+   "genre": "Hip Hop"
   },
   {
    "id": "henz-89",
@@ -1067,11 +1067,11 @@
    "artist": "Metro Boomin, Travis Scott, Young Thug",
    "album": "HEROES & VILLAINS",
    "duration": 195,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/862ab860ff69c30deeb5979db6e46b62/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/82/f7/2b/82f72ba4-524c-fc9d-cb8c-5a96d2ddf536/22UM1IM35267.rgb.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/21a37a02779c9edc02d1b690d70779024f540793",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/5/b/1/0/5b18f175688832a0c334eb1093b7c41c.mp3?hdnea=exp=1792672666~acl=/api/1/1/5/b/1/0/5b18f175688832a0c334eb1093b7c41c.mp3*~data=user_id=0,application_id=42~hmac=1043f0fa739a46055f8ce735b82498f7d4785d1d30d697b6b0a83ba03f75a0cf",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:5wG3HvLhF6Y5KTGlK0IW3J"
+   "spotifyUri": "spotify:track:5wG3HvLhF6Y5KTGlK0IW3J",
+   "genre": "Hip-Hop/Rap"
   },
   {
    "id": "henz-90",
@@ -1079,11 +1079,11 @@
    "artist": "PARTYNEXTDOOR, Drake, Yebba",
    "album": "$ome $exy $ongs 4 U",
    "duration": 195,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/2f2f706059ac2ada8587fa0799ff8fbd/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/65/a1/d8/65a1d809-dede-adf4-d85e-964070e77f58/808391285897.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/85c8b25d3d820108b52260abf1498bbc24e5eb4c",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/4/9/1/0/491e6bd2e0cfa440bf53ab3f40b9fffc.mp3?hdnea=exp=1792672667~acl=/api/1/1/4/9/1/0/491e6bd2e0cfa440bf53ab3f40b9fffc.mp3*~data=user_id=0,application_id=42~hmac=92c7eedf075c36c38de542756996d8dc125067c786fb91b6f1aaa5a5d07d5311",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:0NUqi0ps17YpLUC3kgsZq0"
+   "spotifyUri": "spotify:track:0NUqi0ps17YpLUC3kgsZq0",
+   "genre": "R&B/Soul"
   },
   {
    "id": "henz-91",
@@ -1091,11 +1091,11 @@
    "artist": "PARTYNEXTDOOR",
    "album": "PARTYNEXTDOOR",
    "duration": 99,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/3046cd9e199255a7c9f64bf0f1cb246e/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3c/25/65/3c256521-476e-af50-e9a1-6aacbe34b441/93624942191.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/89f708c823dc7d3827d2f063b9075b51ec47f446",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/7/6/1/0/761671e3b5d89dc2039bcf53a48ec231.mp3?hdnea=exp=1792672668~acl=/api/1/1/7/6/1/0/761671e3b5d89dc2039bcf53a48ec231.mp3*~data=user_id=0,application_id=42~hmac=58e6efdf30259b3df2e88147609b8f73acf6db9da3149569f5e4001539a06020",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:5fEB6ZmVkg63GZg9qO86jh"
+   "spotifyUri": "spotify:track:5fEB6ZmVkg63GZg9qO86jh",
+   "genre": "R&B/Soul"
   },
   {
    "id": "henz-92",
@@ -1103,11 +1103,11 @@
    "artist": "Don Toliver, Justin Bieber, Future",
    "album": "Love Sick",
    "duration": 238,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/faef1bc1eccb096f308f3ed15e571eb1/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2e/82/ad/2e82adaa-162d-80cd-59c0-a415b3ccf268/075679699916.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/9227b4c8bdff430d5e31d49890352978f9779c87",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/d/b/2/0/db2bc8bf00d1ee09f13a0c2ec105eccb.mp3?hdnea=exp=1792672669~acl=/api/1/1/d/b/2/0/db2bc8bf00d1ee09f13a0c2ec105eccb.mp3*~data=user_id=0,application_id=42~hmac=de93f1fee5e4a91e481ba31b22bca64625ac7fc712d0304d4b33fcb5bf8bc8a2",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:52NGJPcLUzQq5w7uv4e5gf"
+   "spotifyUri": "spotify:track:52NGJPcLUzQq5w7uv4e5gf",
+   "genre": "Hip-Hop/Rap"
   },
   {
    "id": "henz-93",
@@ -1115,11 +1115,11 @@
    "artist": "Future",
    "album": "HNDRXX",
    "duration": 266,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/bf48c4a628e2f4e92f80dff32275a237/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/16/91/9e/16919e50-2709-9882-fab2-415b73cbebe6/886446376912.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/4d691a3f52d5d7c6f03a14c0a93cb723727204f4",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/c/c/3/0/cc347b08a62b63d3a5aa04edb62a980a.mp3?hdnea=exp=1792672670~acl=/api/1/1/c/c/3/0/cc347b08a62b63d3a5aa04edb62a980a.mp3*~data=user_id=0,application_id=42~hmac=6aa03e8de4c38ed911ad1df2e3afce236b06d71ba1eaa2c3230949dfdaa7b8bd",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:4lH6nENd1y81jp7Yt9lTBX"
+   "spotifyUri": "spotify:track:4lH6nENd1y81jp7Yt9lTBX",
+   "genre": "Hip-Hop/Rap"
   },
   {
    "id": "henz-94",
@@ -1127,11 +1127,11 @@
    "artist": "Future",
    "album": "MIXTAPE PLUTO",
    "duration": 139,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/56d9163fcce6c24b77218dab4ffca4ec/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/51/98/fd519868-11ea-95d8-ca35-13d84a104a57/196872228090.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/eacca233cec8a051122d885d020d2d80f3db13fa",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/c/0/f6cf5952fda5981058bbb17ea7a67dfc.mp3?hdnea=exp=1792672671~acl=/api/1/1/f/6/c/0/f6cf5952fda5981058bbb17ea7a67dfc.mp3*~data=user_id=0,application_id=42~hmac=54327bf94601b9a38bafe056aae438d5f560ff8f2016101682d722e74bed65b4",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:3aCPResPDNae3pXTocGpYe"
+   "spotifyUri": "spotify:track:3aCPResPDNae3pXTocGpYe",
+   "genre": "Hip-Hop/Rap"
   },
   {
    "id": "henz-95",
@@ -1139,11 +1139,11 @@
    "artist": "Metro Boomin, Don Toliver",
    "album": "HEROES & VILLAINS",
    "duration": 192,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/862ab860ff69c30deeb5979db6e46b62/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/82/f7/2b/82f72ba4-524c-fc9d-cb8c-5a96d2ddf536/22UM1IM35267.rgb.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/c99c5ea731e64588dc8f3dbb7655602df5ddf12e",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/5/c/7/0/5c7ec89d3af78a956c27e2cff2536c45.mp3?hdnea=exp=1792672673~acl=/api/1/1/5/c/7/0/5c7ec89d3af78a956c27e2cff2536c45.mp3*~data=user_id=0,application_id=42~hmac=f6d337236151a508d28f15dac011fda03755f5a6b816c1329c93a418e09b942a",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:221qmpQeBNV87sUjQeUTVH"
+   "spotifyUri": "spotify:track:221qmpQeBNV87sUjQeUTVH",
+   "genre": "Hip-Hop/Rap"
   },
   {
    "id": "henz-96",
@@ -1153,9 +1153,9 @@
    "duration": 123,
    "cover": "https://cdn-images.dzcdn.net/images/cover/00cfcb37767537e746f85ac7fe217210/500x500-000000-80-0-0.jpg",
    "src": "https://p.scdn.co/mp3-preview/639c4f051845e218cdbaea28864ec4bc91c95fbc",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/2/8/8/0/288e3286cfe908823b25e06907e9e0de.mp3?hdnea=exp=1792672674~acl=/api/1/1/2/8/8/0/288e3286cfe908823b25e06907e9e0de.mp3*~data=user_id=0,application_id=42~hmac=51dc53d45f60794d925c4f274225582a265c766e7ff600679b68d9bdb369071f",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:7sEnjOJydpPeYjt2csODOj"
+   "spotifyUri": "spotify:track:7sEnjOJydpPeYjt2csODOj",
+   "genre": "R&B"
   },
   {
    "id": "henz-97",
@@ -1163,11 +1163,11 @@
    "artist": "Don Toliver, Yeat",
    "album": "OCTANE",
    "duration": 147,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/123eb0268dfea84370a28c4a2114dc28/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/00/c1/dd/00c1dd09-3f86-7288-01dc-63b9f4262f57/075679599377.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/31f13c83eb97eb8e56e7f352be7712a3f728e56a",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/e/a/7/0/ea71b7522c477159a76c3e0ca9fae8bf.mp3?hdnea=exp=1792672676~acl=/api/1/1/e/a/7/0/ea71b7522c477159a76c3e0ca9fae8bf.mp3*~data=user_id=0,application_id=42~hmac=1cdfb19c217b9c41b74dfd6204c40cb59b52e622ae9c248b8ea8eac5fc2cf651",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:2Ejyg4CavumEr7lFUkk9aF"
+   "spotifyUri": "spotify:track:2Ejyg4CavumEr7lFUkk9aF",
+   "genre": "Hip-Hop/Rap"
   },
   {
    "id": "henz-98",
@@ -1175,11 +1175,11 @@
    "artist": "Frank Ocean",
    "album": "Blonde",
    "duration": 307,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/f798a866107715dd6dc1049e498ce21f/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cd/d3/d0/cdd3d00e-ec53-2e9f-81e2-774c07f5bea9/1827849271625.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/478a51ff059dc1abb20548ac2f3d3d73d75c3cb7",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/5/3/d/0/53d58b41cb6ec79a4f9a17ffa346ed37.mp3?hdnea=exp=1792672677~acl=/api/1/1/5/3/d/0/53d58b41cb6ec79a4f9a17ffa346ed37.mp3*~data=user_id=0,application_id=42~hmac=2cefd33501b0bc0afca7010af3160c01f864c3f5315f7de295355a21dfd0e768",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:7eqoqGkKwgOaWNNHx90uEZ"
+   "spotifyUri": "spotify:track:7eqoqGkKwgOaWNNHx90uEZ",
+   "genre": "Pop"
   },
   {
    "id": "henz-99",
@@ -1187,11 +1187,11 @@
    "artist": "Lil Tecca",
    "album": "Dark Thoughts",
    "duration": 137,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/60a2a934343f79bc072539eac02526f0/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/35/11/923511fa-3849-9670-d030-0500d391e818/25UMGIM81030.rgb.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/d17c19f87cc183b8519a36080a70355078294fe8",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/3/3/a/0/33a1fcaf2218102dd3bbdbf5588837b8.mp3?hdnea=exp=1792672679~acl=/api/1/1/3/3/a/0/33a1fcaf2218102dd3bbdbf5588837b8.mp3*~data=user_id=0,application_id=42~hmac=1cef94d7b2578d40a51f124022604960811e502b189d4a7793bcf9fd281fba59",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:7lv4SU2ATVjQJp6Jia0x7N"
+   "spotifyUri": "spotify:track:7lv4SU2ATVjQJp6Jia0x7N",
+   "genre": "Hip-Hop/Rap"
   },
   {
    "id": "henz-100",
@@ -1199,11 +1199,11 @@
    "artist": "Drake",
    "album": "$ome $exy $ongs 4 U",
    "duration": 241,
-   "cover": "https://cdn-images.dzcdn.net/images/cover/2f2f706059ac2ada8587fa0799ff8fbd/500x500-000000-80-0-0.jpg",
+   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/65/a1/d8/65a1d809-dede-adf4-d85e-964070e77f58/808391285897.jpg/600x600bb.jpg",
    "src": "https://p.scdn.co/mp3-preview/d8905212ce5c04f3e5c9a299e62810ef0067975c",
-   "srcBackup": "https://cdnt-preview.dzcdn.net/api/1/1/6/7/2/0/6727470b7672c4332d0dafadf1b1a8dc.mp3?hdnea=exp=1792672681~acl=/api/1/1/6/7/2/0/6727470b7672c4332d0dafadf1b1a8dc.mp3*~data=user_id=0,application_id=42~hmac=00e23b2219252ae82d2d523e4e083abdb1e1e62d1914479aee1f900b8d2c11e3",
    "source": "spotify-playlist",
-   "spotifyUri": "spotify:track:2u9S9JJ6hTZS3Vf22HOZKg"
+   "spotifyUri": "spotify:track:2u9S9JJ6hTZS3Vf22HOZKg",
+   "genre": "R&B/Soul"
   }
  ]
 }
