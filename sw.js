@@ -1,4 +1,4 @@
-const CACHE_NAME = 'nxt-tunes-v8';
+const CACHE_NAME = 'nxt-tunes-v10';
 const APP_SHELL = ['./', './index.html', './manifest.webmanifest', './icon.svg', './playlist.json', './beach.json', './songs-db.json', './icon-glass.svg', './icon-192.png', './icon-512.png', './apple-touch-icon.png'];
 
 self.addEventListener('install', (event) => {
@@ -25,7 +25,7 @@ self.addEventListener('fetch', (event) => {
         if (cached) return cached;
         return fetch(event.request).then((res) => {
           const clone = res.clone();
-          caches.open('nxt-audio-v8').then((c) => c.put(event.request, clone));
+          caches.open('nxt-audio-v10').then((c) => c.put(event.request, clone));
           return res;
         }).catch(() => cached);
       })
