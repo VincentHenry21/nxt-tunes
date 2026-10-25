@@ -1,9 +1,9 @@
-const CACHE_NAME = 'nxt-tunes-v10';
+const CACHE_NAME = 'nxt-tunes-v11';
 const APP_SHELL = ['./', './index.html', './manifest.webmanifest', './icon.svg', './playlist.json', './beach.json', './songs-db.json', './icon-glass.svg', './icon-192.png', './icon-512.png', './apple-touch-icon.png'];
 
 self.addEventListener('install', (event) => {
   event.waitUntil(
-    caches.open(CACHE_NAME).then((cache) => cache.addAll(APP_SHELL)).then(() => self.skipWaiting())
+    caches.open(CACHE_NAME).then((cache) => Promise.all(APP_SHELL.map((u) => cache.add(u).catch(() => {})))).then(() => self.skipWaiting())
   );
 });
 
@@ -25,7 +25,7 @@ self.addEventListener('fetch', (event) => {
         if (cached) return cached;
         return fetch(event.request).then((res) => {
           const clone = res.clone();
-          caches.open('nxt-audio-v10').then((c) => c.put(event.request, clone));
+          caches.open('nxt-audio-v11').then((c) => c.put(event.request, clone));
           return res;
         }).catch(() => cached);
       })
@@ -40,6 +40,17 @@ self.addEventListener('fetch', (event) => {
         caches.open(CACHE_NAME).then((c) => c.put(event.request, clone));
         return res;
       }).catch(() => caches.match(event.request).then((cached) => cached || caches.match('./index.html')))
+    );
+    return;
+  }
+
+  if (url.pathname.endsWith('.json')) {
+    event.respondWith(
+      fetch(event.request).then((res) => {
+        const clone = res.clone();
+        caches.open(CACHE_NAME).then((c) => c.put(event.request, clone));
+        return res;
+      }).catch(() => caches.match(event.request))
     );
     return;
   }
