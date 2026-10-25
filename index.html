@@ -404,7 +404,6 @@ let streamTracks = JSON.parse(localStorage.getItem('pulse_streams') || '[]');
 let libraryTracks = [];
 let listViewTracks = [];
 let deferredPrompt = null;
-let audioCtx = null, analyser = null, sourceNode = null, vizTimer = null;
 let playSeq = 0;
 
 function fmt(sec){ if(!sec || isNaN(sec)) return '0:00'; sec=Math.floor(sec); return Math.floor(sec/60)+':'+String(sec%60).padStart(2,'0'); }
@@ -515,21 +514,6 @@ async function deleteOfflineTrack(track){
   }catch(e){ toast('Delete failed',true); }
 }
 
-function initVisualizer(){
-  if(audioCtx) return;
-  try{
-    audioCtx=new (window.AudioContext||window.webkitAudioContext)();
-    analyser=audioCtx.createAnalyser(); analyser.fftSize=64;
-    sourceNode=audioCtx.createMediaElementSource(audio);
-    sourceNode.connect(analyser); analyser.connect(audioCtx.destination);
-    drawViz();
-  }catch(e){ const c=$('#viz'); if(c) c.style.display='none'; const n=$('#vizNote'); if(n) n.textContent='Visualizer is not available for this source.'; }
-}
-function drawViz(){
-  const canvas=$('#viz'); if(!canvas||!analyser) return; const ctx=canvas.getContext('2d'); const data=new Uint8Array(analyser.frequencyBinCount);
-  function loop(){ if(!analyser) return; analyser.getByteFrequencyData(data); ctx.clearRect(0,0,canvas.width,canvas.height); ctx.fillStyle='#e8232a'; const bw=canvas.width/data.length; data.forEach((v,i)=>{ const h=(v/255)*canvas.height; ctx.fillRect(i*bw+1, canvas.height-h, bw-2, h); }); vizTimer=requestAnimationFrame(loop); }
-  if(vizTimer) cancelAnimationFrame(vizTimer); loop();
-}
 
 const freshCache={};
 async function freshPreview(track){
@@ -598,7 +582,7 @@ async function playCurrent(){
     else if(track.type==='deezer'||track.type==='stream'||track.type==='henz'||track.type==='beach'){ audio.crossOrigin='anonymous'; }
     else { audio.removeAttribute('crossorigin'); }
     if(audio.src!==src) audio.src=src;
-    try{ await audio.play(); if(isBlob||track.offline||['deezer','henz','beach','local'].includes(track.type)) initVisualizer(); if(audioCtx&&audioCtx.state==='suspended') audioCtx.resume(); }catch(e){ toast('Playback blocked. Tap play again.',true); }
+    try{ await audio.play(); }catch(e){ toast('Playback blocked. Tap play again.',true); }
   }
   $('#playerCover').src=track.cover||'icon.svg'; $('#playerTitle').textContent=track.title; $('#playerArtist').textContent=track.artist+(ytMode?' · YouTube':'');
   $('#npCover').src=track.cover||'icon.svg'; $('#npTitle').textContent=track.title; $('#npArtist').textContent=track.artist+(track.genre?' · '+track.genre:'');
